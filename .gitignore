@@ -3,6 +3,7 @@ _epub/
 _pdf/
 _site/
 _temp/
+public/
 
 # EleventFetch cache directory
 .cache
@@ -42,4 +43,10 @@ pids
 .DS_Store
 desktop.ini
 thumbs.db
+
+# VSCode files
+.vscode/*
+.history
+.vsix
+
 
