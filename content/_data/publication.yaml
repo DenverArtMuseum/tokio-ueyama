@@ -64,6 +64,14 @@ contributor:
     affiliation: University of California, Merced
     bio: 
 
+  - id: cheinrich
+    type: secondary
+    first_name: Christoph
+    last_name: Heinrich
+    title: Frederick and Jan Mayer Director
+    affiliation: Denver Art Museum
+    bio: 
+
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
