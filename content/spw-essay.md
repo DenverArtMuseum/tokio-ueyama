@@ -4,12 +4,8 @@ title: Landscape as Existential Negotiation
 subtitle: (Re)Considering Paintings of Place in Japanese American Incarceration Camps
 layout: essay
 order: 110  
-classes:
-  - 
 contributor:
   - id: spwang  
-abstract: |
-  
 ---
 
 When I first encountered several paintings of a similar coastal scene by Tokio Ueyama, I admittedly did not regard them as something particularly special. Sure, seeing multiple versions of the same rock formations across a watercolor sketchbook, a small oil, and a larger finished oil painting did generate a mental note: this must be a meaningful place for the artist. I later learned a few factors that made this series of landscapes stand out even more from the hundreds of artworks I have seen by this artist: the smaller oil, dated February 1944, was created at the Amache incarceration camp where Ueyama was imprisoned during World War II, and the scenery features the coast of Katsuura (勝浦), a part of Nachikatsuura (那智勝浦) in the southeast part of Wakayama Prefecture (和歌山県) in Japan, the same prefecture where Ueyama was born and raised.[^1]

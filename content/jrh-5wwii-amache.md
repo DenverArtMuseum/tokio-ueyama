@@ -4,12 +4,8 @@ title: Tokio Ueyama
 subtitle: World War II and Amache, 1942–45
 layout: essay
 order: 90
-classes:
-  - 
 contributor:
   - id: jrhenneman  
-abstract: |
-  
 ---
 
 Japan’s attack on Pearl Harbor on December 7, 1941, drew the United States into World War II. Wartime hysteria, compounded by preexisting “racial discrimination, economic greed, and . . . unfounded fear,” ultimately led to President Franklin D. Roosevelt’s Executive Order No. 9066, signed on February 19, 1942, which “authorized federal troops to exclude anyone from any location as deemed necessary for national security.”[^1] While not explicitly stated, the order was aimed at people of Japanese descent, immigrants and citizens alike, living in western states. Soon, they would be forced from their homes. Most Japanese complied with imposed restrictions, which included curfews, travel restrictions, and frozen bank accounts, and ultimately with forced relocation, hoping that in a time of intense patriotism such submission would signal their loyalty.[^2]

@@ -4,12 +4,8 @@ title: Tokio Ueyama
 subtitle: California, Oregon, Mexico, and Japan, 1920s–30s
 layout: essay
 order: 80
-classes:
-  - 
 contributor:
   - id: jrhenneman  
-abstract: |
-  
 ---
 
 Upon returning to Philadelphia, Tokio Ueyama continued his studies at PAFA and finished in 1921. After his return to Los Angeles in 1922, aged thirty-two, he quickly became involved with an art community in Little Tokyo, the area of downtown Los Angeles around East First Street populated by people of Japanese descent.[^1] Over the next two decades, Ueyama exhibited regularly up and down the West Coast and, from January 1927 to August 1941, worked at the Bunrindo bookstore located at 303 East First Street.

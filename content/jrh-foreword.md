@@ -4,12 +4,8 @@ title: Note from the Director of the Petrie Institute of Western American Art
 subtitle: 
 layout: essay
 order: 40
-classes:
-  - 
 contributor:
   - id: jrhenneman  
-abstract: |
-  
 ---
 
 Since its inception in 2001, the Petrie Institute of Western American Art has embraced an expansive definition of the West that encompasses its diversity of people, landscapes, wildlife, and aesthetics from the early nineteenth century to the present. The American West has long been a place of inspiration and artistic production (well before the arrival of any Europeans), though its borders, boundaries, and definitions continue to shift.

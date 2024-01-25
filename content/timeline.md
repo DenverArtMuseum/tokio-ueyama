@@ -4,12 +4,6 @@ title: The Life of Tokio Ueyama
 subtitle: 
 layout: essay
 order: 120  
-classes:
-  - 
-contributor:
-  - id:  
-abstract: |
-  
 ---
 **1889–1908, Early Life**
 
