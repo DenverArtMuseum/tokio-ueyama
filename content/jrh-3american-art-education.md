@@ -1,15 +1,10 @@
 ---
-label: 
 title: Tokio Ueyama
 subtitle: American Art Education, 1909–21
 layout: essay
 order: 70
-classes:
-  - 
 contributor:
   - id: jrhenneman  
-abstract: |
-  
 ---
 
 Upon his arrival in the United States, Tokio Ueyama settled in San Francisco and enrolled at the California School of Design from November 1909 to February 1910.[^1] Very soon, however, he moved to Los Angeles and enrolled in the painters’ course at the University of Southern California, graduating with a degree in fine arts in 1914. Among a class of twelve students, ten women and two men, Ueyama was the only person of Japanese descent and the only person enrolled in the painters’ course.[^2] A large binder dated October 1916 filled with extensive typed notes, artists’ quotes, and highly detailed anatomical drawings suggests he independently pursued his studies of historical artists and the human body.[^3]

@@ -1,32 +1,422 @@
 object_display_order:
   - artist
   - year
-  - dimensions
   - medium
-  - location
+  - dimensions
+  - credit
 
 object_list:
 
-  - id: 1
-    title: Human Erosion in California / Migrant Mother
-    artist: Dorothea Lange
-    year: 1936
-    medium: Gelatin silver print
-    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
-    location: J. Paul Getty Museum
-    link:  https://www.getty.edu/art/collection/object/108E2E
+  - id: ptl-26191
     figure:
-      - id: "cat-1"
+      - id: "ptl-26191"
+    artist: Tokio Ueyama
+    title: Pennsylvania Academy of the Fine Arts Cresson scholarship
+    year: May 1919
+    medium: Ink on paper
+    dimensions: 9 × 11 in.
+    credit: Bunkado, Inc.
 
-  - id: 2
-    title: Bud Fields and His Wife Ivy, and His Daughter Ellen, Hale County, Alabama
-    artist: Walker Evans
-    year: 1936
-    medium: Gelatin silver print
-    dimensions: 19.4 x 24.4 (7 <sup>5</sup>⁄<sub>8</sub> x 9 <sup>5</sup>⁄<sub>8</sub> in.)
-    location: J. Paul Getty Museum
-    link: https://www.getty.edu/art/collection/object/104A2K
+  - id: ptl-26158
     figure:
-      - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
+      - id: "ptl-26158"
+    artist: Tokio Ueyama
+    title: Study of Sculpture Bust
+    year: 1919
+    medium: Oil on canvas
+    dimensions: 21 × 16 1/2 in.
+    credit: Private collection
+
+  - id: ptl-26173
+    figure:
+      - id: "ptl-26173"
+    artist: Tokio Ueyama
+    title: The Castle in Naples (Castel dell'Ovo, Naples)
+    year: 1920
+    medium: Watercolor on paper
+    dimensions: 8 1/2 × 11 in.
+    credit: Private collection
+
+  - id: ptl-26192
+    figure:
+      - id: "ptl-26192"
+    artist: Tokio Ueyama
+    title: (notebook with addresses and journal entries)
+    year: 1920s
+    medium: Ink on paper
+    dimensions: 4 1/2 × 5 in.
+    credit: Bunkado, Inc.
+
+  - id: ptl-26159
+    figure:
+      - id: "ptl-26159"
+    artist: Tokio Ueyama
+    title: Self Portrait
+    year: 1924
+    medium: Oil on canvas
+    dimensions: 18 1/2 × 13 3/4 in.
+    credit: Susie and David Ishibashi
+
+  - id: ptl-26163
+    figure:
+      - id: "ptl-26163"
+    artist: Tokio Ueyama
+    title: Still Life
+    year: 1924
+    medium: Oil on canvas
+    dimensions: 24 × 30 in.
+    credit: Private collection
+
+  - id: ptl-26164
+    figure:
+      - id: "ptl-26164"
+    artist: Tokio Ueyama
+    title: The Nude
+    year: 1924
+    medium: Oil on canvas
+    dimensions: 41 1/2 × 36 in.
+    credit: Private collection
+
+  - id: ptl-26165
+    figure:
+      - id: "ptl-26165"
+    artist: Tokio Ueyama
+    title: Untitled (Landscape)
+    year: 1924
+    medium: Oil on canvas
+    dimensions: 32 × 40 1/2 in.
+    credit: Private collection
+
+  - id: ptl-26166
+    figure:
+      - id: "ptl-26166"
+    artist: Tokio Ueyama
+    title: Untitled (Taxco, Mexico)
+    year: 1925
+    medium: Oil on canvas
+    dimensions: 25 1/4 × 30 in.
+    credit: Private collection
+
+  - id: ptl-26160
+    figure:
+      - id: "ptl-26160"
+    artist: Tokio Ueyama
+    title: At Cuernavaca
+    year: 1925
+    medium: Oil on canvas
+    dimensions: 8 3/4 × 10 in.
+    credit: Private collection
+
+  - id: ptl-26167
+    figure:
+      - id: "ptl-26167"
+    artist: Tokio Ueyama
+    title: Portrait in Black (Mrs. Ueyama)
+    year: 1928
+    medium: Oil on canvas
+    dimensions: 29 1/2 × 24 in.
+    credit: Private collection
+
+  - id: ptl-26187
+    figure:
+      - id: "ptl-26187"
+    artist: Tokio Ueyama
+    title: Monterey (Point Lobos, Monterey, California)
+    year: 1929
+    medium: Oil on canvas
+    dimensions: 29 7/8 × 35 1/2 in.
+    credit: Bunkado, Inc.
+
+  - id: ptl-26168
+    figure:
+      - id: "ptl-26168"
+    artist: Tokio Ueyama
+    title: Red Rock Canyon
+    year: 1931
+    medium: Oil on canvas
+    dimensions: 42 × 42 in.
+    credit: Private collection
+
+  - id: ptl-26188
+    figure:
+      - id: "ptl-26188"
+    artist: Tokio Ueyama
+    title: Untitled (Japanese village)
+    year: 1937
+    medium: Oil on board
+    dimensions: 8 3/4 × 10 1/2 in.
+    credit: Bunkado, Inc.
+
+  - id: ptl-26193
+    figure:
+      - id: "ptl-26193"
+    artist: Tokio Ueyama
+    title: (Sketchbook from Japan)
+    year: 1937
+    medium: Watercolor on paper
+    dimensions: 2 1/2 × 10 in.
+    credit: Bunkado, Inc.
+
+  - id: ptl-26189
+    figure:
+      - id: "ptl-26189"
+    artist: Tokio Ueyama
+    title: Untitled (Tori Gate)
+    year: 1937
+    medium: Oil on board
+    dimensions: 8 3/4 × 10 1/2 in.
+    credit: Bunkado, Inc.
+
+  - id: ptl-26169
+    figure:
+      - id: "ptl-26169"
+    artist: Tokio Ueyama
+    title: Katsuura
+    year: 1940
+    medium: Oil on canvas
+    dimensions: 38 × 43 1/2 in.
+    credit: Private collection
+
+  - id: ptl-26150
+    figure:
+      - id: "ptl-26150"
+    artist: Tokio Ueyama
+    title: The Evacuee
+    year: 1942
+    medium: Oil on canvas
+    dimensions: 24 × 30 1/4 in.
+    credit: 
+
+  - id: ptl-26154
+    figure:
+      - id: "ptl-26154"
+    artist: Tokio Ueyama
+    title: Untitled (Portrait of Tomoye Sawa [Gakuhajo] with biwa)
+    year: 1943
+    medium: Oil on canvas
+    dimensions: 25 × 19 in.
+    credit: 
+
+  - id: ptl-26194
+    figure:
+      - id: "ptl-26194"
+    artist: Tokio Ueyama
+    title: Untitled (Amache Still Life)
+    year: 1943
+    medium: Oil on canvas
+    dimensions: 30 1/2 × 26 in.
+    credit: Bunkado, Inc.
+
+
+  - id: ptl-26184
+    figure:
+      - id: "ptl-26184"
+    artist: Tokio Ueyama
+    title: Untitled (Portrait of a soldier)
+    year: February 12, 1943
+    medium: Drawing on paper
+    dimensions: 25 × 19 in.
+    credit: Private collection
+
+  - id: ptl-26190
+    figure:
+      - id: "ptl-26190"
+    artist: Tokio Ueyama
+    title: Self Portrait
+    year: July 1943
+    medium: Oil on canvas
+    dimensions: 18 × 16 in.
+    credit: Bunkado, Inc.
+
+  - id: ptl-26171
+    figure:
+      - id: "ptl-26171"
+    artist: Tokio Ueyama
+    title: Untitled (Amache sunflowers)
+    year: August 1943
+    medium: Oil on canvas taped on Celotex(?)
+    dimensions: 28 1/2 × 22 1/2 in.
+    credit: Private collection
+
+  - id: ptl-26151
+    figure:
+      - id: "ptl-26151"
+    artist: Tokio Ueyama
+    title: Untitled (barracks with pond)
+    year: 1944
+    medium: Oil on canvas
+    dimensions: 20 × 26 in.
+    credit: 
+
+  - id: ptl-26152
+    figure:
+      - id: "ptl-26152"
+    artist: Tokio Ueyama
+    title: Untitled (barracks with basketball hoops)
+    year: 1944
+    medium: Oil on canvas
+    dimensions: 18 × 24 in.
+    credit: 
+
+  - id: ptl-26161
+    figure:
+      - id: "ptl-26161"
+    artist: Tokio Ueyama
+    title: Untitled (Horse and barn)
+    year: October 1944
+    medium: Oil on Newton artist board
+    dimensions: 15 3/4 × 19 3/4 in
+    credit: Private collection
+
+  - id: ptl-26162-1-15
+    figure:
+      - id: "ptl-26162-1-15"
+    artist: Tokio Ueyama
+    title: Hand polished stones (set of 15)
+    year: 1943–44
+    medium: Various polished stones
+    dimensions: 
+    credit: Private collection
+
+  - id: ptl-26175
+    figure:
+      - id: "ptl-26175"
+    artist: Tokio Ueyama
+    title: Untitled (Amache landscape with fields)
+    year: 1943–44
+    medium: Pastel on paper
+    dimensions: 17 × 19 1/2 in.
+    credit: Private collection
+
+  - id: ptl-26172
+    figure:
+      - id: "ptl-26172"
+    artist: Tokio Ueyama
+    title: Untitled (Amache portrait)
+    year: January 17, 1944
+    medium: Oil on unstretched canvas
+    dimensions: 19 1/2 × 17 in.
+    credit: Private collection
+
+  - id: ptl-26170
+    figure:
+      - id: "ptl-26170"
+    artist: Tokio Ueyama
+    title: Untitled (Katsuura coast)
+    year: February 1944
+    medium: Oil on board
+    dimensions: 16 × 20 in.
+    credit: Private collection
+
+  - id: ptl-26176
+    figure:
+      - id: "ptl-26176"
+    artist: Tokio Ueyama
+    title: Untitled (Amache landscape with barrack and tower)
+    year: April 1944
+    medium: Pastel on paper
+    dimensions: 9 × 12 in.
+    credit: Private collection
+
+  - id: ptl-26174
+    figure:
+      - id: "ptl-26174"
+    artist: Tokio Ueyama
+    title: Untitled (Granada landscape)
+    year: November 1944
+    medium: Pastel on paper
+    dimensions: 8 1/2 × 11 1/2 in.
+    credit: Private collection
+
+
+  - id: ptl-26177
+    figure:
+      - id: "ptl-26177"
+    artist: Tokio Ueyama
+    title: Untitled (Building and trees)
+    year: 1944
+    medium: Pastel on paper
+    dimensions: 9 × 12 in.
+    credit: Private collection
+
+  - id: ptl-26178
+    figure:
+      - id: "ptl-26178"
+    artist: Tokio Ueyama
+    title: Untitled (Gate and fence)
+    year: 1943–44
+    medium: Drawing on paper
+    dimensions: 12 1/2 × 19 in.
+    credit: Private collection
+
+  - id: ptl-26179
+    figure:
+      - id: "ptl-26179"
+    artist: Tokio Ueyama
+    title: Untitled (Stream and trees)
+    year: 1943–44
+    medium: Drawing on paper
+    dimensions: 12 1/2 × 18 in.
+    credit: Private collection
+
+  - id: ptl-26181
+    figure:
+      - id: "ptl-26181"
+    artist: Tokio Ueyama
+    title: Untitled (Granada Outbuildings)
+    year: 1943–44
+    medium: Drawing on paper
+    dimensions: 12 1/2 × 19 in.
+    credit: Private collection
+
+  - id: ptl-26182
+    figure:
+      - id: "ptl-26182"
+    artist: Tokio Ueyama
+    title: Untitled (Amache still life)
+    year: 1943–44
+    medium: Drawing on paper
+    dimensions: 15 × 18 in.
+    credit: Private collection
+
+  - id: ptl-26185
+    figure:
+      - id: "ptl-26185"
+    artist: Tokio Ueyama
+    title: Untitled (Portrait of a girl)
+    year: 1943-44
+    medium: Drawing on paper
+    dimensions: 19 × 12 1/2 in.
+    credit: Private collection
+
+  - id: ptl-26186
+    figure:
+      - id: "ptl-26186"
+    artist: Tokio Ueyama
+    title: Untitled (Portrait of a man with glasses)
+    year: 1943–44
+    medium: Drawing on paper
+    dimensions: 19 × 12 1/2 in.
+    credit: Private collection
+
+  - id: ptl-26183
+    figure:
+      - id: "ptl-26183"
+    artist: Tokio Ueyama
+    title: Untitled (Amache still life with fish and lemon)
+    year: 1942–45
+    medium: Drawing on paper
+    dimensions: 19 × 25 in.
+    credit: Private collection
+
+  - id: ptl-26153
+    figure:
+      - id: "ptl-26153"
+    artist: Tokio Ueyama
+    title: Desert Brush
+    year: March 1945
+    medium: Oil on canvas
+    dimensions: 15 3/4 × 19 in.
+    credit: TBD
+
+
