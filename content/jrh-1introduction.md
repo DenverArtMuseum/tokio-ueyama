@@ -4,12 +4,9 @@ title: Tokio Ueyama
 subtitle: Introduction
 layout: essay
 order: 50
-classes:
-  - 
 contributor:
   - id: jrhenneman  
 abstract: |
-  
 ---
 
 Two self-portraits bracket this exhibition. The Japanese-born artist Tokio Ueyama (pronounced *oo-eh-yama*, 1889–1954) painted the first in 1924 around age thirty-five. In it, he wears a collarless white button-up shirt open at the neck, the informality of which echoes his loosely brushed-back black hair. A nude female sculpture hovers behind his right shoulder, a testament to the figure of the human body that inspired him. A few years earlier, Ueyama had completed his academic training at the prestigious Pennsylvania Academy of the Fine Arts (PAFA) and completed a tour of Spain, France, and Italy. He completed this work before his trip to Mexico during the summer of 1925, where he met artists including Diego Rivera, Jean Charlot, and probably Edward Weston. For years, Ueyama participated in exhibitions up and down the West Coast and helped organize art groups based in Little Tokyo, Los Angeles. In retrospect, it is easy to read this self-portrait as one of a skilled artist looking curiously and confidently at a world of opportunity.

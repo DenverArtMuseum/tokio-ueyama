@@ -4,12 +4,8 @@ title: Tokio Ueyama
 subtitle: Early Life, 1889–1908, and the Exclusionary Period
 layout: essay
 order: 60
-classes:
-  - 
 contributor:
   - id: jrhenneman  
-abstract: |
-  
 ---
 
 Born in 1889, Tokio Ueyama spent the first eighteen years of his life in Japan. He left in 1908 and arrived in the United States during the Exclusionary Period (1882–1952), called such because of immigration restrictions aimed at people of Asian descent, who were barred from becoming naturalized American citizens.[^1] Chinese immigrants were the first to arrive in large groups in the US beginning in the 1840s. Anti-Chinese sentiment eventually resulted in the 1882 Chinese Exclusion Act, the first law restricting immigration to the US.[^2]
