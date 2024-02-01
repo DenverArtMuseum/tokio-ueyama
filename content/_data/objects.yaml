@@ -7,15 +7,6 @@ object_display_order:
 
 object_list:
 
-  - id: ptl-26191
-    figure:
-      - id: "ptl-26191"
-    artist: Tokio Ueyama
-    title: Pennsylvania Academy of the Fine Arts Cresson scholarship
-    year: May 1919
-    medium: Ink on paper
-    dimensions: 9 × 11 in.
-    credit: Bunkado, Inc.
 
   - id: ptl-26158
     figure:
@@ -27,6 +18,16 @@ object_list:
     dimensions: 21 × 16 1/2 in.
     credit: Private collection
 
+  - id: ptl-26191
+    figure:
+      - id: "ptl-26191"
+    artist: Tokio Ueyama
+    title: Pennsylvania Academy of the Fine Arts Cresson scholarship
+    year: May 1919
+    medium: Ink on paper
+    dimensions: 9 × 11 in.
+    credit: Bunkado, Inc.
+
   - id: ptl-26173
     figure:
       - id: "ptl-26173"
@@ -36,16 +37,6 @@ object_list:
     medium: Watercolor on paper
     dimensions: 8 1/2 × 11 in.
     credit: Private collection
-
-  - id: ptl-26192
-    figure:
-      - id: "ptl-26192"
-    artist: Tokio Ueyama
-    title: (notebook with addresses and journal entries)
-    year: 1920s
-    medium: Ink on paper
-    dimensions: 4 1/2 × 5 in.
-    credit: Bunkado, Inc.
 
   - id: ptl-26159
     figure:
@@ -86,6 +77,16 @@ object_list:
     medium: Oil on canvas
     dimensions: 32 × 40 1/2 in.
     credit: Private collection
+
+  - id: ptl-26192
+    figure:
+      - id: "ptl-26192"
+    artist: Tokio Ueyama
+    title: (notebook with addresses and journal entries)
+    year: 1920s
+    medium: Ink on paper
+    dimensions: 4 1/2 × 5 in.
+    credit: Bunkado, Inc.
 
   - id: ptl-26166
     figure:
@@ -147,16 +148,6 @@ object_list:
     dimensions: 8 3/4 × 10 1/2 in.
     credit: Bunkado, Inc.
 
-  - id: ptl-26193
-    figure:
-      - id: "ptl-26193"
-    artist: Tokio Ueyama
-    title: (Sketchbook from Japan)
-    year: 1937
-    medium: Watercolor on paper
-    dimensions: 2 1/2 × 10 in.
-    credit: Bunkado, Inc.
-
   - id: ptl-26189
     figure:
       - id: "ptl-26189"
@@ -165,6 +156,16 @@ object_list:
     year: 1937
     medium: Oil on board
     dimensions: 8 3/4 × 10 1/2 in.
+    credit: Bunkado, Inc.
+
+  - id: ptl-26193
+    figure:
+      - id: "ptl-26193"
+    artist: Tokio Ueyama
+    title: (Sketchbook from Japan)
+    year: 1937
+    medium: Watercolor on paper
+    dimensions: 2 1/2 × 10 in.
     credit: Bunkado, Inc.
 
   - id: ptl-26169
@@ -177,6 +178,16 @@ object_list:
     dimensions: 38 × 43 1/2 in.
     credit: Private collection
 
+  - id: ptl-26170
+    figure:
+      - id: "ptl-26170"
+    artist: Tokio Ueyama
+    title: Untitled (Katsuura coast)
+    year: February 1944
+    medium: Oil on board
+    dimensions: 16 × 20 in.
+    credit: Private collection
+
   - id: ptl-26150
     figure:
       - id: "ptl-26150"
@@ -186,6 +197,16 @@ object_list:
     medium: Oil on canvas
     dimensions: 24 × 30 1/4 in.
     credit: 
+
+  - id: ptl-26190
+    figure:
+      - id: "ptl-26190"
+    artist: Tokio Ueyama
+    title: Self Portrait
+    year: July 1943
+    medium: Oil on canvas
+    dimensions: 18 × 16 in.
+    credit: Bunkado, Inc.
 
   - id: ptl-26154
     figure:
@@ -197,17 +218,6 @@ object_list:
     dimensions: 25 × 19 in.
     credit: 
 
-  - id: ptl-26194
-    figure:
-      - id: "ptl-26194"
-    artist: Tokio Ueyama
-    title: Untitled (Amache Still Life)
-    year: 1943
-    medium: Oil on canvas
-    dimensions: 30 1/2 × 26 in.
-    credit: Bunkado, Inc.
-
-
   - id: ptl-26184
     figure:
       - id: "ptl-26184"
@@ -218,14 +228,44 @@ object_list:
     dimensions: 25 × 19 in.
     credit: Private collection
 
-  - id: ptl-26190
+  - id: ptl-26185
     figure:
-      - id: "ptl-26190"
+      - id: "ptl-26185"
     artist: Tokio Ueyama
-    title: Self Portrait
-    year: July 1943
+    title: Untitled (Portrait of a girl)
+    year: 1943-44
+    medium: Drawing on paper
+    dimensions: 19 × 12 1/2 in.
+    credit: Private collection
+
+  - id: ptl-26186
+    figure:
+      - id: "ptl-26186"
+    artist: Tokio Ueyama
+    title: Untitled (Portrait of a man with glasses)
+    year: 1943–44
+    medium: Drawing on paper
+    dimensions: 19 × 12 1/2 in.
+    credit: Private collection
+
+  - id: ptl-26172
+    figure:
+      - id: "ptl-26172"
+    artist: Tokio Ueyama
+    title: Untitled (Amache portrait)
+    year: January 17, 1944
+    medium: Oil on unstretched canvas
+    dimensions: 19 1/2 × 17 in.
+    credit: Private collection
+
+  - id: ptl-26194
+    figure:
+      - id: "ptl-26194"
+    artist: Tokio Ueyama
+    title: Untitled (Amache Still Life)
+    year: 1943
     medium: Oil on canvas
-    dimensions: 18 × 16 in.
+    dimensions: 30 1/2 × 26 in.
     credit: Bunkado, Inc.
 
   - id: ptl-26171
@@ -268,15 +308,15 @@ object_list:
     dimensions: 15 3/4 × 19 3/4 in
     credit: Private collection
 
-  - id: ptl-26162-1-15
+  - id: ptl-26153
     figure:
-      - id: "ptl-26162-1-15"
+      - id: "ptl-26153"
     artist: Tokio Ueyama
-    title: Hand polished stones (set of 15)
-    year: 1943–44
-    medium: Various polished stones
-    dimensions: 
-    credit: Private collection
+    title: Desert Brush
+    year: March 1945
+    medium: Oil on canvas
+    dimensions: 15 3/4 × 19 in.
+    credit: TBD
 
   - id: ptl-26175
     figure:
@@ -286,26 +326,6 @@ object_list:
     year: 1943–44
     medium: Pastel on paper
     dimensions: 17 × 19 1/2 in.
-    credit: Private collection
-
-  - id: ptl-26172
-    figure:
-      - id: "ptl-26172"
-    artist: Tokio Ueyama
-    title: Untitled (Amache portrait)
-    year: January 17, 1944
-    medium: Oil on unstretched canvas
-    dimensions: 19 1/2 × 17 in.
-    credit: Private collection
-
-  - id: ptl-26170
-    figure:
-      - id: "ptl-26170"
-    artist: Tokio Ueyama
-    title: Untitled (Katsuura coast)
-    year: February 1944
-    medium: Oil on board
-    dimensions: 16 × 20 in.
     credit: Private collection
 
   - id: ptl-26176
@@ -327,7 +347,6 @@ object_list:
     medium: Pastel on paper
     dimensions: 8 1/2 × 11 1/2 in.
     credit: Private collection
-
 
   - id: ptl-26177
     figure:
@@ -379,26 +398,6 @@ object_list:
     dimensions: 15 × 18 in.
     credit: Private collection
 
-  - id: ptl-26185
-    figure:
-      - id: "ptl-26185"
-    artist: Tokio Ueyama
-    title: Untitled (Portrait of a girl)
-    year: 1943-44
-    medium: Drawing on paper
-    dimensions: 19 × 12 1/2 in.
-    credit: Private collection
-
-  - id: ptl-26186
-    figure:
-      - id: "ptl-26186"
-    artist: Tokio Ueyama
-    title: Untitled (Portrait of a man with glasses)
-    year: 1943–44
-    medium: Drawing on paper
-    dimensions: 19 × 12 1/2 in.
-    credit: Private collection
-
   - id: ptl-26183
     figure:
       - id: "ptl-26183"
@@ -409,14 +408,13 @@ object_list:
     dimensions: 19 × 25 in.
     credit: Private collection
 
-  - id: ptl-26153
+  - id: ptl-26162-1-15
     figure:
-      - id: "ptl-26153"
+      - id: "ptl-26162-1-15"
     artist: Tokio Ueyama
-    title: Desert Brush
-    year: March 1945
-    medium: Oil on canvas
-    dimensions: 15 3/4 × 19 in.
-    credit: TBD
-
+    title: Hand polished stones (set of 15)
+    year: 1943–44
+    medium: Various polished stones
+    dimensions: 
+    credit: Private collection
 
