@@ -1,5 +1,4 @@
 ---
-label: 
 title: Tokio Ueyama
 subtitle: World War II and Amache, 1942–45
 layout: essay
