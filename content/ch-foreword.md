@@ -1,15 +1,14 @@
 ---
 label: 
 title: Director's Foreword
-subtitle: 
+subtitle:
 layout: essay
-order: 30
+order: 3
 classes:
   - 
 contributor:
   - id: cheinrich  
-abstract: |
-  
+abstract:
 ---
 
 In 1942, in the wake of the bombing of Pearl Harbor and spread of World War II, the artist Tokio Ueyama and his wife, Suye, were forcibly removed from Los Angeles to the Granada Relocation Center, colloquially called Amache, in southeastern Colorado. They lived there for nearly three years alongside more than 10,000 other people of Japanese descent from the West Coast. (In fact, for a time, Amache was the third largest city in Colorado.) The climatic and geographic extremes of the region compounded the psychological toll of being racially segregated with no definite end in sight. The Ueyamas shared this experience with over 120,000 people across ten “relocation camps,” as they are still euphemistically referred. Theirs are stories of dislocation and loss and—just as importantly—of resilience, tenacity, and creativity in the face of prejudice.

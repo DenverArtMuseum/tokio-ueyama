@@ -3,7 +3,7 @@ label:
 title: Landscape as Existential Negotiation
 subtitle: (Re)Considering Paintings of Place in Japanese American Incarceration Camps
 layout: essay
-order: 110  
+order: 200  
 contributor:
   - id: spwang  
 ---

@@ -11,7 +11,7 @@
 import '../../fonts/index.scss';
 import '../../styles/application.scss'
 import '../../styles/screen.scss'
-import '../../styles/custom.css'
+//import '../../styles/custom.css'
 
 // Modules (feel free to define your own and import here)
 import './canvas-panel'
@@ -368,3 +368,79 @@ window.addEventListener('load', () => {
     })
   }
 })
+
+
+/**
+ * Custom Additions
+ */
+
+
+import $ from "jquery"
+
+import { KeyNavigation } from './keyNavigation'
+KeyNavigation.init();
+
+
+import littlefoot from 'littlefoot'
+import 'littlefoot/dist/littlefoot.css'
+
+littlefoot({
+  buttonTemplate: '<button aria-label="Footnote <% number %>" class="littlefoot__button" id="<% reference %>" title="See Footnote <% number %>" /> <% number %> </button>',
+  //anchorPattern: '/(fn|footnote|note)[:\-_\d]/gi',
+});
+
+// Prepends "#lf-"" to  footnote's link to anchor, to match Littlefoot's button
+$('a.footnote-backref').each(function() {
+    var href = $(this).attr('href');
+    if( !/^\#lf-/.test(href) ) {
+        var newhref = href.replace(/#/, "#lf-");
+        $(this).attr('href',newhref);
+
+        //location.href = href;
+    }
+});
+// Makes sure anchor links do not open new tab
+$("body").on("click", "a.footnote-backref[data-href]", function() {
+    var href = $(this).data("href");
+    if (href) {
+        location.href = href;
+    }
+});
+
+
+
+// Hero Image credit
+$('.quire-page__header.hero__image .hero-credit-icon').on("click", function() {
+  console.log($('.quire-page__header.hero__image .hero-credit:visible').length)
+  if( $('.quire-page__header.hero__image .hero-credit:visible').length ) {
+      $('.quire-page__header.hero__image .hero-credit').hide('slow');
+  } else {
+      $('.quire-page__header.hero__image .hero-credit').show('slow');    
+  }
+});
+
+// Open Menu on load
+// if( $('body#page-index').length ) {
+//   toggleMenu();
+// }
+
+
+/* This is an animation for the Close-knit Flower-sack poem */
+$(window).scroll( function(){
+
+  /* Check the location of each desired element */
+  $('body#page-close-knit-flower-sack .quire-page__content .container .content p').each( function(i){
+      
+    var bottom_of_object = $(this).position().top + $(this).outerHeight() + 100;
+    var bottom_of_window = $(window).scrollTop() + $(window).height();
+    
+    /* If the object is completely visible in the window, fade it it */
+    if( bottom_of_window > bottom_of_object ){
+        
+        $(this).animate({'opacity':'1'}, 2500);
+            
+    }
+      
+  }); 
+
+});

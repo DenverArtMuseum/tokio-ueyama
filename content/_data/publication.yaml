@@ -9,7 +9,7 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'http://localhost:8080'
+url: 'https://denverartmuseum.github.io/tokio-ueyama/'
 
 # ------------------------------------------------------------------------------
 # Title & Description
@@ -52,8 +52,7 @@ contributor:
     last_name: Henneman
     title: Director and Curator, Petrie Institute of Western American Art
     affiliation: Denver Art Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-   
+
   - id: spwang
     type: secondary
     first_name: ShiPu
@@ -91,11 +90,11 @@ resource_link:
     media_type: application/pdf
     link_relation: alternate
     url: /downloads/output.pdf
-  - type: other-format
-    name: EPUB
-    media_type: application/epub+zip
-    link_relation: alternate
-    url: /downloads/output.epub
+  # - type: other-format
+  #   name: EPUB
+  #   media_type: application/epub+zip
+  #   link_relation: alternate
+  #   url: /downloads/output.epub
   - type: footer-link
     name: About
     link_relation: about

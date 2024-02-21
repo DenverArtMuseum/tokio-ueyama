@@ -2,8 +2,9 @@
 label: 
 title: The Life of Tokio Ueyama
 subtitle: 
+short_title: Timeline
 layout: essay
-order: 120  
+order: 90 
 ---
 **1889–1908, Early Life**
 
