@@ -17,6 +17,7 @@ object_list:
     medium: Oil on canvas
     dimensions: 21 × 16 1/2 in.
     credit: Private collection
+    entry_number: 1
 
   - id: ptl-26191
     figure:
@@ -27,6 +28,7 @@ object_list:
     medium: Ink on paper
     dimensions: 9 × 11 in.
     credit: Bunkado, Inc.
+    entry_number: 2
 
   - id: ptl-26173
     figure:
@@ -37,6 +39,7 @@ object_list:
     medium: Watercolor on paper
     dimensions: 8 1/2 × 11 in.
     credit: Private collection
+    entry_number: 3
 
   - id: ptl-26159
     figure:
@@ -47,6 +50,7 @@ object_list:
     medium: Oil on canvas
     dimensions: 18 1/2 × 13 3/4 in.
     credit: Susie and David Ishibashi
+    entry_number: 4
 
   - id: ptl-26163
     figure:
@@ -57,6 +61,7 @@ object_list:
     medium: Oil on canvas
     dimensions: 24 × 30 in.
     credit: Private collection
+    entry_number: 5
 
   - id: ptl-26164
     figure:
@@ -67,6 +72,7 @@ object_list:
     medium: Oil on canvas
     dimensions: 41 1/2 × 36 in.
     credit: Private collection
+    entry_number: 6
 
   - id: ptl-26165
     figure:
@@ -77,6 +83,7 @@ object_list:
     medium: Oil on canvas
     dimensions: 32 × 40 1/2 in.
     credit: Private collection
+    entry_number: 7
 
   - id: ptl-26192
     figure:
@@ -87,6 +94,7 @@ object_list:
     medium: Ink on paper
     dimensions: 4 1/2 × 5 in.
     credit: Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Joshua White, image courtesy Bunkado, Inc.
+    entry_number: 8
 
   - id: ptl-26166
     figure:
@@ -97,6 +105,7 @@ object_list:
     medium: Oil on canvas
     dimensions: 25 1/4 × 30 in.
     credit: Private collection
+    entry_number: 9
 
   - id: ptl-26160
     figure:
@@ -107,6 +116,7 @@ object_list:
     medium: Oil on canvas
     dimensions: 8 3/4 × 10 in.
     credit: Private collection
+    entry_number: 10
 
   - id: ptl-26167
     figure:
@@ -117,6 +127,7 @@ object_list:
     medium: Oil on canvas
     dimensions: 29 1/2 × 24 in.
     credit: Private collection
+    entry_number: 11
 
   - id: ptl-26187
     figure:
@@ -127,6 +138,7 @@ object_list:
     medium: Oil on canvas
     dimensions: 29 7/8 × 35 1/2 in.
     credit: Bunkado, Inc.
+    entry_number: 12
 
   - id: ptl-26168
     figure:
@@ -137,6 +149,7 @@ object_list:
     medium: Oil on canvas
     dimensions: 42 × 42 in.
     credit: Private collection
+    entry_number: 13
 
   - id: ptl-26188
     figure:
@@ -147,6 +160,7 @@ object_list:
     medium: Oil on board
     dimensions: 8 3/4 × 10 1/2 in.
     credit: Bunkado, Inc. Photo by Joshua White, image courtesy Bunkado, Inc.
+    entry_number: 14
 
   - id: ptl-26189
     figure:
@@ -157,6 +171,7 @@ object_list:
     medium: Oil on board
     dimensions: 8 3/4 × 10 1/2 in.
     credit: Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Joshua White, image courtesy Bunkado, Inc.
+    entry_number: 15
 
   - id: ptl-26193
     figure:
@@ -167,6 +182,7 @@ object_list:
     medium: Watercolor on paper
     dimensions: 2 1/2 × 10 in.
     credit: Bunkado, Inc.
+    entry_number: 16
 
   - id: ptl-26169
     figure:
@@ -177,6 +193,7 @@ object_list:
     medium: Oil on canvas
     dimensions: 38 × 43 1/2 in.
     credit: Private collection. © Estate of Tokio Ueyama.
+    entry_number: 17
 
   - id: ptl-26170
     figure:
@@ -187,6 +204,7 @@ object_list:
     medium: Oil on board
     dimensions: 16 × 20 in.
     credit: Private collection. © Estate of Tokio Ueyama.
+    entry_number: 18
 
   - id: ptl-26150
     figure:
@@ -197,6 +215,7 @@ object_list:
     medium: Oil on canvas
     dimensions: 24 × 30 1/4 in.
     credit: "Courtesy Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.3. © Estate of Tokio Ueyama."
+    entry_number: 19
 
   - id: ptl-26190
     figure:
@@ -207,6 +226,7 @@ object_list:
     medium: Oil on canvas
     dimensions: 18 × 16 in.
     credit: Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Joshua White, image courtesy Bunkado, Inc.
+    entry_number: 20
 
   - id: ptl-26154
     figure:
@@ -217,6 +237,7 @@ object_list:
     medium: Oil on canvas
     dimensions: 25 × 19 in.
     credit: "Courtesy Japanese American National Museum: Gift of Arthur Asawa, 2004.35.1. © Estate of Tokio Ueyama"
+    entry_number: 21
 
   - id: ptl-26184
     figure:
@@ -227,6 +248,7 @@ object_list:
     medium: Drawing on paper
     dimensions: 25 × 19 in.
     credit: Private collection
+    entry_number: 22
 
   - id: ptl-26185
     figure:
@@ -237,6 +259,7 @@ object_list:
     medium: Drawing on paper
     dimensions: 19 × 12 1/2 in.
     credit: Private collection
+    entry_number: 23
 
   - id: ptl-26186
     figure:
@@ -247,6 +270,7 @@ object_list:
     medium: Drawing on paper
     dimensions: 19 × 12 1/2 in.
     credit: Private collection
+    entry_number: 24
 
   - id: ptl-26172
     figure:
@@ -257,6 +281,7 @@ object_list:
     medium: Oil on unstretched canvas
     dimensions: 19 1/2 × 17 in.
     credit: Private collection
+    entry_number: 25
 
   - id: ptl-26194
     figure:
@@ -267,6 +292,7 @@ object_list:
     medium: Oil on canvas
     dimensions: 30 1/2 × 26 in.
     credit: Bunkado, Inc.
+    entry_number: 26
 
   - id: ptl-26171
     figure:
@@ -277,6 +303,7 @@ object_list:
     medium: Oil on canvas taped on Celotex(?)
     dimensions: 28 1/2 × 22 1/2 in.
     credit: Private collection
+    entry_number: 27
 
   - id: ptl-26151
     figure:
@@ -287,6 +314,7 @@ object_list:
     medium: Oil on canvas
     dimensions: 20 × 26 in.
     credit: "Courtesy Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.8. © Estate of Tokio Ueyama"
+    entry_number: 28
 
   - id: ptl-26152
     figure:
@@ -297,6 +325,7 @@ object_list:
     medium: Oil on canvas
     dimensions: 18 × 24 in.
     credit: "Courtesy Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.7. © Estate of Tokio Ueyama"
+    entry_number: 29
 
   - id: ptl-26161
     figure:
@@ -307,6 +336,7 @@ object_list:
     medium: Oil on Newton artist board
     dimensions: 15 3/4 × 19 3/4 in
     credit: Private collection
+    entry_number: 30
 
   - id: ptl-26153
     figure:
@@ -317,6 +347,7 @@ object_list:
     medium: Oil on canvas
     dimensions: 15 3/4 × 19 in.
     credit: "Courtesy Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.5. © Estate of Tokio Ueyama"
+    entry_number: 31
 
   - id: ptl-26175
     figure:
@@ -327,6 +358,7 @@ object_list:
     medium: Pastel on paper
     dimensions: 17 × 19 1/2 in.
     credit: Private collection
+    entry_number: 32
 
   - id: ptl-26176
     figure:
@@ -337,6 +369,7 @@ object_list:
     medium: Pastel on paper
     dimensions: 9 × 12 in.
     credit: Private collection
+    entry_number: 33
 
   - id: ptl-26174
     figure:
@@ -347,6 +380,7 @@ object_list:
     medium: Pastel on paper
     dimensions: 8 1/2 × 11 1/2 in.
     credit: Private collection
+    entry_number: 34
 
   - id: ptl-26177
     figure:
@@ -357,6 +391,7 @@ object_list:
     medium: Pastel on paper
     dimensions: 9 × 12 in.
     credit: Private collection
+    entry_number: 35
 
   - id: ptl-26178
     figure:
@@ -367,6 +402,7 @@ object_list:
     medium: Drawing on paper
     dimensions: 12 1/2 × 19 in.
     credit: Private collection
+    entry_number: 36
 
   - id: ptl-26179
     figure:
@@ -377,6 +413,7 @@ object_list:
     medium: Drawing on paper
     dimensions: 12 1/2 × 18 in.
     credit: Private collection
+    entry_number: 37
 
   - id: ptl-26181
     figure:
@@ -387,6 +424,7 @@ object_list:
     medium: Drawing on paper
     dimensions: 12 1/2 × 19 in.
     credit: Private collection
+    entry_number: 38
 
   - id: ptl-26182
     figure:
@@ -397,6 +435,7 @@ object_list:
     medium: Drawing on paper
     dimensions: 15 × 18 in.
     credit: Private collection
+    entry_number: 39
 
   - id: ptl-26183
     figure:
@@ -407,6 +446,7 @@ object_list:
     medium: Drawing on paper
     dimensions: 19 × 25 in.
     credit: Private collection
+    entry_number: 40
 
   - id: ptl-26162-1-15
     figure:
@@ -417,4 +457,5 @@ object_list:
     medium: Various polished stones
     dimensions: 
     credit: Private collection
+    entry_number: 41
 
