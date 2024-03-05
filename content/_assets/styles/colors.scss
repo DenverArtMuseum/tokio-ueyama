@@ -3,13 +3,29 @@
 // Change the color variables once at the top, or change elements individually
 // below. Colors are typically Hex values, or one of 140 standard color names/
 
+// Page colors
+$canvas: rgb(246, 239, 223); // #F6EFDF
+$accent-purple: rgb(142, 95, 127); // #8D5E7F
+$accent-orange: rgb(181, 76, 52); // #B44C34
+
+// Menu colors
+$dark-blue: rgb(17, 33, 48); // #112130, 
+$accent-blue: rgb(0, 151, 156); // #00969B
+
+// Nav colors
+$desat-blue: rgb(57, 56, 61); // #39383D
+
+
+
+$accent-green: #99943d; // not likely to use. pretty bad contrast
+
 $black: #000000;
-$off-black: #333333;
+$off-black: $dark-blue;
 $gray: #CCCCCC;
 $white: #ffffff;
-$off-white: #EEF2F3;
-$red: #CF4747;
-$blue: #6A8EB8;
+$off-white: $canvas;
+$red: $accent-orange;
+$blue: $accent-blue;
 $light-yellow: #F9F9A3;
 $off-black-semi-transparent: rgba(0, 0, 0, .5);
 $black-semi-transparent: rgba(0, 0, 0, 0.75);
