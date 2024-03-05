@@ -15,9 +15,10 @@ Soon after his return to Los Angeles, Ueyama cofounded—along with artists Hoji
 
 In 1922, Ueyama exhibited three paintings at the second exhibition of the East West Art Society at the San Francisco Museum of Art at the Palace of Fine Arts in San Francisco.[^5] He also launched into regular exhibitions in California, including the annual series Painters and Sculptors of Southern California, organized by the Los Angeles Museum of History, Science, and Art (now the Los Angeles County Museum of Art). Later, he would contribute to the annual series of Southern California art hosted by the Fine Arts Gallery of San Diego (now the San Diego Museum of Art).
 
-In September 1924, Ueyama mounted his first known solo exhibition, of twenty-five artworks, at the Sumida Music Store, a venue used by the Shaku-do-sha, located at 325 East First Street. He included his 1924 *Self-Portrait* (no. 25) as well as the 1920 watercolor *The Castle in Naples* (no. 13). While difficult to determine without visual evidence, it is likely that he also included his 1924 *Still Life* (no. 10 or no. 19) and a currently untitled 1924 landscape of an alpine California landscape (possibly *In the High Sierras*, no. 23). This selection of work provides a snapshot of the subjects to which Ueyama would remain faithful for the rest of his career: the human body, portraiture, still life, and landscape.
 
-{% figuregroup '4' 'ptl-26159, ptl-26173, ptl-26163, ptl-26165' %}
+{% figure 'ptl-26163' 'is-pulled-left' %}
+
+In September 1924, Ueyama mounted his first known solo exhibition, of twenty-five artworks, at the Sumida Music Store, a venue used by the Shaku-do-sha, located at 325 East First Street. He included his 1924 *Self-Portrait* (no. 25) as well as the 1920 watercolor *The Castle in Naples* (no. 13). While difficult to determine without visual evidence, it is likely that he also included his 1924 *Still Life* (no. 10 or no. 19) and a currently untitled 1924 landscape of an alpine California landscape (possibly *In the High Sierras*, no. 23). This selection of work provides a snapshot of the subjects to which Ueyama would remain faithful for the rest of his career: the human body, portraiture, still life, and landscape.
 
 In November 1924, Ueyama sent an exhibition of twenty-five works to the gallery at the University of Oregon in Eugene, where his friend and PAFA classmate Nowland B. Zane (1885–1945), a professor there, had probably invited him to exhibit.[^6] During this exhibition, reviewers attempted to reconcile what one called Ueyama’s “double heritage of oriental blood and occidental training.”[^7] Another pointed to the “decorative” nature of Japanese influences and the “realistic” influences of western academies.[^8] Margaret Skavlan interpreted Ueyama as “an art hybrid, laboring between his Japanese decorative sense and a training, here and abroad, toward realism.”[^9] Gordon Chang has pointed out that art by people of Asian descent in the US “was constantly subjected to the trope of being a bridge between ‘Eastern’ and ‘Western’ art.”[^10] Oregon reviewers seem to have pushed particularly hard to build this bridge, especially given that Ueyama’s paintings do not conform to what Wang has identified as “stereotypical notions of ‘Asian imagery,’ such as landscape or nature paintings done with brush and ink.”[^11]
 
@@ -25,27 +26,21 @@ In contrast, Los Angeles critics were more likely to point to the thorough weste
 
 In 1925, Ueyama made a second major international trip, this time to Mexico for the summer. In Mexico City, he listened to a lecture by Diego Rivera at the Association of Christian Women and spent time with the muralist, even keeping up a correspondence after his return to the US.[^15] In an interview for *Revista de Revistas*, Ueyama says he spent time with Rivera in his studio and admired his work, especially the mural in the Chapingo chapel.[^16] In Mexico, Ueyama probably met Edward Weston (which may have created the connection for Weston’s Shaku-do-sha exhibitions) and Jean Charlot, who wrote his address in Ueyama’s notebook.[^17] Ueyama traveled to Cuernavaca and Taxco, where he painted the Church of Santa Prisca from multiple perspectives (fig. 4). 
 
-{% figuregroup '2' 'ptl-26192, ptl-26160' %}
-
 {% figuregroup '2' 'ptl-26166, exrr-2024-14' %}
+
+{% figure 'ptl-26167' 'is-pulled-right' %}
 
 During the later 1920s and into the ’30s, Ueyama continued a robust exhibition schedule in Little Tokyo and Southern California. In the spring of 1928, he exhibited *Portrait in Black*, featuring a fashionable Japanese woman in a black fur coat and cloche hat. The sitter, Suye (pronounced *soo-eh)* Tsukada (1897–1969), would become his wife on July 23, 1928, in a ceremony at California’s Mission Inn in Riverside.
 
-{% figure 'ptl-26167' %}
+{% figure 'ptl-26187' 'is-pulled-left'%}
 
 Like many of Ueyama’s portraits, *Portrait in Black* received favorable reviews in the Los Angeles press. Antony Anderson commented on the “imposing and exceedingly skillful portrait of a young Japanese woman.” The artist is, he wrote, “one of our finest portrait painters, indeed, quite among the good portraitists of the country.”[^18] Ueyama’s landscapes, too, were praised. When his *Monterey* was on display in 1929, the artist and critic Arthur Millier described it as “flooded with clear light which creates a fine pattern of light and shadow on headlands, houses, and blue water.”[^19]
 
-{% figure 'ptl-26187' %}
-
 In February 1936, Ueyama held a significant solo exhibition of sixty-one works at the Miyako Hotel in Little Tokyo. Spanning more than a decade of output, works included studies, watercolors, and finished oils representing diverse locations in Mexico, California, and Oregon. His repertoire remained the same: still life; figure paintings, including *The Nude* (no. 6, illustrated on cover); portraits, including that of Suye and his own self-portrait; landscapes, including a striking representation of California’s Red Rock Canyon; and Mexican subjects, including *At Cuernavaca* and the church in Taxco. In an undated clipping, an unknown author calls Ueyama’s Miyako Hotel exhibition “one of the best exhibits ever held by a Japanese artist.”[^20] Another clipping details the artist’s “wide versatility not only in technique but in the skill Ueyama uses in handling landscapes, marines, still life compositions, figure arrangements, and portraits with equal dexterity and colorful success.”[^21]
 
-{% figuregroup '3' 'ptl-26164, ptl-26167, ptl-26159' %}
-
-{% figuregroup '2' 'ptl-26168, ptl-26160' %}
+{% figure 'ptl-26189' 'is-pulled-right'%}
 
 The same author also trumpets Ueyama’s success in selling twenty-seven of sixty-one paintings and nods toward his upcoming trip to Japan as an art ambassador for the Los Angeles Art Association, which had appointed him its envoy to develop relationships that might result in exhibitions of Japanese artwork in California and of California artwork in Japan.[^22] Ueyama departed for Japan in May 1936. Over the next thirteen months, he traveled around the Kanto, Kinki, Kansai, Shikoku, and Kyushu regions and mounted a solo exhibition at his alma mater, Toyajyo Elementary School, in July.[^23] He painted vibrant scenes, including *Untitled (Japanese Village)* (and *Untitled (Tori Gate)*.
-
-{% figuregroup '2' 'ptl-26188, ptl-26189' %}
 
 Given Ueyama’s positive reviews, regular exhibitions, and significant trip to Japan, the 1930s seem to have been a successful decade, but his diary from this period shows ups and downs. The deaths of his father in December 1939 and of Suye’s father the following month were heavy blows to the entire family, while his inclusion in the 1940 Golden Gate International Exposition in San Francisco was a professional coup. Friends including Zane, artist Paul Landacre, Mr. and Mrs. Wilson, and family members show up regularly, though health concerns sometimes keep his body and mood low. In retrospect, his diary—punctuated by notes on German expansion, European alliances, and the deteriorating relationship between Japan and the US—seems both prescient and ominous.[^24]
 

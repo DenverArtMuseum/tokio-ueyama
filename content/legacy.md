@@ -11,9 +11,10 @@ contributor:
 
 On December 17, 1944, the West Coast exclusion ban was lifted, effective January 2, 1945. Over the course of the coming year, all ten of the WRA incarceration camps would begin to close.[^1] On June 11, 1945, the Ueyamas returned to Los Angeles.[^2]
 
+{% figure 'ptl-26150' 'is-pulled-left' %}
+
 A few years after their return, Tokio and Suye opened the gift store Bunkado in the heart of Little Tokyo. Tokio worked to help rebuild the artistic community, forming the Los Angeles Palette Club with a group of artists in November 1946.[^3] The Palette Club hosted annual exhibitions in Little Tokyo over the coming years. In the exhibitions held in 1947 and 1948, Ueyama exhibited work from Amache, including *The Evacuee*, a scene from the Manzanar War Relocation Center in California (which he had visited in August 1945), and Japanese subjects (fig. 9). He played a leadership role, serving as chairman of the spring 1947 and 1948 exhibitions.[^4]
 
-{% figure 'ptl-26150' 'is-pulled-left' %}
 
 {% figure 'exrr-2024-19' 'is-pulled-right' %}
 
