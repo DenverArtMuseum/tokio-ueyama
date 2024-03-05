@@ -2,6 +2,7 @@
 _epub/
 _pdf/
 _site/
+_site/*
 _temp/
 public/
 

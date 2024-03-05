@@ -709,8 +709,8 @@ html {
           dotted
           background-color-text-classic($content-background-color);
       } @else {
-        color: $accent-color;
-        border-bottom: 1px dotted $accent-color;
+        color: $link-color;
+        border-bottom: 1px dotted $link-color;
       }
 
       &:hover {

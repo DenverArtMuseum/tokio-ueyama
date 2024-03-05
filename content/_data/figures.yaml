@@ -80,7 +80,7 @@ figure_list:
 
   - id: ptl-26188
     src: figures/fpo/ptl-26188.jpg
-    credit: Bunkado, Inc. Photo by Joshua White, image courtesy Bunkado, Inc.
+    credit: Bunkado, Inc. © Estate of Tokio Ueyama Photo by Joshua White, image courtesy Bunkado, Inc.
     caption: Tokio Ueyama, Untitled (Japanese village), 1937. Oil on board, 8 3/4 × 10 1/2 in.
     alt: Multiple houses, most with blue roofs, are situated in a green, hilly landscape with tall trees and a blue sky.
 
@@ -249,7 +249,7 @@ figure_list:
   - id: exrr-2024-11
     src: figures/fpo/exrr-2024-11.jpg
     label: "1"
-    credit: Scrapbook photograph with caption
+    credit: "Photograph Album of Cresson Travel Scholarship Trip to Europe, 1920–1922. Tokio Ueyama papers, 1908-circa 1954, bulk 1914-1945. Archives of American Art, Smithsonian Institution. https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289"
     caption: "Unknown photographer, \"Us Boys\" on the Canopic, 1920."
     alt: A group of men lounge on a boat deck in this black-and-white photo.
 
@@ -258,6 +258,7 @@ figure_list:
     label: "3"
     artist: Unknown photographer
     caption: Unknown photographer, At Naples, 1920.
+    credit: "Photograph Album of Cresson Travel Scholarship Trip to Europe, 1920–1922. Tokio Ueyama papers, 1908-circa 1954, bulk 1914-1945. Archives of American Art, Smithsonian Institution. https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289"
     alt: Three men stand in front of a restaurant in a black-and-white photo.
 
   - id: exrr-2024-14
@@ -305,7 +306,7 @@ figure_list:
   - id: exrr-2024-20
     src: figures/fpo/exrr-2024-20.jpg
     label: "10"
-    credit: Bunkado collection
+    credit: "Tokio Ueyama papers, 1908-circa 1954, bulk 1914-1945. Archives of American Art, Smithsonian Institution. https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289"
     caption: Unknown photographer, Interior of Bunkado with Ueyama’s artworks on display, date unknown.
     alt: The interior of a gift shop, with framed paintings hanging on the wall.
 
@@ -368,7 +369,7 @@ figure_list:
   - id: exrr-2024-29
     src: figures/fpo/exrr-2024-29.jpg
     label: "2"
-    credit: Nozaki Collection (AAA)
+    credit: "Photograph Album of Cresson Travel Scholarship Trip to Europe, 1920–1922. Tokio Ueyama papers, 1908-circa 1954, bulk 1914-1945.  Archives of American Art, Smithsonian Institution. https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289"
     caption: Tokio Ueyama, Map of European travels, 1920.
     alt: A hand-drawn map in white against a black background.
 
