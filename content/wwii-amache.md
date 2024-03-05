@@ -38,7 +38,7 @@ Landscapes populate Ueyama’s Amache oeuvre. One oil captures the dry plains la
 
 {% figuregroup '4' 'ptl-26151, ptl-26152, ptl-26176, ptl-26175' %}
 
-{% figuregroup '4' 'ptl-266178, ptl-26179, ptl-26180, ptl-26181' %}
+{% figuregroup '2' 'ptl-26179, ptl-26181' %}
 
 {% figuregroup '4' 'ptl-26161, ptl-26174, ptl-26177, ptl-26153' %}
 
