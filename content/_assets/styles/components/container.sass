@@ -1,6 +1,6 @@
 $gap: 16px !default
 $tablet: 500px !default
-$desktop: 700px !default
+$desktop: 811px !default
 $fullhd: 1344px + (2 * $gap) !default
 $widescreen: 1152px + (2 * $gap) !default
 
@@ -13,13 +13,13 @@ $widescreen: 1152px + (2 * $gap) !default
     width: auto
 
   +from($tablet)
-    margin-left: 0
-    margin-right: 0
+    margin-left: $gap
+    margin-right: $gap
 
   +from($desktop)
     margin: 0 auto
-    max-width: $desktop + (1.25 * $gap)
-    width: $desktop + (1.25 * $gap)
+    max-width: none
+    width: 45em
     &.is-fluid
       margin-left: 4 * $gap
       margin-right: 4 * $gap

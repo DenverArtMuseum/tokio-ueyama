@@ -12,7 +12,7 @@
 // in some cases modified for, Quire as well.
 $gap: 16px;
 $tablet: 500px;
-$desktop: 700px;
+$desktop: 811px; // Actual desktop breakpoint (700 is way too small)
 $fullhd: 1344px + (2 * $gap);
 $widescreen: 1152px + (2 * $gap);
 $box-shadow: 0 2px 3px rgba($off-black, 0.1), 0 0 0;

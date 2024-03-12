@@ -84,14 +84,8 @@
 
 
 body {
-    /* font-family: 'Raleway', sans-serif !important;
     font-size: 1.25rem;
-    line-height: 1.4; */
-    /* lining numerals, ss02 = alternate a, ss09 = alternate W/w */
-    /* -webkit-font-feature-settings: "lnum", "ss02", "ss09";
-    -moz-font-feature-settings: "lnum", "ss02", "ss09";
-    font-feature-settings: "lnum", "ss02", "ss09"; 
-    margin: 0; */
+    line-height: 1.4;
 }
 
 /* :lang(ja) {
@@ -576,7 +570,7 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
 .footnotes .footnote-print-only {
     display: block !important;
 }
-.footnotes .littlefoot--print,
+.footnotes li.littlefoot--print,
 .footnotes li.footnote-print-only {
     list-style-type: decimal;
     display: list-item !important;
@@ -806,12 +800,6 @@ body#page-about .dam-logo {
 
 
 @media screen and (min-width: 700px) {
-
-    .container {
-        margin: 0 auto;
-        max-width: 840px;
-        width: 840px;
-    }
 
     .side-by-side .quire-entry__lightbox {
         top: 4.375rem;
