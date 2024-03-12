@@ -23,12 +23,22 @@ $navbar: normal;
 // -----------------------------------------------------------------------------
 // This theme includes three embedded, open license fonts, and also uses
 // the widely available Times (files of which are not otherwise included here).
-$ibm-sans: 'IBM Plex Sans Condensed', sans-serif;
+// Currently, variables.scss is the only file where the below variables are
+// being used. Consider removing them completely to avoid accidentally
+// using them elsewhere.
 $noto-sans: 'Noto Sans', sans-serif;
 $noto-serif: 'Noto Serif', serif;
 $times-serif: Times, serif;
 $playfair-display-serif: "Oswald, serif";
 $oswald-sans: "Oswald, sans-serif";
+// end of deletable variables
+
+// The typefaces we are actually using.
+// Currently have a freely licensable alternative to Avenir (Montserrat)
+// Looking for a headings typeface still.
+// Trying to match Baker Signet? Kind of don't like it. Strong Papyrus vibes
+$montserrat: 'Montserrat', sans-serif;
+
 
 // Page typography
 // -----------------------------------------------------------------------------
@@ -82,10 +92,10 @@ $print-entry-image-display: all; // first | all
 // Themes
 // -----------------------------------------------------------------------------
 // Declare theme variables
-$quire-primary-font: null; // body and menu text
-$quire-headings-font: null; // headings
-$quire-footnotes-font: null; // footnotes and page backmatter
-$quire-navigation-font: null; // navbar and next/prev buttons
+$quire-primary-font: $montserrat; // body and menu text
+$quire-headings-font: $montserrat; // headings
+$quire-footnotes-font: $montserrat; // footnotes and page backmatter
+$quire-navigation-font: $montserrat; // navbar and next/prev buttons
 
 @if $theme == classic {
   // Classic Theme
