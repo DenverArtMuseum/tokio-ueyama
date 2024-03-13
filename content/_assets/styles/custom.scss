@@ -12,16 +12,22 @@
 
 
 
-/* html {
-    font-size: 100%;
-} */
-
 /* @media screen and (min-width: 108rem) and (orientation: landscape) {
     html {
         font-size: 1vw;
     }
 } */
 
+body {
+    // Since html { font-size: 100%; } 1.25rem is 20px
+    // If we need to scale down for responsive breakpoints we use a
+    // body declaration in a @media query to set to different rem size.
+    // If we need to scale up for very large or very wide screens we can
+    // scale up the html font-size to something proportional to the screen
+    // for that @media query.
+    font-size: 1.25rem;
+    line-height: 1.4;
+}
 
 
 /*
@@ -82,11 +88,6 @@
 
 
 
-
-body {
-    font-size: 1.25rem;
-    line-height: 1.4;
-}
 
 /* :lang(ja) {
     font-family: "Zen Kaku Gothic New", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, メイリオ, Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", "ＭＳ ゴシック" , "MS Gothic", "Noto Sans CJK JP", TakaoPGothic, sans-serif;
@@ -560,8 +561,28 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
     clear: both;
 }
 
+.littlefoot {
+    --button-background-color: $accent-purple;
+    --button-text-color: $canvas;
+    --button-active-background-color: $accent-orange;
+    --button-active-text-color: $canvas;
+    --button-padding: .125rem 0.375rem;
+    --button-font-size: .75rem;
+}
+
+// Would love to use the littlefoot variables as intended,
+// but the littlefoot javascript imports littlefoot.css
+// from the vendor directory and overwrites them. Neat.
 .littlefoot__button {
-    vertical-align: top;
+    background-color: $accent-purple !important;
+    color: $canvas !important;
+    vertical-align: super !important;
+    padding: 0.125rem 0.375rem !important;
+    height: auto !important;
+}
+.littlefoot__button:hover {
+    background-color: $accent-orange !important;
+    color: $off-white !important;
 }
 
 .footnotes.littlefoot--print,
@@ -799,7 +820,7 @@ body#page-about .dam-logo {
 
 
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: $desktop) {
 
     .side-by-side .quire-entry__lightbox {
         top: 4.375rem;

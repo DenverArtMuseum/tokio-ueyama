@@ -15,8 +15,14 @@
 
 // html
 // -----------------------------------------------------------------------------
+// Quire's manner of changing font-size is bad, like fundamentally wrong.
+// You should only ever change the font-size of the root element as a means
+// of scaling a design past a responsive breakpoint (and even that is kind
+// of a hack that should only be used to make text larger, never smaller).
+// font-size: $quire-base-font-size; should be applied to body, not html
 html {
-  font-size: $quire-base-font-size;
+  //font-size: $quire-base-font-size;
+  font-size: 100%;
   @media print {
     font-size: $print-base-font-size;
   }
