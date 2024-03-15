@@ -54,7 +54,7 @@ object_list:
 
   - id: ptl-26163
     figure:
-      - id: "ptl-26163"
+      - id: "ptl-26163-zoom"
     artist: Tokio Ueyama
     title: Still Life
     year: 1924
@@ -65,7 +65,7 @@ object_list:
 
   - id: ptl-26164
     figure:
-      - id: "ptl-26164"
+      - id: "ptl-26164-zoom"
     artist: Tokio Ueyama
     title: The Nude
     year: 1924
@@ -87,7 +87,7 @@ object_list:
 
   - id: ptl-26192
     figure:
-      - id: "ptl-26192"
+      - id: "ptl-26192-zoom"
     artist: Tokio Ueyama
     title: (notebook with addresses and journal entries)
     year: 1920s
@@ -153,7 +153,7 @@ object_list:
 
   - id: ptl-26188
     figure:
-      - id: "ptl-26188"
+      - id: "ptl-26188-zoom"
     artist: Tokio Ueyama
     title: Untitled (Japanese village)
     year: 1937
@@ -164,7 +164,7 @@ object_list:
 
   - id: ptl-26189
     figure:
-      - id: "ptl-26189"
+      - id: "ptl-26189-zoom"
     artist: Tokio Ueyama
     title: Untitled (Tori Gate)
     year: 1937
@@ -208,7 +208,7 @@ object_list:
 
   - id: ptl-26150
     figure:
-      - id: "ptl-26150"
+      - id: "ptl-26150-zoom"
     artist: Tokio Ueyama
     title: The Evacuee
     year: 1942
@@ -219,7 +219,7 @@ object_list:
 
   - id: ptl-26190
     figure:
-      - id: "ptl-26190"
+      - id: "ptl-26190-zoom"
     artist: Tokio Ueyama
     title: Self Portrait
     year: July 1943
@@ -230,7 +230,7 @@ object_list:
 
   - id: ptl-26154
     figure:
-      - id: "ptl-26154"
+      - id: "ptl-26154-zoom"
     artist: Tokio Ueyama
     title: Untitled (Portrait of Tomoye Sawa [Gakuhajo] with biwa)
     year: 1943
@@ -307,7 +307,7 @@ object_list:
 
   - id: ptl-26151
     figure:
-      - id: "ptl-26151"
+      - id: "ptl-26151-zoom"
     artist: Tokio Ueyama
     title: Untitled (barracks with pond)
     year: 1944
@@ -318,7 +318,7 @@ object_list:
 
   - id: ptl-26152
     figure:
-      - id: "ptl-26152"
+      - id: "ptl-26152-zoom"
     artist: Tokio Ueyama
     title: Untitled (barracks with basketball hoops)
     year: 1944
@@ -340,7 +340,7 @@ object_list:
 
   - id: ptl-26153
     figure:
-      - id: "ptl-26153"
+      - id: "ptl-26153-zoom"
     artist: Tokio Ueyama
     title: Desert Brush
     year: March 1945

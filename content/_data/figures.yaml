@@ -19,10 +19,17 @@ figure_list:
     alt: A large brown castle towers over two blue pools separated by a walkway in the foreground.
 
   - id: ptl-26192
-    src: figures/fpo/ptl-26192.jpg
+    src: figures/PTL-26192.jpg
     credit: Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Joshua White, image courtesy Bunkado, Inc.
     caption: Tokio Ueyama, (notebook with addresses and journal entries), 1920s. Ink on paper, 4 1/2 × 5 in.
     alt: This open notebook features handwriting on both pages.
+
+  - id: ptl-26192-zoom
+    src: figures/PTL-26192-zoom.jpg
+    credit: Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Joshua White, image courtesy Bunkado, Inc.
+    caption: Tokio Ueyama, (notebook with addresses and journal entries), 1920s. Ink on paper, 4 1/2 × 5 in.
+    alt: This open notebook features handwriting on both pages.
+    zoom: true
 
   - id: ptl-26159
     src: figures/fpo/ptl-26159.jpg
@@ -31,16 +38,30 @@ figure_list:
     alt: A man in a white shirt looks directly forward, with a white full-length sculpture behind his right shoulder.
 
   - id: ptl-26163
-    src: figures/fpo/ptl-26163.jpg
+    src: figures/PTL-26163.jpg
     credit: Private collection. © Estate of Tokio Ueyama
     caption: Tokio Ueyama, Still Life, 1924. Oil on canvas, 24 × 30 in.
     alt: A bowl, vessel, wine bottle, and six apples sit on a table covered by a multicolored textile.
 
+  - id: ptl-26163-zoom
+    src: figures/PTL-26163-zoom.jpg
+    credit: Private collection. © Estate of Tokio Ueyama
+    caption: Tokio Ueyama, Still Life, 1924. Oil on canvas, 24 × 30 in.
+    alt: A bowl, vessel, wine bottle, and six apples sit on a table covered by a multicolored textile.
+    zoom: true
+
   - id: ptl-26164
-    src: figures/fpo/ptl-26164.jpg
+    src: figures/PTL-26164.jpg
     credit: Private collection. © Estate of Tokio Ueyama
     caption: Tokio Ueyama, The Nude, 1924. Oil on canvas, 41 1/2 × 36 in.
     alt: A nude woman reclines on a red couch.
+
+  - id: ptl-26164-zoom
+    src: figures/PTL-26164-zoom.jpg
+    credit: Private collection. © Estate of Tokio Ueyama
+    caption: Tokio Ueyama, The Nude, 1924. Oil on canvas, 41 1/2 × 36 in.
+    alt: A nude woman reclines on a red couch.
+    zoom: true
 
   - id: ptl-26165
     src: figures/fpo/ptl-26165.jpg
@@ -79,10 +100,17 @@ figure_list:
     alt: A craggy canyon extends takes up the majority of the canvas in this painting.
 
   - id: ptl-26188
-    src: figures/fpo/ptl-26188.jpg
+    src: figures/PTL-26188.jpg
     credit: Bunkado, Inc. © Estate of Tokio Ueyama Photo by Joshua White, image courtesy Bunkado, Inc.
     caption: Tokio Ueyama, Untitled (Japanese village), 1937. Oil on board, 8 3/4 × 10 1/2 in.
     alt: Multiple houses, most with blue roofs, are situated in a green, hilly landscape with tall trees and a blue sky.
+
+  - id: ptl-26188-zoom
+    src: figures/PTL-26188-zoom.jpg
+    credit: Bunkado, Inc. © Estate of Tokio Ueyama Photo by Joshua White, image courtesy Bunkado, Inc.
+    caption: Tokio Ueyama, Untitled (Japanese village), 1937. Oil on board, 8 3/4 × 10 1/2 in.
+    alt: Multiple houses, most with blue roofs, are situated in a green, hilly landscape with tall trees and a blue sky.
+    zoom: true
 
   - id: ptl-26193
     src: figures/fpo/ptl-26193.jpg
@@ -91,10 +119,17 @@ figure_list:
     alt: This open notebook has a painting of a rock outcropping and blue water on the right page.
 
   - id: ptl-26189
-    src: figures/fpo/ptl-26189.jpg
+    src: figures/PTL-26189.jpg
     credit: Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Joshua White, image courtesy Bunkado, Inc.
     caption: Tokio Ueyama, Untitled (Tori Gate), 1937. Oil on board, 8 3/4 × 10 1/2 in.
     alt: A red-orange tori gate in the left foreground stands under tall green trees.
+
+  - id: ptl-26189-zoom
+    src: figures/PTL-26189-zoom.jpg
+    credit: Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Joshua White, image courtesy Bunkado, Inc.
+    caption: Tokio Ueyama, Untitled (Tori Gate), 1937. Oil on board, 8 3/4 × 10 1/2 in.
+    alt: A red-orange tori gate in the left foreground stands under tall green trees.
+    zoom: true
 
   - id: ptl-26169
     src: figures/fpo/ptl-26169.jpg
@@ -103,16 +138,30 @@ figure_list:
     alt: A shoreline with strongly vertical rock outcroppings overlooks blue and white water.
 
   - id: ptl-26150
-    src: figures/fpo/ptl-26150.jpg
+    src: figures/PTL-26150.jpg
     credit: "Courtesy Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.3. © Estate of Tokio Ueyama."
     caption: Tokio Ueyama, The Evacuee, 1942. Oil on canvas, 24 × 30 1/4 in. 
     alt: A woman sews in a wooden chair in a room next to an open door.
 
+  - id: ptl-26150-zoom
+    src: figures/PTL-26150-zoom.jpg
+    credit: "Courtesy Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.3. © Estate of Tokio Ueyama."
+    caption: Tokio Ueyama, The Evacuee, 1942. Oil on canvas, 24 × 30 1/4 in. 
+    alt: A woman sews in a wooden chair in a room next to an open door.
+    zoom: true
+
   - id: ptl-26154
-    src: figures/fpo/ptl-26154.jpg
+    src: figures/PTL-26154.jpg
     credit: "Courtesy Japanese American National Museum: Gift of Arthur Asawa, 2004.35.1. © Estate of Tokio Ueyama"
     caption: Tokio Ueyama, Untitled (Portrait of Tomoye Sawa [Gakuhajo] with biwa), 1943. Oil on canvas, 25 × 19 in. 
     alt: A man with glasses holds a stringed instrument that extends above his shoulder in this black-and-white drawing.
+
+  - id: ptl-26154-zoom
+    src: figures/PTL-26154-zoom.jpg
+    credit: "Courtesy Japanese American National Museum: Gift of Arthur Asawa, 2004.35.1. © Estate of Tokio Ueyama"
+    caption: Tokio Ueyama, Untitled (Portrait of Tomoye Sawa [Gakuhajo] with biwa), 1943. Oil on canvas, 25 × 19 in. 
+    alt: A man with glasses holds a stringed instrument that extends above his shoulder in this black-and-white drawing.
+    zoom: true
 
   - id: ptl-26194
     src: figures/fpo/ptl-26194.jpg
@@ -127,10 +176,17 @@ figure_list:
     alt: A man with a broad military hat and a tie under his coat faces right in this black-and-white drawing.
 
   - id: ptl-26190
-    src: figures/fpo/ptl-26190.jpg
+    src: figures/PTL-26190.jpg
     credit: Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Joshua White, image courtesy Bunkado, Inc.
     caption: Tokio Ueyama, Self Portrait, July 1943. Oil on canvas, 18 × 16 in.
     alt: The a man in a white button-up shirt holds paint brushes and a palette.
+
+  - id: ptl-26190-zoom
+    src: figures/PTL-26190-zoom.jpg
+    credit: Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Joshua White, image courtesy Bunkado, Inc.
+    caption: Tokio Ueyama, Self Portrait, July 1943. Oil on canvas, 18 × 16 in.
+    alt: The a man in a white button-up shirt holds paint brushes and a palette.
+    zoom: true
 
   - id: ptl-26171
     src: figures/fpo/ptl-26171.jpg
@@ -139,16 +195,30 @@ figure_list:
     alt: Two sunflower blossoms are cropped tightly against a brown background.
 
   - id: ptl-26151
-    src: figures/fpo/ptl-26151.jpg
+    src: figures/PTL-26151.jpg
     credit: "Courtesy Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.8. © Estate of Tokio Ueyama"
     caption: Tokio Ueyama, Untitled (barracks with pond), 1944. Oil on canvas, 20 × 26 in. 
     alt: A house and barn overlook a pond, with rows of barracks in the background in this mostly brown landscape.
 
+  - id: ptl-26151-zoom
+    src: figures/PTL-26151-zoom.jpg
+    credit: "Courtesy Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.8. © Estate of Tokio Ueyama"
+    caption: Tokio Ueyama, Untitled (barracks with pond), 1944. Oil on canvas, 20 × 26 in. 
+    alt: A house and barn overlook a pond, with rows of barracks in the background in this mostly brown landscape.
+    zoom: true
+
   - id: ptl-26152
-    src: figures/fpo/ptl-26152.jpg
+    src: figures/PTL-26152.jpg
     credit: "Courtesy Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.7. © Estate of Tokio Ueyama"
     caption: Tokio Ueyama, Untitled (barracks with basketball hoops), 1944. Oil on canvas, 18 × 24 in. 
     alt: A basketball hoop overlooks a brown landscape dotted with low bushes. Brown buildings interrupt the skyline in the background.
+
+  - id: ptl-26152-zoom
+    src: figures/PTL-26152-zoom.jpg
+    credit: "Courtesy Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.7. © Estate of Tokio Ueyama"
+    caption: Tokio Ueyama, Untitled (barracks with basketball hoops), 1944. Oil on canvas, 18 × 24 in. 
+    alt: A basketball hoop overlooks a brown landscape dotted with low bushes. Brown buildings interrupt the skyline in the background.
+    zoom: true
 
   - id: ptl-26161
     src: figures/fpo/ptl-26161.jpg
@@ -241,20 +311,34 @@ figure_list:
     alt: A plate of three fishes sits on a tabletop draped with a dark cloth in this black-and-white drawing.
 
   - id: ptl-26153
-    src: figures/fpo/ptl-26153.jpg
+    src: figures/PTL-26153.jpg
     credit: "Courtesy Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.5. © Estate of Tokio Ueyama"
     caption: Tokio Ueyama, Desert Brush, March 1945. Oil on canvas, 15 3/4 × 19 in. 
     alt: This landscape features a light ground, pale blue sky, and red-orange shrubs on the left.
 
+  - id: ptl-26153-zoom
+    src: figures/PTL-26153-zoom.jpg
+    credit: "Courtesy Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.5. © Estate of Tokio Ueyama"
+    caption: Tokio Ueyama, Desert Brush, March 1945. Oil on canvas, 15 3/4 × 19 in. 
+    alt: This landscape features a light ground, pale blue sky, and red-orange shrubs on the left.
+    zoom: true
+
   - id: exrr-2024-11
-    src: figures/fpo/exrr-2024-11.jpg
+    src: figures/EXRR-2024-11.jpg
     label: "1"
     credit: "Photograph Album of Cresson Travel Scholarship Trip to Europe, 1920–1922. Tokio Ueyama papers, 1908-circa 1954, bulk 1914-1945. Archives of American Art, Smithsonian Institution. https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289"
     caption: "Unknown photographer, \"Us Boys\" on the Canopic, 1920."
     alt: A group of men lounge on a boat deck in this black-and-white photo.
 
+  - id: exrr-2024-12
+    src: figures/EXRR-2024-12.jpg
+    label: "2"
+    credit: "Photograph Album of Cresson Travel Scholarship Trip to Europe, 1920–1922. Tokio Ueyama papers, 1908-circa 1954, bulk 1914-1945. Archives of American Art, Smithsonian Institution. https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289"
+    caption: "Unknown photographer, Street Scene, 1920."
+    alt: A street scene features a horse-drawn carriage in this black-and-white photo.
+
   - id: exrr-2024-13
-    src: figures/fpo/exrr-2024-13.jpg
+    src: figures/EXRR-2024-13.jpg
     label: "3"
     artist: Unknown photographer
     caption: Unknown photographer, At Naples, 1920.
@@ -262,7 +346,7 @@ figure_list:
     alt: Three men stand in front of a restaurant in a black-and-white photo.
 
   - id: exrr-2024-14
-    src: figures/fpo/exrr-2024-14.jpg
+    src: figures/EXRR-2024-14.jpg
     credit: Bunkado, Inc. Photo by Joshua White, image courtesy of Bunkado Inc.
     caption: Revista de Revistas, September 6, 1925.
     alt: An open notebook with newspaper clippings.
@@ -296,7 +380,7 @@ figure_list:
     alt: A group of people stand in front of a building in this black-and-white photo.
 
   - id: exrr-2024-19
-    src: figures/fpo/exrr-2024-19.jpg
+    src: figures/EXRR-2024-19.jpg
     label: "9"
     date: "1947"
     credit: Bunkado Inc. Photo by Joshua White, image courtesy of Bunkado Inc.
@@ -304,14 +388,14 @@ figure_list:
     alt: An open notebook with newspaper clippings.
 
   - id: exrr-2024-20
-    src: figures/fpo/exrr-2024-20.jpg
+    src: figures/EXRR-2024-20.jpg
     label: "10"
     credit: "Tokio Ueyama papers, 1908-circa 1954, bulk 1914-1945. Archives of American Art, Smithsonian Institution. https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289"
     caption: Unknown photographer, Interior of Bunkado with Ueyama’s artworks on display, date unknown.
     alt: The interior of a gift shop, with framed paintings hanging on the wall.
 
   - id: exrr-2024-21
-    src: figures/fpo/exrr-2024-21.jpg
+    src: figures/EXRR-2024-21.jpg
     label: "1"
     credit: "Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.2. © Estate of Tokio Ueyama"
     caption: Tokio Ueyama, Storm, 1943. Drawing, 
@@ -339,14 +423,14 @@ figure_list:
     alt: A pathway snakes toward a tall rock outcropping in this black-and-white sketch.
 
   - id: exrr-2024-23
-    src: figures/fpo/exrr-2024-23.jpg
+    src: figures/EXRR-2024-23.jpg
     label: "5"
     credit: Japanese American National Museum, 96.601.47
     caption: Hisako Hibi, Eastern Sky, 7:50 AM, February 25, 1945. Oil on canvas,
     alt: A dark mountain and buildings are set against a bright orange sky.
 
   - id: exrr-2024-24
-    src: figures/fpo/exrr-2024-24.jpg
+    src: figures/EXRR-2024-24.jpg
     label: "6"
     credit: "Japanese American National Museum,: Gift of Ibuki Hibi Lee, 96.601.48. © Estate of Hisako Hibi."
     caption: 6. Hisako Hibi, Western Sky, July 1945. Oil on canvas, 
@@ -360,14 +444,14 @@ figure_list:
     alt: Billowing clouds roll over rooftops.
 
   - id: exrr-2024-28
-    src: figures/fpo/exrr-2024-28.jpg
+    src: figures/EXRR-2024-28.jpg
     label: "1"
     credit: "University of Southern California. Courtesy of University of Southern California, on behalf of the USC Libraries Special Collections."
     caption: Unknown photographer, Tokio Ueyama's graduation portrait from the University of Southern California, 1915.
     alt: A photograph of a man wearing a mortarboard cap.
 
   - id: exrr-2024-29
-    src: figures/fpo/exrr-2024-29.jpg
+    src: figures/EXRR-2024-29.jpg
     label: "2"
     credit: "Photograph Album of Cresson Travel Scholarship Trip to Europe, 1920–1922. Tokio Ueyama papers, 1908-circa 1954, bulk 1914-1945.  Archives of American Art, Smithsonian Institution. https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289"
     caption: Tokio Ueyama, Map of European travels, 1920.
