@@ -116,7 +116,7 @@ h1 > em {
 }
 .quire-page__header .hero-body .quire-page__header__title {
     color: #333;
-    text-transform: uppercase;
+    // text-transform: uppercase;
 }
 .quire-page__header__contributor {
     color: #333;
@@ -335,8 +335,8 @@ h1 > em {
     display: none;
 }
 
-.quire-progress-bar div {
-    background-color: var(--link-blue);
+.quire-progress-bar {
+    display: none;
 }
 
 .quire-cover__more .hero-more.next-page {
@@ -521,6 +521,38 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
 
 /* Content Styles */
 
+
+.quire-page__header__contributor .quire-contributor > * {
+    display: block;
+}
+
+.quire-page__header__contributor .quire-contributor__affiliation,
+.quire-page__header__contributor .quire-contributor__comma {
+    display: none;
+}
+.quire-page__header__contributor {
+    font-style: normal;
+}
+.quire-page__header__contributor .quire-contributor__name {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.contributor {
+    text-align: center;
+}
+.quire-page__content .container .content .contributor p {
+    margin: 0;
+    padding: 0;
+    line-height: 1.2
+}
+
+.contributor-name {
+    font-weight: bold;
+}
+
+
+
 .content figure:not(:first-child) {
     margin-top: 0;
 }
@@ -557,6 +589,38 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
 }
 
 
+
+
+
+
+/* Littlefoot footnotes */
+
+.littlefoot {
+    --button-background-color: ;
+    --button-text-color: $off-black;
+    --button-active-background-color: $accent-color;
+    --button-active-text-color: $off-white;
+    --button-padding: .0125rem 0.5rem .125rem;
+    --button-font-size: 12px;
+}
+.littlefoot__button {
+    background-color: transparent !important;
+    color: $off-black !important;
+    vertical-align: super !important;
+    margin-left: -0.333333rem !important;
+    padding: 0.11111rem 0.333333rem !important;
+}
+.littlefoot__button:hover {
+    background-color: $accent-color !important;
+    color: $off-white !important;
+}
+
+
+
+section.footnotes.littlefoot--print {
+    border-top: 1px solid $off-black;
+    margin-top: 4.375rem !important;
+}
 .footnotes hr {
     clear: both;
 }
@@ -630,6 +694,11 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
     border-bottom: none;
 }
 
+
+
+
+
+
 /* Specific page styles */
 
 
@@ -642,7 +711,7 @@ body#page-index .quire-cover__hero-body .title {
     font-weight: bold;
     letter-spacing: 0.9rem;
     margin: auto;
-    text-transform: uppercase;
+    // text-transform: uppercase;
     -webkit-animation: fadeIn 4s;
     animation: fadeIn 4s;
     -webkit-animation-fill-mode: backwards;
