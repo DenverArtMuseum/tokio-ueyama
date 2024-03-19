@@ -4,7 +4,7 @@ title: Note from the Director of the Petrie Institute of Western American Art
 subtitle: 
 short_title: Curator's Note
 layout: essay
-order: 70
+order: 4
 contributor:
   - id: jrhenneman  
 ---

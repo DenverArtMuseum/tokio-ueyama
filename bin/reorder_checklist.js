@@ -14,16 +14,18 @@ const yaml_filename = 'content/_data/objects.yaml';
 try {
     yaml.loadAll( fs.readFileSync(yaml_filename, 'utf8'), function (doc) {   
     
-        doc.object_list.sort(compareByTitle);
+        //doc.object_list.sort(compareByEntryNumber);
         //doc.object_list.sort(compareByArtistAndTitle);
-        console.log(doc.object_list);
+        // console.log(doc.object_list);
+        // return;
+        
 
         var order = 101
         doc.object_list.forEach(async (object) => {
             // console.log(object.id+': '+object.title);
             // return
 
-            var md_file = 'content/checklist/'+object.id+'.md';
+            var md_file = 'content/works/'+object.id+'.md';
 
             if (fs.existsSync(md_file)) {
                 markdown_lines = fs.readFileSync(md_file, 'utf8').split('\n')
@@ -57,8 +59,8 @@ try {
                         md_doc.object = [ { "id" : object.id } ]
                         
                         //md_doc.short_title = " "
-                        delete md_doc.artist
-                        delete md_doc.short_title
+                        // delete md_doc.artist
+                        // delete md_doc.short_title
 
 
                         var content = '---\n';
@@ -153,6 +155,17 @@ function compareByArtistAndTitle(a, b) {
  */
 function compareByTitle(a, b) {
     return a.title.localeCompare(b.title)
+}
+
+/**
+ * Compare by object entry_number
+ * 
+ * @param {*} a 
+ * @param {*} b 
+ * @returns 
+ */
+function compareByEntryNumber(a, b) {
+    return a.entry_number.localeCompare(b.entry_number)
 }
 
 /**

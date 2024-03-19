@@ -4,9 +4,9 @@ object_display_order:
   - medium
   - dimensions
   - credit
+  - entry_number
 
 object_list:
-
 
   - id: ptl-26158
     figure:

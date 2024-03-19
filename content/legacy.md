@@ -1,12 +1,12 @@
 ---
-label: 
 title: Los Angeles, 1945–54, and Continuing Legacy
 subtitle: 
 short_title: Legacy
 layout: essay
 order: 60
 contributor:
-  - id: jrhenneman  
+  - id: jrhenneman
+classes: [chapter]
 ---
 
 On December 17, 1944, the West Coast exclusion ban was lifted, effective January 2, 1945. Over the course of the coming year, all ten of the WRA incarceration camps would begin to close.[^1] On June 11, 1945, the Ueyamas returned to Los Angeles.[^2]

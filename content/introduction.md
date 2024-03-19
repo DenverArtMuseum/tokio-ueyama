@@ -1,8 +1,7 @@
 ---
-label: 
-title: Introduction
+title: Tokio Ueyama
 subtitle: 
-short_title: Introduction
+short_title:
 layout: essay
 order: 10
 contributor:

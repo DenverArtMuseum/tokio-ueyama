@@ -385,7 +385,19 @@ import littlefoot from 'littlefoot'
 import 'littlefoot/dist/littlefoot.css'
 
 littlefoot({
-  buttonTemplate: '<button aria-label="Footnote <% number %>" class="littlefoot__button" id="<% reference %>" title="See Footnote <% number %>" /> <% number %> </button>',
+  activateOnHover: true,
+  buttonTemplate: '<button aria-label="Footnote <% number %>" class="littlefoot__button" id="<% reference %>" title="See Footnote <% number %>" /> <% number %> </button>', 
+  // contentTemplate: 
+  //   `<aside
+  //     alt="Footnote <% number %>"
+  //     class="littlefoot__popover"
+  //     id="fncontent:<% id %>"
+  //   >
+  //     <div class="littlefoot__wrapper">
+  //       <div class="littlefoot__content"><h5 class="footnotes-title">Note</h5><% content %></div>
+  //     </div>
+  //     <div class="littlefoot__tooltip"></div>
+  //   </aside>`,
   //anchorPattern: '/(fn|footnote|note)[:\-_\d]/gi',
 });
 

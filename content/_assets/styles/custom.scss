@@ -114,9 +114,29 @@ h1 > * {
 h1 > em {
     display: inline;
 }
+
+
+a.q-figure__modal-link.inline {
+    display: inline;
+    line-height: inherit;
+    color: rgb(142, 95, 127);
+    border-bottom: 1px dotted rgb(142, 95, 127);
+}
+a.q-figure__modal-link.onhover {
+    
+}
+
+
+
 .quire-page__header .hero-body .quire-page__header__title {
     color: #333;
     // text-transform: uppercase;
+}
+.quire-page__header .hero-body .quire-page__header__title .separator {
+    display: none;
+}
+.quire-page__header .hero-body .quire-page__header__title .subtitle {
+    font-size: 2rem;
 }
 .quire-page__header__contributor {
     color: #333;
@@ -125,6 +145,7 @@ h1 > em {
 .quire #main {
     background-color: #fff;
 }
+
 
 
 /* Navbar */
@@ -170,18 +191,7 @@ h1 > em {
     display: flex;
     flex-direction: row;
     align-self: center;
-    /* justify-content: space-evenly; */
 }
-/* .quire-navbar-controls__left .logos .dam-logo {
-    height: 40px;
-    width: auto;
-    margin: 0 10px;
-}
-.quire-navbar-controls__left .logos .biophilia-logo {
-    height: 40px;
-    width: auto;
-    margin: 0 10px;
-} */
 .quire-navbar-controls .quire-navbar-controls__center {
     flex: 0 1 auto;
     /* visibility: hidden; */
@@ -596,42 +606,14 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
 /* Littlefoot footnotes */
 
 .littlefoot {
-    --button-background-color: ;
-    --button-text-color: $off-black;
-    --button-active-background-color: $accent-color;
-    --button-active-text-color: $off-white;
-    --button-padding: .0125rem 0.5rem .125rem;
-    --button-font-size: 12px;
+    --button-font-size: .65rem !important;
 }
-.littlefoot__button {
-    background-color: transparent !important;
-    color: $off-black !important;
-    vertical-align: super !important;
-    margin-left: -0.333333rem !important;
-    padding: 0.11111rem 0.333333rem !important;
-}
-.littlefoot__button:hover {
-    background-color: $accent-color !important;
-    color: $off-white !important;
-}
-
-
-
 section.footnotes.littlefoot--print {
     border-top: 1px solid $off-black;
     margin-top: 4.375rem !important;
 }
 .footnotes hr {
     clear: both;
-}
-
-.littlefoot {
-    --button-background-color: $accent-purple;
-    --button-text-color: $canvas;
-    --button-active-background-color: $accent-orange;
-    --button-active-text-color: $canvas;
-    --button-padding: .125rem 0.375rem;
-    --button-font-size: .75rem;
 }
 
 // Would love to use the littlefoot variables as intended,
@@ -641,8 +623,12 @@ section.footnotes.littlefoot--print {
     background-color: $accent-purple !important;
     color: $canvas !important;
     vertical-align: super !important;
-    padding: 0.125rem 0.375rem !important;
+    padding: 0.125rem 0.275rem !important;
     height: auto !important;
+    line-height: 1.75;
+    width: 1.4rem;
+    --button-border-radius: 50% !important;
+    white-space: nowrap;
 }
 .littlefoot__button:hover {
     background-color: $accent-orange !important;
@@ -696,8 +682,24 @@ section.footnotes.littlefoot--print {
 
 
 
+/* Menu */
 
 
+.quire-menu .quire-menu__list.menu-list ol li.page-item:nth-child(n+5):nth-child(-n+9) {
+    margin-left: 1.5rem;
+}
+
+
+/* Entry pages */
+
+main.quire-page.quire-entry .q-lightbox-slides__caption {
+    display: none;
+}
+
+main.quire-page.quire-entry .quire-entry__content {
+    -webkit-animation: none;
+    animation: none;
+}
 
 /* Specific page styles */
 
@@ -705,67 +707,62 @@ section.footnotes.littlefoot--print {
 
 /* Cover */
 
-body#page-index .quire-cover__hero-body .title {
-    font-size: 3rem;
-    word-spacing: 0.4em;
-    font-weight: bold;
-    letter-spacing: 0.9rem;
-    margin: auto;
-    // text-transform: uppercase;
-    -webkit-animation: fadeIn 4s;
-    animation: fadeIn 4s;
-    -webkit-animation-fill-mode: backwards;
-    animation-fill-mode: backwards;
-    -webkit-animation-delay: 0.5s;
-    animation-delay: 0.5s;
+body#page-index .quire-cover__hero-body > .container:first-child {
+    display: none;
 }
-body#page-index .quire-cover__hero-body .title .subtitle {
-    padding-left: 6px;
-    font-size: 2.0rem;
-    word-spacing: 0.3rem;
-    font-weight: bold;
-    letter-spacing: 0.1rem;
-    text-transform: none;
-    -webkit-animation: fadeIn 4s;
-    animation: fadeIn 4s;
-    -webkit-animation-fill-mode: backwards;
-    animation-fill-mode: backwards;
-    -webkit-animation-delay: 2s;
-    animation-delay: 2s;
-}
+// body#page-index .quire-cover__hero-body .title {
+//     font-size: 3rem;
+//     word-spacing: 0.4em;
+//     font-weight: bold;
+//     letter-spacing: 0.9rem;
+//     margin: auto;
+//     -webkit-animation: fadeIn 4s;
+//     animation: fadeIn 4s;
+//     -webkit-animation-fill-mode: backwards;
+//     animation-fill-mode: backwards;
+//     -webkit-animation-delay: 0.5s;
+//     animation-delay: 0.5s;
+// }
 body#page-index .contributor {
     display: none;
 }
 
-body#page-index .quire-navbar-controls__left .logos {
-    display: none;
-}
+// body#page-index .quire-navbar-controls__left .logos {
+//     display: none;
+// }
 
 /* Contents */
 
-.table-of-contents {
-    /* text-align: center;
-    width: 360px;
-    margin-left: auto;
-    margin-right: auto; */
-}
-.table-of-contents ol {
-    margin-left: 0 !important;
-}
-.table-of-contents .contributor-divider, .table-of-contents .contributor {
+// .table-of-contents ol {
+//     margin-left: 0 !important;
+// }
+// .table-of-contents .contributor-divider, .table-of-contents .contributor {
+//     display: none;
+// }
+
+
+body#page-contents .quire-contents-list .menu-list a .arrow {
     display: none;
 }
-.quire-contents-list .menu-list a .arrow {
+body#page-contents .quire-contents-list .page-item.level-0:nth-child(n+4):nth-child(-n+8) {
+    margin-left: 2rem;
+}
+body#page-contents .quire-contents-list .page-item.level-0:nth-child(n+4):nth-child(-n+8) .contributor-divider,
+body#page-contents .quire-contents-list .page-item.level-0:nth-child(n+4):nth-child(-n+8) .contributor {
     display: none;
 }
-.quire-contents-list .page-item.level-1 ol, .quire-contents-list .section-item.level-1 ol {
-    margin-top: 0.5em;
+.quire-contents-list .section-item.level-0 > ol.table-of-contents-list {
+    display: none;
 }
-.quire-contents-list .page-item.level-1, .quire-contents-list .section-item.level-1,
-.quire-contents-list .page-item.level-2, .quire-contents-list .section-item.level-2 {    
-    margin-bottom: 0.5rem;
-    line-height: 1;
+
+
+/* Chapters */
+
+.quire-essay.chapter .quire-page__header.hero .quire-page__header__contributor {
+    display: none;
 }
+
+
 
 /* Essay pages */
 
@@ -791,43 +788,50 @@ body#page-index .quire-navbar-controls__left .logos {
 //     justify-content: space-between;
 // }
 
+
+/* Timeline */
+
+body#page-timeline .quire-page__content .container .content ul li:before {
+    display: none;
+}
+
 /* Contributors */
 
-body#page-contributors li.quire-contributor {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-body#page-contributors .quire-contributor__bio {
-    margin-bottom: 1rem;
-}
-body#page-contributors .media ul {
-    display: none;
-    padding-left: 2rem;
-    margin-bottom: 0px !important;
-}
+// body#page-contributors li.quire-contributor {
+//     display: flex;
+//     flex-direction: column;
+//     align-items: center;
+// }
+// body#page-contributors .quire-contributor__bio {
+//     margin-bottom: 1rem;
+// }
+// body#page-contributors .media ul {
+//     display: none;
+//     padding-left: 2rem;
+//     margin-bottom: 0px !important;
+// }
 
 
-/* Checklist */
+/* Checklist / Works in the Exhibition */
 
-body#page-checklist .quire-page__header,
-body#page-checklist .quire:not(.no-js) .quire__primary main {
-    background-color: var(--dark-green);
-}
-body#page-checklist .quire-contents-buttons {
-    background-color: var(--off-white);
-}
-body#page-checklist .quire-page__header h1 {
-    color: #fff;
-}
-body#page-checklist .quire-contents-list.grid .page-item,
-body#page-checklist .quire-contents-list.grid ol li .card {
-    background-color: #fff;
-}
-body#page-checklist .quire-contents-list.grid ol li a {
+// body#page-works .quire-page__header,
+// body#page-works .quire:not(.no-js) .quire__primary main {
+//     background-color: var(--dark-green);
+// }
+// body#page-works .quire-contents-buttons {
+//     background-color: var(--off-white);
+// }
+// body#page-works .quire-page__header h1 {
+//     color: #fff;
+// }
+// body#page-works .quire-contents-list.grid .page-item,
+// body#page-works .quire-contents-list.grid ol li .card {
+//     background-color: #fff;
+// }
+body#page-works .quire-contents-list.grid ol li a {
     height: 100%;
 }
-body#page-checklist .quire-contents-list.grid ol li .card {
+body#page-works .quire-contents-list.grid ol li .card {
     display: flex;
     flex-direction: column;
     justify-content: space-between;

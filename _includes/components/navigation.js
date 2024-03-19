@@ -136,7 +136,7 @@ module.exports = function(eleventyConfig) {
         <nav class="quire-navbar-controls">
           <div class="quire-navbar-controls__left">
             <div class="logos">
-              <h1>The Life and Art of Tokio Ueyama</h1>
+              <h1><a href="/" title="Home" rel="home">The Life and Art of Tokio Ueyama</a></h1>
             </div>
           </div>
           <div class="quire-navbar-controls__center">
