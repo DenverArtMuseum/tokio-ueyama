@@ -390,8 +390,8 @@ figure_list:
   - id: exrr-2024-20
     src: figures/EXRR-2024-20.jpg
     label: "10"
-    credit: "Tokio Ueyama papers, 1908-circa 1954, bulk 1914-1945. Archives of American Art, Smithsonian Institution. https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289"
-    caption: Unknown photographer, Interior of Bunkado with Ueyama’s artworks on display, date unknown.
+    credit: "Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945. Archives of American Art, Smithsonian Institution. https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289"
+    caption: Unknown photographer, Interior of Bunkado with Ueyama’s artworks on display, about 1946–54.
     alt: The interior of a gift shop, with framed paintings hanging on the wall.
 
   - id: exrr-2024-21
@@ -453,7 +453,7 @@ figure_list:
   - id: exrr-2024-29
     src: figures/EXRR-2024-29.jpg
     label: "2"
-    credit: "Photograph Album of Cresson Travel Scholarship Trip to Europe, 1920–1922. Tokio Ueyama papers, 1908-circa 1954, bulk 1914-1945.  Archives of American Art, Smithsonian Institution. https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289"
+    credit: "Photograph Album of Cresson Travel Scholarship Trip to Europe, 1920–1922. Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945.  Archives of American Art, Smithsonian Institution. https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289"
     caption: Tokio Ueyama, Map of European travels, 1920.
     alt: A hand-drawn map in white against a black background.
 
