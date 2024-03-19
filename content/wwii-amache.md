@@ -80,7 +80,7 @@ Over twenty years later, when polishing these stones, Ueyama provides each a his
 
 [^14]: The sombrero takes on increased poignancy “as an image that recalls a happier time—and certainly a freer time.” Wang, *Chiura Obata*, 38.
 
-[^15]: Regarding the construction of Amache, see “[Amache Construction](https://amache.org/amache-construction/),” accessed November 28, 2023, [amache.org](file:///\\denverartmuseum.local\dfs\departments\curatorial\institute%20of%20western%20american%20art\Department\Ueyama\Essays\JR%20Essays\To%20review%201.4.2024\amache.org).
+[^15]: Regarding the construction of Amache, see “[Amache Construction](https://amache.org/amache-construction/),” accessed November 28, 2023, [amache.org](https://amache.org).
 
 [^16]: See Delphine Hirasuna, *The Art of Gaman: Arts and Crafts from the Japanese American Internment Camps, 1942–1946* (Berkeley, CA: Ten Speed Press, 2005), 7; and Harvey, 57. Family member David Hirai, who knew Ueyama, remembered that, when asked about the camp, Ueyama did not want to talk about it and said that they had made the best of it. Conversation with author, April 2024.
 
