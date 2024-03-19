@@ -116,11 +116,20 @@ h1 > em {
 }
 
 
-a.q-figure__modal-link.inline {
+.q-figure.q-figure--image.inline {
     display: inline;
+    margin: 0;
+    padding: 0;
+    border: none;
     line-height: inherit;
     color: rgb(142, 95, 127);
     border-bottom: 1px dotted rgb(142, 95, 127);
+}
+.q-figure.q-figure--image.inline .q-figure__modal-link {
+    display: inline;
+}
+.q-figure.q-figure--image.inline img {
+    display: none;
 }
 a.q-figure__modal-link.onhover {
     
