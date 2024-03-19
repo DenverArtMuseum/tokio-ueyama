@@ -1,0 +1,38 @@
+{
+  "_assets/fonts/montserrat/italic-latin-ext.woff2": {
+    "file": "_assets/italic-latin-ext.woff2",
+    "src": "_assets/fonts/montserrat/italic-latin-ext.woff2"
+  },
+  "_assets/fonts/montserrat/italic-latin.woff2": {
+    "file": "_assets/italic-latin.woff2",
+    "src": "_assets/fonts/montserrat/italic-latin.woff2"
+  },
+  "_assets/fonts/montserrat/latin-ext.woff2": {
+    "file": "_assets/latin-ext.woff2",
+    "src": "_assets/fonts/montserrat/latin-ext.woff2"
+  },
+  "_assets/fonts/montserrat/latin.woff2": {
+    "file": "_assets/latin.woff2",
+    "src": "_assets/fonts/montserrat/latin.woff2"
+  },
+  "_assets/images/cover-image.jpg": {
+    "file": "_assets/cover-image.jpg",
+    "src": "_assets/images/cover-image.jpg"
+  },
+  "_index-223321c5.js": {
+    "assets": [
+      "_assets/latin-ext.woff2",
+      "_assets/latin.woff2",
+      "_assets/italic-latin-ext.woff2",
+      "_assets/italic-latin.woff2"
+    ],
+    "css": [
+      "_assets/index.css"
+    ],
+    "file": "_assets/index-223321c5.js"
+  },
+  "index.css": {
+    "file": "_assets/index.css",
+    "src": "index.css"
+  }
+}
