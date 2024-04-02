@@ -38,19 +38,19 @@ Wang, ShiPu, ed. *Pictures of Belonging: Miki Hayakawa, Hisako Hibi, and Miné O
 
 **Online resources**
 
-The Amache Museum, <https://amache.org/amache-museum/>.
+[The Amache Museum](https://amache.org/amache-museum/).
 
-The Amache Preservation Society, <https://amache.org/>.
+[The Amache Preservation Society](https://amache.org/).
 
-Burton, J., M. Farrell, F. Lord, and R. Lord. *Confinement and Ethnicity: An Overview of World War II Japanese American Relocation Sites.* Tuscon, AZ: Western Archeological and Conservation Center, National Park Service, 2000. [Online book](https://www.nps.gov/parkhistory/online_books/anthropology74/index.htm).
+Burton, J., M. Farrell, F. Lord, and R. Lord. [*Confinement and Ethnicity: An Overview of World War II Japanese American Relocation Sites.*](https://www.nps.gov/parkhistory/online_books/anthropology74/index.htm) Tuscon, AZ: Western Archeological and Conservation Center, National Park Service, 2000.
 
-Densho, <https://densho.org/>.
+[Densho](https://densho.org/).
 
-DU Amache Research Project, <https://portfolio.du.edu/amache>.
+[DU Amache Research Project](https://portfolio.du.edu/amache).
 
 “[Granada (Amache) Relocation Center Colorado](https://www.nps.gov/parkhistory/online_books/internment/reporta3.htm),” in *Report to the President: Japanese-American Internment Sites Preservation*. US Department of the Interior, 2001.
 
-*The Granada Pioneer* at the [Library of Congress digitized archives](https://www.loc.gov/item/sn83025522/?st=calendar).
+[*The Granada Pioneer*](https://www.loc.gov/item/sn83025522/?st=calendar), Library of Congress digitized archives.
 
 Japanese American National Museum, [Timeline of Japanese American History](https://www.janm.org/sites/default/files/2021-12/janm-education-resources-common-ground-previsit-timeline-and-vocabulary-2021.pdf).
 
