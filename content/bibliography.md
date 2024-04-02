@@ -1,7 +1,7 @@
 ---
 title: Bibliography
 layout: bibliography
-order: 500
+order: 250
 ---
 
 **Selected Bibliography and Online Resources**
