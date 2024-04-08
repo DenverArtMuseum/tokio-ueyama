@@ -8,6 +8,17 @@ object_display_order:
 
 object_list:
 
+  - id: "19-2024"
+    figure:
+      - id: "19-2024"
+    artist: Tokio Ueyama
+    title: Untitled (Granada House)
+    year: "1943-44"
+    medium: Charcoal on paper
+    dimensions: 12 1/2 × 19 1/8 in.
+    credit: Private collection. © Estate of Tokio Ueyama
+    entry_number: 39
+
   - id: ptl-26158
     figure:
       - id: "ptl-26158"
@@ -435,7 +446,7 @@ object_list:
     medium: Drawing on paper
     dimensions: 15 × 18 in.
     credit: Private collection. © Estate of Tokio Ueyama
-    entry_number: 39
+    entry_number: 40
 
   - id: ptl-26183
     figure:
@@ -446,7 +457,7 @@ object_list:
     medium: Drawing on paper
     dimensions: 19 × 25 in.
     credit: Private collection. © Estate of Tokio Ueyama
-    entry_number: 40
+    entry_number: 41
 
   - id: ptl-26162-1-15
     figure:
@@ -457,5 +468,5 @@ object_list:
     medium: Various polished stones
     dimensions: 
     credit: Private collection. © Estate of Tokio Ueyama
-    entry_number: 41
+    entry_number: 42
 
