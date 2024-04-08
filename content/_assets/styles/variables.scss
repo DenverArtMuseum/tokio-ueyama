@@ -9,7 +9,14 @@
 $accent-color: $accent-orange;
 $content-background-color: $canvas; // main text area background color
 $secondary-background-color: $canvas; // only for modern theme
+
+/*
+ * Interactive elements
+ */
 $link-color: $accent-purple;
+$nav-button-base-color: $nav-button-blue;
+
+
 
 // Declare the theme: modern/classic
 $theme: modern;
@@ -36,7 +43,6 @@ $oswald-sans: "Oswald, sans-serif";
 // The typefaces we are actually using.
 // Currently have a freely licensable alternative to Avenir (Montserrat)
 // Looking for a headings typeface still.
-// Trying to match Baker Signet? Kind of don't like it. Strong Papyrus vibes
 $montserrat: 'Montserrat', sans-serif;
 
 
@@ -54,9 +60,9 @@ $quire-cover-text-scale: 1; // use decimal numbers such as .8 or 1.3
 // -----------------------------------------------------------------------------
 $quire-menu-width: 352px;
 
-$quire-menu-color: $dark-blue;
+$quire-menu-color: $desat-blue;
 $quire-menu-text-color: $white;
-$quire-menu-link-color: $accent-blue;
+$quire-menu-link-color: $desat-link-blue;
 
 // Image viewer (pop-up figure viewer & entry page viewer)
 // -----------------------------------------------------------------------------
@@ -124,7 +130,7 @@ $quire-progress-bar-height: 2px;
 
 // Declare navbar colors
 $quire-navbar-color: $desat-blue;
-$quire-navbar-hover-color: null;
+$quire-navbar-hover-color: $nav-button-blue;
 $quire-navbar-text-color: $canvas;
 
 @if $navbar == accent {

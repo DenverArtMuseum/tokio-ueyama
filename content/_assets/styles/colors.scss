@@ -14,11 +14,14 @@ $accent-blue: rgb(0, 151, 156); // #00969B
 
 // Nav colors
 $desat-blue: rgb(57, 56, 61); // #39383D
+$desat-link-blue: #7fa3e2;
 
-
+// Nav Button colors (unique)
+$nav-button-blue: #536a93; // contrast ratio with background: 8
 
 $accent-green: #99943d; // not likely to use. pretty bad contrast
 
+/* Quire colors */
 $black: #000000;
 $off-black: $dark-blue;
 $gray: #CCCCCC;

@@ -2,7 +2,6 @@
 :root {
     --off-black: #311508;
     --off-white: #f3f4ee;
-    --link-blue: #536a93;
     --black-olive: rgba(63, 64, 47, 1);
     --light-green: rgba(191, 185, 101, 1);
     --dark-green: rgba(140, 136, 74, 1);
@@ -29,6 +28,10 @@ body {
     line-height: 1.4;
 }
 
+/* Bulma assigns a color to strong for some reason? */
+strong {
+    color: inherit;
+}
 
 /*
  * For modern browsers
@@ -86,9 +89,6 @@ body {
     margin: -100px 0 0;
 }
 
-
-
-
 /* :lang(ja) {
     font-family: "Zen Kaku Gothic New", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, メイリオ, Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", "ＭＳ ゴシック" , "MS Gothic", "Noto Sans CJK JP", TakaoPGothic, sans-serif;
     -webkit-font-feature-settings: normal;
@@ -137,10 +137,6 @@ a.q-figure__modal-link.onhover {
 
 
 
-.quire-page__header .hero-body .quire-page__header__title {
-    color: #333;
-    // text-transform: uppercase;
-}
 .quire-page__header .hero-body .quire-page__header__title .separator {
     display: none;
 }
@@ -148,7 +144,6 @@ a.q-figure__modal-link.onhover {
     font-size: 2rem;
 }
 .quire-page__header__contributor {
-    color: #333;
     margin-top: 0;
 }
 .quire #main {
@@ -186,7 +181,8 @@ a.q-figure__modal-link.onhover {
     color: #ffffff !important;    
 }
 .quire-navbar a span.nav-text {
-    color: #ffffff !important;    
+    color: #ffffff !important;
+    font-weight: 500;
 }
 .quire-navbar svg {
     fill: #ffffff;
@@ -291,23 +287,11 @@ a.q-figure__modal-link.onhover {
    border: none; 
    background-color: transparent;
 }
-.quire-contents-buttons li.quire-nav-button.prev a {
-    color: var(--link-blue);
-}
 .quire-contents-buttons li.quire-nav-button.prev:hover a {
     color: #fff;
 }
-.quire-contents-buttons li.quire-nav-button.prev svg {
-    fill: var(--link-blue);
-}
 .quire-contents-buttons li.quire-nav-button.prev:hover svg {
     fill: #fff;
-}
-.quire-navbar-controls__left a:hover, .quire-navbar-controls__left button:hover, .quire-navbar-controls__left .button:hover, 
-.quire-navbar-controls__right a:hover, .quire-navbar-controls__right button:hover, .quire-navbar-controls__right .button:hover, 
-.quire-navbar-controls .quire-navbar-page-controls__item a:hover, .quire-navbar-controls .quire-navbar-page-controls__item button:hover, 
-.quire-navbar-controls .quire-navbar-page-controls__item .button:hover {
-    background-color: var(--link-blue);
 }
 
 .centered {
@@ -325,17 +309,18 @@ a.q-figure__modal-link.onhover {
     -webkit-transition: all 0.25s ease;
     transition: all 0.25s ease;
     font-size: 1rem;
-    border: 1px solid var(--link-blue);
+    border: 1px solid $nav-button-blue;
     background-color: transparent;
 }
 .button:hover {
-    background-color: var(--link-blue);
+    background-color: $accent-color;
+    border-color: $accent-color;
 }
 .button:hover a {
     color: #fff;
 }
 .button a {
-    color: var(--link-blue);
+    color: $nav-button-blue;
     display: inline-block;
     width: 8.75em;
     height: 3.25em;
@@ -343,6 +328,7 @@ a.q-figure__modal-link.onhover {
     padding-top: 0.2em;
     font-family: "Lato", sans-serif;
     font-size: 1rem;
+    font-weight: 500;
 }
 .button span.button-title {
     vertical-align: super;
@@ -698,6 +684,18 @@ section.footnotes.littlefoot--print {
     margin-left: 1.5rem;
 }
 
+.quire__secondary {
+    .quire-menu {
+        .menu-list {
+            font-weight: 500;
+        }
+        .quire-menu__formats {
+            h6 {
+                font-weight:800;
+            }
+        }
+    }
+}
 
 /* Entry pages */
 

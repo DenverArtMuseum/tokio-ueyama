@@ -30,8 +30,9 @@
     -webkit-transition: all .25s ease;
     transition: all .25s ease;
     font-size: 1rem;
-    border: 1px solid button-color($content-background-color);
-    color: button-color($content-background-color);
+    font-weight: 500;
+    border: 1px solid $nav-button-base-color;
+    color: $nav-button-base-color;
 
     a {
       display: inline-block;
@@ -47,11 +48,11 @@
       margin-left: 0;
       margin-right: .55rem;
       a {
-        color: button-color($secondary-background-color);
+        color: $nav-button-base-color;
         margin-right: .5rem;
       }
       svg {
-        fill: button-color($secondary-background-color);
+        fill: $nav-button-base-color;
         margin-right: .5rem;
       }
     }
@@ -68,27 +69,24 @@
     }
 
     &.next {
-      background-color: button-color($secondary-background-color);
+      background-color: $nav-button-base-color;
 
       svg {
-        fill: findColorInvert(button-color($secondary-background-color));
-      }
-      &:hover {
-        background-color: link-hover-color($secondary-background-color) !important;
+        fill: $content-background-color;
       }
       a {
-        color: findColorInvert(button-color($secondary-background-color));
+        color: $content-background-color;
       }
     }
 
     &:hover {
-      background-color: link-hover-color($secondary-background-color);
-      border-color: link-hover-color($secondary-background-color);
+      background-color: $accent-color;
+      border-color: $accent-color;
       a {
-        color: findColorInvert($accent-color);
+        color: $content-background-color;
       }
       svg {
-        fill: findColorInvert($accent-color);
+        fill: $content-background-color;
       }
     }
   }

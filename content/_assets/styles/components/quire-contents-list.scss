@@ -196,17 +196,17 @@
       }
       &:hover {
         background-color: inherit;
-        color: link-hover-color($secondary-background-color);
+        color: $accent-color;
         .arrow {
           transform: translateX(.75em);
           -webkit-transition: all .25s ease;
           fill: link-hover-color($secondary-background-color);
           svg {
-            fill: link-hover-color($secondary-background-color) !important;
+            fill: $accent-color !important;
           }
         }
         * {
-           color: link-hover-color($secondary-background-color);
+           color: $accent-color;
          }
          figure.image {
            -webkit-box-shadow: 0px 0px 6px 0px $black-semi-transparent;
@@ -397,7 +397,7 @@
           @if $theme == classic {
             fill: background-color-text-classic($content-background-color) !important;
           } @else {
-            fill: $accent-color;
+            fill: $link-color;
           }
         }
         .card.no-image {
@@ -504,7 +504,7 @@
         @if $theme == classic {
           color: background-color-text-classic($content-background-color);
         } @else {
-          color: $accent-color;
+          color: $link-color;
         }
 
         a {
@@ -523,7 +523,7 @@
             @if $theme == classic {
               fill: $off-black;
             } @else {
-              fill: $accent-color;
+              fill: $link-color;
             }
             vertical-align: text-bottom;
           }
