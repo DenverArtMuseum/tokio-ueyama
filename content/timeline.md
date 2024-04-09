@@ -20,9 +20,7 @@ order: 90
 
 : In 1910, Ueyama enrolls in the painters’ course at the University of Southern California, graduating with a degree in fine arts in 1914 (fig. 1).[^6]
 
-{% figure 'exrr-2024-28' 'is-pulled-right' %}
-
-: The 1913 Alien Land Laws in California and Arizona prohibit Asian immigrant males from purchasing or owning land.[^7]
+: {% figure 'exrr-2024-28' 'is-pulled-right' %} The 1913 Alien Land Laws in California and Arizona prohibit Asian immigrant males from purchasing or owning land.[^7]
 
 : In 1916, Ueyama is included in the Southern California Japanese Art Club exhibition at the Nippon Club in Los Angeles, his first recorded exhibition.[^8]
 
@@ -36,9 +34,7 @@ order: 90
 
 : On July 8, 1920, Ueyama leaves New York City on the ship *Canopic* headed to Europe for his Cresson scholarship summer (fig. 2).
 
-{% figure 'exrr-2024-29' 'is-pulled-left' %}
-
-: The *Canopic* makes a brief stop at the Azores, then carries on to Gibraltar, where Ueyama stays for multiple days and takes a short excursion north into Spain. The ship then carries on to Naples, where he disembarks and stays for more than a week, taking excursions to Capri and Pompei. From Naples, Ueyama travels by train to Rome, where he stays for over a week. From Rome, he takes the train to Florence, where he stays for more than a week, before moving to Venice for multiple days. From there, he travels to Milan, Genoa, Nice, and Marseille, staying multiple days at each and making shorter stops in Ventimiglia and Monte Carlo. From Marseille, he takes a train to Paris, where he stays more than a week. From Paris, he takes a train to Le Havre and embarks on the SS *France* on September 26, arriving in New York on October 4.[^12]
+: {% figure 'exrr-2024-29' 'is-pulled-left' %} The *Canopic* makes a brief stop at the Azores, then carries on to Gibraltar, where Ueyama stays for multiple days and takes a short excursion north into Spain. The ship then carries on to Naples, where he disembarks and stays for more than a week, taking excursions to Capri and Pompei. From Naples, Ueyama travels by train to Rome, where he stays for over a week. From Rome, he takes the train to Florence, where he stays for more than a week, before moving to Venice for multiple days. From there, he travels to Milan, Genoa, Nice, and Marseille, staying multiple days at each and making shorter stops in Ventimiglia and Monte Carlo. From Marseille, he takes a train to Paris, where he stays more than a week. From Paris, he takes a train to Le Havre and embarks on the SS *France* on September 26, arriving in New York on October 4.[^12]
 
 : Ueyama completes his studies at PAFA in 1921.
 
@@ -63,9 +59,7 @@ order: 90
 
 : In November 1924, Ueyama presents a one-man exhibition of twenty-five works at the gallery at the University of Oregon in Eugene. His friend and PAFA classmate Nowland B. Zane (1885–1945), a professor at the university, probably invited him to exhibit.[^22]
 
-{% figure 'exrr-2024-30' 'is-pulled-right' %}
-
-: In 1924, Ueyama is commissioned to create murals of Romeo and Juliet and Macbeth for the Elsinore Theatre in Salem, Oregon. Currently, these are attributed to Zane and may have been a shared commission (fig. 3).[^23] The Elsinor Theater opened to the public on May 28, 1926.
+: {% figure 'exrr-2024-30' 'is-pulled-right' %} In 1924, Ueyama is commissioned to create murals of Romeo and Juliet and Macbeth for the Elsinore Theatre in Salem, Oregon. Currently, these are attributed to Zane and may have been a shared commission (fig. 3).[^23] The Elsinor Theater opened to the public on May 28, 1926.
 
 : In April 1925, Ueyama exhibits *Portrait of Miss B.* (no. 73) at the *Sixth Exhibition:* *Painters and Sculptors of Southern California*, Los Angeles Museum of History, Science, and Art.[^24]
 
@@ -87,9 +81,7 @@ order: 90
 
 : From April 6 to May 17, 1928, Ueyama exhibits *Portrait in Black* (no. 83) at the *Ninth Exhibition:* *Painters and Sculptors of Southern California*, Los Angeles Museum of History, Science, and Art.[^34]
 
-{% figure 'exrr-2024-31' 'is-pulled-left' %}
-
-: On July 23, 1928, Ueyama marries Suye Tsukada in a ceremony at California’s Mission Inn in Riverside in a ceremony led by Reverend Taizo Kitagawa (fig. 4).[^35]
+: {% figure 'exrr-2024-31' 'is-pulled-left' %} On July 23, 1928, Ueyama marries Suye Tsukada in a ceremony at California’s Mission Inn in Riverside in a ceremony led by Reverend Taizo Kitagawa (fig. 4).[^35]
 
 : From April 14 to 28, 1929, Ueyama exhibits *Portrait Study in Black* (no. 158) in the 51st San Francisco Art Association exhibition.[^36]
 
@@ -142,9 +134,7 @@ order: 90
 
 : The Ueyamas arrive at Amache on September 19, 1942, and reside at barrack 6F-7C.[^58] With Koichi Nomiyama (1900–1984), Ueyama supervises and teaches art classes three times a day, three days a week, in one of the rec halls (fig. 5).[^59]
 
-{% figure 'exrr-2024-32' 'is-pulled-right' %}
-
-: On February 1, 1943, President Roosevelt activates the 442nd Regimental Combat Team, a segregated regiment of Japanese Americans.[^60] On August 10, 1944, the 100th Infantry Battalion is integrated into the 442nd.[^61] These would become the most decorated units of their size in US military history.[^62] Thirty-one members of Amache are killed at war.[^63]
+: {% figure 'exrr-2024-32' 'is-pulled-right' %} On February 1, 1943, President Roosevelt activates the 442nd Regimental Combat Team, a segregated regiment of Japanese Americans.[^60] On August 10, 1944, the 100th Infantry Battalion is integrated into the 442nd.[^61] These would become the most decorated units of their size in US military history.[^62] Thirty-one members of Amache are killed at war.[^63]
 
 : From March 6 to 8, 1943, Ueyama exhibits *The Evacuee* at the Arts and Crafts Festival at Amache held in Terry Hall.[^64]
 
@@ -161,9 +151,7 @@ order: 90
 1946–69, Los Angeles
 : In November 1946, a group of artists including Ueyama form the Los Angeles Palette Club.[^70]
 
-{% figure 'exrr-2024-33' %}
-
-: In 1947, Suye and Tokio open the gift shop Bunkado (fig. 6).[^71]
+: {% figure 'exrr-2024-33' %} In 1947, Suye and Tokio open the gift shop Bunkado (fig. 6).[^71]
 
 : From May 2 to 4, 1947, Japanese artists of the LA Palette Club exhibit artwork created at relocation centers at the Daishi Mission, or Koyasas Beikoku Betsuin, on 342 East First Street. Ueyama exhibits *At Santa Anita* (known as *The Evacuee*, no. 48), *Yucca Trees* (no. 49), *Amache Center* (no. 50), *Passing Shower* (no. 51), *Our Corn Patch* (no. 52), *Cactus* (no. 53), and *Manzanar* (no. 54). Ueyama serves as chairman of the exhibition.[^72]
 

@@ -868,7 +868,11 @@ body#page-works .quire-contents-list.grid .menu-list a:hover {
 dl {
     dt {
         line-height: 2;
-        margin-bottom: 1rem;
+        margin-bottom: .25rem;
+        position: sticky;
+        top: 70px;
+        background-color: $canvas;
+        z-index: 5;
     }
     dd {
         p {
