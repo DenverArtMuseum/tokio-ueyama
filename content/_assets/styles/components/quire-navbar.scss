@@ -28,7 +28,7 @@
   font-weight: 400;
   font-size: .875em;
   position: sticky;
-  z-index: 1;
+  z-index: 100;
 
   svg {
     height: calc(#{$navbar-height} * .65);

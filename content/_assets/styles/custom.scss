@@ -614,6 +614,12 @@ section.footnotes.littlefoot--print {
 // Would love to use the littlefoot variables as intended,
 // but the littlefoot javascript imports littlefoot.css
 // from the vendor directory and overwrites them. Neat.
+.quire-page__content .container .content .littlefoot {
+    // Prevent footnotes from ending up on a different line than
+    // the content that precedes them
+    unicode-bidi: isolate;
+    white-space: nowrap;
+}
 .littlefoot__button {
     background-color: $accent-purple !important;
     color: $canvas !important;
@@ -852,9 +858,26 @@ body#page-works .quire-contents-list.grid ol li .card {
 body#page-works .quire-contents-list.grid .menu-list a:hover {
     border-radius: .25rem;
     box-shadow: 0 .375rem .875rem .375rem rgba(0,0,0,0.5);
-    z-index: 1000; // prevents neighboring card from occluding shadow
+    z-index: 10; // prevents neighboring card from occluding shadow
     figure.image {
         box-shadow: none;
+    }
+}
+
+/* Timeline */
+dl {
+    dt {
+        line-height: 2;
+        margin-bottom: 1rem;
+    }
+    dd {
+        p {
+            line-height: 2;
+        }
+
+        & + dt {
+            margin-top: 2rem;
+        }
     }
 }
 

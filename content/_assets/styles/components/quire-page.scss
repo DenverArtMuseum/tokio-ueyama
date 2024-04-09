@@ -268,7 +268,7 @@ html {
             font-weight: 700;
           }
           dd {
-            margin-left: 0;
+            margin-left: 3em;
             margin-bottom: 1em;
           }
         }
@@ -394,8 +394,6 @@ html {
           p {
             // font-size: 0.875em;
             line-height: 1.6em !important;
-          }
-          dl {
           }
 
           .media {
@@ -777,8 +775,7 @@ html {
       }
     }
 
-    ol,
-    dl {
+    ol {
       margin-left: 3em;
     }
 
