@@ -136,6 +136,14 @@ a.q-figure__modal-link.onhover {
 }
 
 
+.q-figure--group {
+    &.break-grid {
+        width: 95vw;
+        position: relative;
+        left: 50%;
+        transform: translate(-50%,0);
+    }
+}
 
 .quire-page__header .hero-body .quire-page__header__title .separator {
     display: none;

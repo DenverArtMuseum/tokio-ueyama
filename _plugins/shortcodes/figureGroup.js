@@ -9,12 +9,14 @@ const logger = chalkFactory('shortcodes:figureGroup')
  *
  * @param      {Object}  eleventyConfig  eleventy configuration
  * @param      {Array<id>}  ids          An array or list of figure identifiers
+ * @param      {Array<class>}  classes          An array or list of CSS classes
  * @return     {String}  An HTML string of the elements to render
  */
 module.exports = function (eleventyConfig, { page }) {
 
-  return async function (columns, ids=[]) {
+  return async function (columns, ids=[], custom=[]) {
     columns = parseInt(columns)
+    custom = typeof custom === 'string' ? [custom] : custom
 
     /**
      * Parse the ids arg for figure identifiers
@@ -46,7 +48,7 @@ module.exports = function (eleventyConfig, { page }) {
     }
 
     return oneLine`
-      <figure class="q-figure q-figure--group">
+      <figure class="q-figure q-figure--group ${custom.join(' ')}">
         ${figureTags.join('\n')}
       </figure>
     `

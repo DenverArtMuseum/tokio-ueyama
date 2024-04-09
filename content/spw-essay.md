@@ -10,7 +10,7 @@ contributor:
 
 When I first encountered several paintings of a similar coastal scene by Tokio Ueyama, I admittedly did not regard them as something particularly special. Sure, seeing multiple versions of the same rock formations across a watercolor sketchbook, a small oil, and a larger finished oil painting did generate a mental note: this must be a meaningful place for the artist. I later learned a few factors that made this series of landscapes stand out even more from the hundreds of artworks I have seen by this artist: the smaller oil, dated February 1944, was created at the Amache incarceration camp where Ueyama was imprisoned during World War II, and the scenery features the coast of Katsuura (勝浦), a part of Nachikatsuura (那智勝浦) in the southeast part of Wakayama Prefecture (和歌山県) in Japan, the same prefecture where Ueyama was born and raised.[^1]
 
-{% figuregroup '3' 'ptl-26193, ptl-26169, ptl-26170' %}
+{% figuregroup '3' 'ptl-26193, ptl-26169, ptl-26170' 'break-grid' %}
 
 The Katsuura series was produced over a span of nearly eight years. Ueyama likely made the watercolor sketch in 1936–37, during his only return to his hometown in Wakayama since emigrating to the United States in 1908. He worked on at least one smaller oil sketch (DIMS) probably in preparation for the much larger painting (38 by 43 1/2 inches). We know he began working on this larger painting on February 4, 1940, thanks to the short entries of his daily activities that he wrote in multiple daybooks over many years; the last mention of Katsuura was on February 26, 1940.[^2] Two final Katsuura landscapes, one in oil and one in charcoal, were created when Ueyama was incarcerated in Amache from 1942 to 1945.
 
