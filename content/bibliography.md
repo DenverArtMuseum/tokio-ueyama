@@ -36,7 +36,7 @@ Wang, ShiPu. *The Other American Moderns: Matsura, Ishigaki, Noda, Hayakawa.* Un
 
 Wang, ShiPu, ed. *Pictures of Belonging: Miki Hayakawa, Hisako Hibi, and Miné Okubo.* Los Angeles: Japanese American National Museum, 2023.
 
-**Online resources**
+**Online Resources**
 
 The Amache Museum, <https://amache.org/amache-museum/>.
 
