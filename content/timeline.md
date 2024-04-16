@@ -1,6 +1,6 @@
 ---
 label: 
-title: The Life of Tokio Ueyama
+title: Timeline of Ueyama's Life
 subtitle: 
 short_title: Timeline
 layout: essay
