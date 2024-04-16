@@ -9,7 +9,8 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'https://denverartmuseum.github.io/tokio-ueyama/'
+#url: 'https://denverartmuseum.github.io/tokio-ueyama/'
+url: 'https://tokio-ueyama.denverartmuseum.github.io/'
 
 # ------------------------------------------------------------------------------
 # Title & Description
@@ -89,7 +90,7 @@ resource_link:
     name: PDF
     media_type: application/pdf
     link_relation: alternate
-    url: /downloads/output.pdf
+    url: /_assets/downloads/tokio-ueyama.pdf
   # - type: other-format
   #   name: EPUB
   #   media_type: application/epub+zip

@@ -4,8 +4,6 @@ title: Director's Foreword
 subtitle:
 layout: essay
 order: 3
-classes:
-  - 
 contributor:
   - id: cheinrich  
 abstract:

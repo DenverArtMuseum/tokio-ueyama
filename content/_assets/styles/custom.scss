@@ -89,6 +89,12 @@ strong {
     margin: -100px 0 0;
 }
 
+
+q-modal {
+    background-color: $desat-blue;
+}
+
+
 /* :lang(ja) {
     font-family: "Zen Kaku Gothic New", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, メイリオ, Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", "ＭＳ ゴシック" , "MS Gothic", "Noto Sans CJK JP", TakaoPGothic, sans-serif;
     -webkit-font-feature-settings: normal;
@@ -121,18 +127,22 @@ h1 > em {
     margin: 0;
     padding: 0;
     border: none;
-    line-height: inherit;
-    color: rgb(142, 95, 127);
     border-bottom: 1px dotted rgb(142, 95, 127);
 }
 .q-figure.q-figure--image.inline .q-figure__modal-link {
     display: inline;
+    line-height: inherit;
+    color: rgb(142, 95, 127);
 }
 .q-figure.q-figure--image.inline img {
     display: none;
 }
 a.q-figure__modal-link.onhover {
     
+}
+
+.q-figure.q-figure--image .q-figure__credit {
+    display: none;
 }
 
 
@@ -602,7 +612,35 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
 }
 
 
+.quire-page__header.hero-image {
+    margin-bottom: 60px !important;
+    position: relative;
+}
+.quire-page__header.hero-image .hero-credit-icon:after {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    display: inline-block;
+    content: "i";
+    font-size: 16px;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 25px;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    line-height: 1.2;
+}
+.quire-page__header.hero-image .hero-credit {
+    color: #fff;
+    position: absolute;
+    bottom: 10px;
+    left: 40px;
+    font-size: .9rem;
+    text-align: left;
 
+    display: none;
+}
 
 
 
@@ -611,6 +649,10 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
 .littlefoot {
     --button-font-size: .65rem !important;
 }
+.littlefoot__content {
+    font-family: $montserrat !important;
+}
+
 section.footnotes.littlefoot--print {
     border-top: 1px solid $off-black;
     margin-top: 4.375rem !important;
@@ -728,29 +770,18 @@ main.quire-page.quire-entry .quire-entry__content {
 
 /* Cover */
 
-body#page-index .quire-cover__hero-body > .container:first-child {
-    display: none;
+body#page-index .quire-cover__hero-body .container.is-fluid {
+    background-color: transparent;
+    top: 40%;
+    left: 30%;
 }
-// body#page-index .quire-cover__hero-body .title {
-//     font-size: 3rem;
-//     word-spacing: 0.4em;
-//     font-weight: bold;
-//     letter-spacing: 0.9rem;
-//     margin: auto;
-//     -webkit-animation: fadeIn 4s;
-//     animation: fadeIn 4s;
-//     -webkit-animation-fill-mode: backwards;
-//     animation-fill-mode: backwards;
-//     -webkit-animation-delay: 0.5s;
-//     animation-delay: 0.5s;
-// }
-body#page-index .contributor {
+body#page-index .quire-cover__hero-body h1.title, body#page-index .quire-cover__hero-body .contributor {
     display: none;
 }
 
-// body#page-index .quire-navbar-controls__left .logos {
-//     display: none;
-// }
+body#page-index .quire-navbar-controls__left .logos {
+    display: none;
+}
 
 /* Contents */
 
@@ -760,6 +791,10 @@ body#page-index .contributor {
 // .table-of-contents .contributor-divider, .table-of-contents .contributor {
 //     display: none;
 // }
+
+body#page-contents .table-of-contents .subtitle {
+    display: none;
+}
 
 
 body#page-contents .quire-contents-list .menu-list a .arrow {

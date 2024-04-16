@@ -456,3 +456,17 @@ $(window).scroll( function(){
   }); 
 
 });
+
+
+$(".footnotes.littlefoot--print").each(function() {
+  if( $(this).find('>ol') ) {
+    $(this).prepend($('<h5 class="footnotes-title">Notes</h5>'));
+  }  
+});
+
+
+$(".footnotes .littlefoot__popover .littlefoot__content").each(function() {
+  if( $(this).find('>ol') ) {
+    $(this).prepend($('<h5 class="footnotes-title">Notes</h5>'));
+  }  
+});
