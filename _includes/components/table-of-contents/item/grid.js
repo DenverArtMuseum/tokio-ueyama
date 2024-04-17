@@ -60,6 +60,7 @@ module.exports = function (eleventyConfig) {
     const imageAttribute = image || pageFigure || pageObject ? 'image' : 'no-image'
     const slugPageAttribute = children ? 'slug-page' : ''
 
+    let entry_number
     let imageElement
     switch (true) {
       case !!image:
@@ -87,6 +88,7 @@ module.exports = function (eleventyConfig) {
         imageElement = firstObjectFigure
           ? tableOfContentsImage({ src: firstObjectFigure.src })
           : ''
+        entry_number = object.entry_number
         break
       }
       default:
@@ -100,7 +102,7 @@ module.exports = function (eleventyConfig) {
         <div id="${page_id}" class="card ${imageAttribute} ${slugPageAttribute}">
           ${imageElement}
           <div class="card-content">
-            ${mainElement}
+            Cat. ${entry_number}, ${mainElement}
           </div>
         </div>
       `

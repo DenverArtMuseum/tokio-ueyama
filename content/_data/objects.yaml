@@ -1,10 +1,10 @@
 object_display_order:
+  - title
   - artist
   - year
   - medium
   - dimensions
   - credit
-  - entry_number
 
 object_list:
 
