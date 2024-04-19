@@ -391,7 +391,22 @@ a.q-figure__modal-link.onhover {
 }
 
 
-
+/* Page headers */
+@media screen and (min-width: $desktop) {
+    #page-introduction, #page-early-life, #page-american-art-education,
+    #page-california, #page-wwii-amache, #page-legacy {
+      .quire-page__header.hero {
+        background-image: linear-gradient(180deg, rgba(246,239,223,0) 30%, rgb(246, 239, 223) 90%), url('/_assets/images/header-background/bg01.jpg');
+        background-size: cover;
+      }
+    }
+    #page-spw-essay {
+      .quire-page__header.hero {
+        background-image: linear-gradient(180deg, rgba(246,239,223,0) 15%, rgb(246, 239, 223) 90%), url('/_assets/images/header-background/bg02.jpg');
+        background-size: cover;
+      }
+    }
+  }
 
 /* Page Layout */
 
