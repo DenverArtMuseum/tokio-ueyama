@@ -61,7 +61,7 @@ Given Ueyama’s positive reviews, regular exhibitions, and significant trip to 
 
 [^1]: For an overview of Little Tokyo’s history, see “[Little Tokyo Historic District](https://www.nps.gov/places/little-tokyo-historic-district.htm),” National Park Service, accessed November 15, 2023.
 
-[^2]: See “Photographs by Edward Weston on Exhibition,” undated but probably July 1927, red scrapbook, Bunkado collection, 17. Higa provides the date of July 7, 1927, in *A View from Within*, 30. For the most complete account of the Shaku-do-sha, see Higa, “Hidden in Plain Sight.”
+[^2]: See “Photographs by Edward Weston on Exhibition,” undated but probably July 1927, red scrapbook, Bunkado collection, 17. Karin Higa provides the date of July 7, 1927, in her *A View from Within: Japanese American Art from the Internment Camps, 1942–1945* (Los Angeles: Japanese American National Museum, 1992), 30. For the most complete account of the Shaku-do-sha, see Higa, “Hidden in Plain Sight: Little Tokyo between the Wars,” *Asian American Art: A History, 1850–1970*, edited by Gordon Chang (Stanford, CA: Stanford University Press, 2008).
 
 [^3]: The Shaku-do-sha exhibited Weston’s work in 1925, 1927, and 1931.
 
@@ -87,9 +87,9 @@ Given Ueyama’s positive reviews, regular exhibitions, and significant trip to 
 
 [^14]: Chang, “Emerging from the Shadows,” xi.
 
-[^15]: See letters in the Nozaki collection (AAA), many of which are written by the author Frances Toor.
+[^15]: See letters in the Tokio Ueyama papers, many of which are written by the author Frances Toor. [Tokio Ueyama papers, 1908-circa 1954, bulk 1914-1945](https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289), Archives of American Art, Smithsonian Institution.
 
-[^16]: “Tokio Ueyama: Un Pintor Japonés en México,” *Revista de Revistas*, September 6, 1925, 17–18 and 42. Page 42 is missing in the clipping available in the red scrapbook, Bunkado collection, 20–21. I am grateful to Memphis Despain for translating this article while ShiPu Wang’s research assistant in August 2022. See also a print of Rivera’s Chapingo mural (*Dividing the Land*) signed by the artist in the Nozaki collection (AAA).
+[^16]: “Tokio Ueyama: Un Pintor Japonés en México,” *Revista de Revistas*, September 6, 1925, 17–18 and 42. Page 42 is missing in the clipping available in the red scrapbook, Bunkado collection, 20–21. I am grateful to Memphis Despain for translating this article while ShiPu Wang’s research assistant in August 2022. See also a print of Rivera’s Chapingo mural (*Dividing the Land*) signed by the artist in the [Tokio Ueyama papers](https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289), Archives of American Art.
 
 [^17]: On Weston and the Shaku-do-sha, see Karin Higa, *The View from Within: Japanese American Art from the Internment Camps, 1942–1945* (Los Angeles: Japanese American National Museum, 1992), 31.
 
@@ -101,8 +101,8 @@ Given Ueyama’s positive reviews, regular exhibitions, and significant trip to 
 
 [^21]: “Tokio Ueyama’s Success,” March 21, 1936, red scrapbook, Bunkado collection, 22.
 
-[^22]: In a letter sent to Ueyama, the Association stated, “As an artist well trained in the best American schools, and a resident of Los Angeles, we believe that you are in a position to accomplish splendid results in creating a better understanding of the art developments around the Pacific Ocean.” Nozaki collection (AAA)
+[^22]: In a letter sent to Ueyama, the Association stated, “As an artist well trained in the best American schools, and a resident of Los Angeles, we believe that you are in a position to accomplish splendid results in creating a better understanding of the art developments around the Pacific Ocean.” [Tokio Ueyama papers](https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289), Archives of American Art.
 
 [^23]: See Memorial Exhibition catalog, Bunkado collection. I am grateful to Noriko Okada for her translation of the Japanese.
 
-[^24]: Ueyama’s 1937–41 diary, Nozaki collection (AAA). I am grateful to Noriko Okada for sharing relevant excerpts of her translations.
+[^24]: Ueyama’s 1937–41 diary, [Tokio Ueyama papers](https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289), Archives of American Art. I am grateful to Noriko Okada for sharing relevant excerpts of her translations.

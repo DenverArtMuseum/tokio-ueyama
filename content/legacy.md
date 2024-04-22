@@ -28,7 +28,7 @@ Due to efforts by people formerly incarcerated and their families starting in th
 
 Because of these efforts, Amache’s legacy as a place of remembrance and education is ensured. Ueyama’s work sheds light on the lived experience of Amache, on the consequences of forced relocation, and on the important role of the arts in nurturing resilience, agency, and identity. As a whole, Ueyama’s life helps reveal untold histories, and his oeuvre stands the test of time as a significant contribution to American art.
 
-[^1]: Tule Lake marked the last camp to close, on March 20, 1946. See Harvey, 283.
+[^1]: Tule Lake marked the last camp to close, on March 20, 1946. See Robert Harvey, *Amache: The Story of Japanese Internment in Colorado during World War II* (Scottsdale, AZ: Hawes & Jenkins, 2023), 283.
 
 [^2]: Many incarcerated people felt complicated feelings of both relief and fear when leaving camp, having experienced anti-Japanese sentiment outside its barbed wire fences. See Harvey, “Going Home,” 263–83.
 
