@@ -793,12 +793,36 @@ main.quire-page.quire-entry .quire-entry__content {
 
 
 /* Cover */
+.quire-cover__hero-body {
+  .container.is-fluid {
+    min-width: 300px;
 
-.page-cover .quire-cover__hero-body .container.is-fluid {
-    background-color: transparent;
-    top: 40%;
-    left: 30%;
+    img {
+      width: 100%;
+    }
+
+  }
+
+  .title {
+    display: block;
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    width: 1px;
+  }
 }
+
+@media screen and (min-width: $tablet) {
+  .quire-cover__hero-body {
+    .container.is-fluid {
+      max-width: 32rem;
+      min-width: 22rem;
+      padding: 4rem 6rem;
+    }
+  }
+}
+
 .page-cover .quire-cover__hero-body h1.title, .page-cover .quire-cover__hero-body .contributor {
     display: none;
 }
