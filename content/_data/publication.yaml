@@ -9,8 +9,8 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-#url: 'https://denverartmuseum.github.io/tokio-ueyama/'
-url: 'https://tokio-ueyama.denverartmuseum.github.io/'
+url: 'https://denverartmuseum.github.io/tokio-ueyama/'
+#url: 'https://tokio-ueyama.denverartmuseum.github.io/'
 #url: 'https://localhost:8080/tokio-ueyama/'
 
 # ------------------------------------------------------------------------------

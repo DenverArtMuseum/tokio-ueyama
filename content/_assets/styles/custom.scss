@@ -223,6 +223,9 @@ a.q-figure__modal-link.onhover {
 .quire-navbar-controls__left .logos a:hover {
     background-color: transparent;
 }
+.quire-navbar-controls__left .logos a {
+    padding: .25rem 0 0;
+}
 .quire-navbar-controls__left .logos img {
     max-width: 80%;
 }
@@ -799,9 +802,6 @@ main.quire-page.quire-entry .quire-entry__content {
 .page-cover .quire-cover__hero-body h1.title, .page-cover .quire-cover__hero-body .contributor {
     display: none;
 }
-.page-cover .quire-navbar-controls__left .logos {
-    display: none;
-}
 
 /* Contents */
 
@@ -1119,10 +1119,6 @@ dl {
     .quire-navbar-page-controls__item.quire-previous-page a span.nav-text,
     .quire-navbar-page-controls__item.quire-next-page a span.nav-text {
         display: none;
-    }
-
-    .quire-navbar .logos h1 {
-        font-size: 14px !important;
     }
 
     .quire-navbar-button.menu-button .is-hidden-touch,
