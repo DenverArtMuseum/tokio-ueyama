@@ -1,6 +1,5 @@
 object_display_order:
   - title
-  - artist
   - year
   - medium
   - dimensions
