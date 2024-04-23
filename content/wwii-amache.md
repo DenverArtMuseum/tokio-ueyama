@@ -111,7 +111,7 @@ Over twenty years later, when polishing these stones, Ueyama provides each a his
 
 [^13]: The objective of the agricultural project at Amache was to grow adequate produce for the incarcerated people. The project was so successful that produce was sometimes sent to other camps. See Fuchigami, 49; and Harvey, 169–70.
 
-[^14]: The sombrero takes on increased poignancy “as an image that recalls a happier time—and certainly a freer time.” Wang, *Chiura Obata*, 38.
+[^14]: The sombrero takes on increased poignancy “as an image that recalls a happier time—and certainly a freer time.” ShiPu Wang, *Chiura Obata: An American Modern* (Oakland, CA: University of California Press, 2018), 38.
 
 [^15]: Regarding the construction of Amache, see “[Amache Construction](https://amache.org/amache-construction/),” accessed November 28, 2023, [amache.org](https://amache.org).
 
