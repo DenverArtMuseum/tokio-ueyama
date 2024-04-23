@@ -672,6 +672,8 @@ article.quire-page--right-column .quire-page__content .container .content .is-pu
 
 .littlefoot {
     --button-font-size: .65rem !important;
+    --popover-max-height: 15em !important;
+    --popover-max-width: 90% !important;
 }
 .littlefoot__content {
     font-family: $montserrat !important;
@@ -693,6 +695,10 @@ section.footnotes.littlefoot--print {
     // the content that precedes them
     unicode-bidi: isolate;
     white-space: nowrap;
+
+    .littlefoot__wrapper {
+        white-space: wrap;
+    }
 }
 .littlefoot__button {
     background-color: $accent-purple !important;
