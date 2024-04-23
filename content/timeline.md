@@ -7,115 +7,126 @@ layout: essay
 order: 90 
 ---
 
-1889–1908, Early Life
-: Tokio Ueyama is born on September 22, 1889, in Toyajo, Wakayama Prefecture, to parents Sojuro and Hamaye Nakai Ueyama. His Japanese education includes Toyajyo Elementary School, Taikuy Junior High School, Prefecture High School, and Eastlake English School. While studying at Eastlake, he works for the design department of the Imperial Japanese Army General Staff Office in Tokyo.[^1]
-: In April 1908, a nearly eleven-year-old Suye Tsukada (1897–1969) leaves Japan on the ship *Iyo Maru* with her father, Tomojiro Tsukada, and mother, Hana Uyeda Tsukada, and arrives in Seattle on April 17.[^2] (Twenty years later, Suye marries Tokio in California.)
-: Ueyama arrives at Seattle, Washington, on May 7, 1908, after sailing from Yokohama on the ship *Kaga Maru*.[^3]
+## 1889–1908, Early Life
 
-1909–21, American Art Education
+Tokio Ueyama is born on September 22, 1889, in Toyajo, Wakayama Prefecture, to parents Sojuro and Hamaye Nakai Ueyama. His Japanese education includes Toyajyo Elementary School, Taikuy Junior High School, Prefecture High School, and Eastlake English School. While studying at Eastlake, he works for the design department of the Imperial Japanese Army General Staff Office in Tokyo.[^1]
 
-: In November 1909, Ueyama enrolls at the California School of Design (later renamed the San Francisco Art Institute) and leaves in February 1910.[^4]
+In April 1908, a nearly eleven-year-old Suye Tsukada (1897–1969) leaves Japan on the ship *Iyo Maru* with her father, Tomojiro Tsukada, and mother, Hana Uyeda Tsukada, and arrives in Seattle on April 17.[^2] (Twenty years later, Suye marries Tokio in California.)
 
-: On April 6, 1910, Ueyama’s mother dies. He is twenty years old.[^5]
+Ueyama arrives at Seattle, Washington, on May 7, 1908, after sailing from Yokohama on the ship *Kaga Maru*.[^3]
 
-: In 1910, Ueyama enrolls in the painters’ course at the University of Southern California, graduating with a degree in fine arts in 1914 (fig. 1).[^6]
+## 1909–21, American Art Education
 
-: {% figure 'exrr-2024-28' 'is-pulled-right' %} The 1913 Alien Land Laws in California and Arizona prohibit Asian immigrant males from purchasing or owning land.[^7]
+In November 1909, Ueyama enrolls at the California School of Design (later renamed the San Francisco Art Institute) and leaves in February 1910.[^4]
 
-: In 1916, Ueyama is included in the Southern California Japanese Art Club exhibition at the Nippon Club in Los Angeles, his first recorded exhibition.[^8]
+On April 6, 1910, Ueyama’s mother dies. He is twenty years old.[^5]
 
-: In 1917, Ueyama moves to the East Coast and studies at the Pennsylvania Academy of the Fine Arts (PAFA) in Philadelphia until 1921.[^9]
+In 1910, Ueyama enrolls in the painters’ course at the University of Southern California, graduating with a degree in fine arts in 1914 (fig. 1).[^6]
 
-: In June 1918, he receives an honorable mention at PAFA for his work in perspective.[^10]
+{% figure 'exrr-2024-28' 'is-pulled-right' %}
 
-: In November 1919, he exhibits in the *Third Exhibition of Work Done at Chester Springs, the Summer School of the Pennsylvania Academy of the Fine Arts*.[^11] Works on display include a <span id="ptl-26158" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26158" data-outputs-include="html"><img alt="A white sculpture of a head looking to the left is set against a mottled blue background." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26158.jpg">sculpture bust exhibited as *Head*</a></span> (no. 2), *The Spring House* (no. 32), *The Hills* (no. 103), and *Portrait* (no. 124).
+The 1913 Alien Land Laws in California and Arizona prohibit Asian immigrant males from purchasing or owning land.[^7]
+
+In 1916, Ueyama is included in the Southern California Japanese Art Club exhibition at the Nippon Club in Los Angeles, his first recorded exhibition.[^8]
+
+In 1917, Ueyama moves to the East Coast and studies at the Pennsylvania Academy of the Fine Arts (PAFA) in Philadelphia until 1921.[^9]
+
+In June 1918, he receives an honorable mention at PAFA for his work in perspective.[^10]
+
+In November 1919, he exhibits in the *Third Exhibition of Work Done at Chester Springs, the Summer School of the Pennsylvania Academy of the Fine Arts*.[^11] Works on display include a <span id="ptl-26158" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26158" data-outputs-include="html"><img alt="A white sculpture of a head looking to the left is set against a mottled blue background." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26158.jpg">sculpture bust exhibited as *Head*</a></span> (no. 2), *The Spring House* (no. 32), *The Hills* (no. 103), and *Portrait* (no. 124).
 
 {% figure 'ptl-26158' 'visually-hidden' %}
 
-: In 1919, he wins a \$500 <span id="ptl-26191" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26191" data-outputs-include="html"><img alt="A certificate with a large red-orange seal at bottom left." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26191.jpg">William Emlen Cresson Memorial Travel Scholarship</a></span> to fund three months of travel abroad.
+In 1919, he wins a \$500 <span id="ptl-26191" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26191" data-outputs-include="html"><img alt="A certificate with a large red-orange seal at bottom left." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26191.jpg">William Emlen Cresson Memorial Travel Scholarship</a></span> to fund three months of travel abroad.
 
 {% figure 'ptl-26191' 'visually-hidden' %}
 
-: On July 8, 1920, Ueyama leaves New York City on the ship *Canopic* headed to Europe for his Cresson scholarship summer (fig. 2).
+On July 8, 1920, Ueyama leaves New York City on the ship *Canopic* headed to Europe for his Cresson scholarship summer (fig. 2).
 
-: {% figure 'exrr-2024-29' 'is-pulled-left' %} The *Canopic* makes a brief stop at the Azores, then carries on to Gibraltar, where Ueyama stays for multiple days and takes a short excursion north into Spain. The ship then carries on to Naples, where he disembarks and stays for more than a week, taking excursions to Capri and Pompei. From Naples, Ueyama travels by train to Rome, where he stays for over a week. From Rome, he takes the train to Florence, where he stays for more than a week, before moving to Venice for multiple days. From there, he travels to Milan, Genoa, Nice, and Marseille, staying multiple days at each and making shorter stops in Ventimiglia and Monte Carlo. From Marseille, he takes a train to Paris, where he stays more than a week. From Paris, he takes a train to Le Havre and embarks on the SS *France* on September 26, arriving in New York on October 4.[^12]
+{% figure 'exrr-2024-29' 'is-pulled-left' %}
 
-: Ueyama completes his studies at PAFA in 1921.
+The <em>Canopic</em> makes a brief stop at the Azores, then carries on to Gibraltar, where Ueyama stays for multiple days and takes a short excursion north into Spain. The ship then carries on to Naples, where he disembarks and stays for more than a week, taking excursions to Capri and Pompei. From Naples, Ueyama travels by train to Rome, where he stays for over a week. From Rome, he takes the train to Florence, where he stays for more than a week, before moving to Venice for multiple days. From there, he travels to Milan, Genoa, Nice, and Marseille, staying multiple days at each and making shorter stops in Ventimiglia and Monte Carlo. From Marseille, he takes a train to Paris, where he stays more than a week. From Paris, he takes a train to Le Havre and embarks on the SS *France* on September 26, arriving in New York on October 4.[^12]
 
-1922–41, California, Oregon, Mexico, and Japan
-: He probably returns by train to Los Angeles in January 1922, departing Philadelphia on January 8 to Kansas City, then San Francisco, arriving in Los Angeles on January 12.[^13]
+Ueyama completes his studies at PAFA in 1921.
 
-: In 1922, Ueyama cofounds the association Shaku-do-sha with artists Hojin Miyoshi and Sekishun Masuzo Uyeno and poet T. B. Okamura.
+## 1922–41, California, Oregon, Mexico, and Japan
+He probably returns by train to Los Angeles in January 1922, departing Philadelphia on January 8 to Kansas City, then San Francisco, arriving in Los Angeles on January 12.[^13]
 
-: From April 21 to May 28, 1922, Ueyama exhibits *The Spring House* (no. 64) and *Portrait Study* (no. 65) in the *Third Exhibition:* *Painters and Sculptors of Southern California*, Los Angeles Museum of History, Science, and Art.[^14]
+In 1922, Ueyama cofounds the association Shaku-do-sha with artists Hojin Miyoshi and Sekishun Masuzo Uyeno and poet T. B. Okamura.
 
-: From November 17 to December 16, 1922, he exhibits *Summer Girl* (no. 90), *Fur Coat* (no. 91), and *Lake Arrow Head* (no. 92, illustrated) at the second exhibition of the East West Art Society at the San Francisco Museum of Art at the Palace of Fine Arts in San Francisco.[^15]
+From April 21 to May 28, 1922, Ueyama exhibits *The Spring House* (no. 64) and *Portrait Study* (no. 65) in the *Third Exhibition:* *Painters and Sculptors of Southern California*, Los Angeles Museum of History, Science, and Art.[^14]
 
-: From May 4 to June 17, 1923, Ueyama exhibits *The Fur Coat* (no. 67) in the *Fourth Exhibition:* *Painters and Sculptors of Southern California*, Los Angeles Museum of History, Science, and Art.[^16]
+From November 17 to December 16, 1922, he exhibits *Summer Girl* (no. 90), *Fur Coat* (no. 91), and *Lake Arrow Head* (no. 92, illustrated) at the second exhibition of the East West Art Society at the San Francisco Museum of Art at the Palace of Fine Arts in San Francisco.[^15]
 
-: Between June 15 and 28, 1923, the Shaku-do-sha holds its first group exhibition at the Japanese Union Church at 120 N. San Pedro Street. Ueyama exhibits four paintings: *Still Life* (no. 21), *Still Life* (no. 22, illustrated), *Portrait Sketch* (no. 23), and *Spring in the Valley* (no. 24).[^17] Ueyama also contributes a woodblock print for the cover of the catalog.[^18]
+From May 4 to June 17, 1923, Ueyama exhibits *The Fur Coat* (no. 67) in the *Fourth Exhibition:* *Painters and Sculptors of Southern California*, Los Angeles Museum of History, Science, and Art.[^16]
 
-: On September 1, 1923, the Great Kanto Earthquake strikes south of Tokyo, bringing down buildings and piers. Its tremor creates a tsunami that sweeps away thousands of people. Fires rage until September 3, devastating Tokyo and Yokohama. According to a later news report, Ueyama had sent paintings by ship to Japan for a government exhibition that were lost in the disaster.[^19]
+Between June 15 and 28, 1923, the Shaku-do-sha holds its first group exhibition at the Japanese Union Church at 120 N. San Pedro Street. Ueyama exhibits four paintings: *Still Life* (no. 21), *Still Life* (no. 22, illustrated), *Portrait Sketch* (no. 23), and *Spring in the Valley* (no. 24).[^17] Ueyama also contributes a woodblock print for the cover of the catalog.[^18]
 
-: Congress passes the Immigration Act of 1924 (Johnson-Reed Act), which halts all immigration from Asia and limits other immigrants through a national origins quota.[^20]
+On September 1, 1923, the Great Kanto Earthquake strikes south of Tokyo, bringing down buildings and piers. Its tremor creates a tsunami that sweeps away thousands of people. Fires rage until September 3, devastating Tokyo and Yokohama. According to a later news report, Ueyama had sent paintings by ship to Japan for a government exhibition that were lost in the disaster.[^19]
 
-: From September 20 to 30, 1924, Ueyama mounts his first known solo exhibition at the Sumida Music Store at 325 East First Street. Among the twenty-five works exhibited are his watercolor *The Castle in Naples* (no. 13), his early *Self Portrait* (no. 25), and possibly *Still Life* (no. 10 or 19). It is also possible that a currently untitled California landscape dated 1924 was exhibited as <span id="ptl-26165" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26165" data-outputs-include="html"><img alt="There are large rocks in the foreground, tall trees in the middle ground, and mountains in the background of this landscape." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26165.jpg">*In the High Sierras*</a></span> (no. 23).[^21]
+Congress passes the Immigration Act of 1924 (Johnson-Reed Act), which halts all immigration from Asia and limits other immigrants through a national origins quota.[^20]
+
+From September 20 to 30, 1924, Ueyama mounts his first known solo exhibition at the Sumida Music Store at 325 East First Street. Among the twenty-five works exhibited are his watercolor *The Castle in Naples* (no. 13), his early *Self Portrait* (no. 25), and possibly *Still Life* (no. 10 or 19). It is also possible that a currently untitled California landscape dated 1924 was exhibited as <span id="ptl-26165" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26165" data-outputs-include="html"><img alt="There are large rocks in the foreground, tall trees in the middle ground, and mountains in the background of this landscape." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26165.jpg">*In the High Sierras*</a></span> (no. 23).[^21]
 
 {% figure 'ptl-26165' 'visually-hidden' %}
 
-: In November 1924, Ueyama presents a one-man exhibition of twenty-five works at the gallery at the University of Oregon in Eugene. His friend and PAFA classmate Nowland B. Zane (1885–1945), a professor at the university, probably invited him to exhibit.[^22]
+In November 1924, Ueyama presents a one-man exhibition of twenty-five works at the gallery at the University of Oregon in Eugene. His friend and PAFA classmate Nowland B. Zane (1885–1945), a professor at the university, probably invited him to exhibit.[^22]
 
-: {% figure 'exrr-2024-30' 'is-pulled-right' %} In 1924, Ueyama is commissioned to create murals of Romeo and Juliet and Macbeth for the Elsinore Theatre in Salem, Oregon. Currently, these are attributed to Zane and may have been a shared commission (fig. 3).[^23] The Elsinor Theater opened to the public on May 28, 1926.
+{% figure 'exrr-2024-30' 'is-pulled-right' %}
 
-: In April 1925, Ueyama exhibits *Portrait of Miss B.* (no. 73) at the *Sixth Exhibition:* *Painters and Sculptors of Southern California*, Los Angeles Museum of History, Science, and Art.[^24]
+In 1924, Ueyama is commissioned to create murals of Romeo and Juliet and Macbeth for the Elsinore Theatre in Salem, Oregon. Currently, these are attributed to Zane and may have been a shared commission (fig. 3).[^23] The Elsinor Theater opened to the public on May 28, 1926.
 
-: On May 24, 1925, Ueyama passes through the US border at El Paso, Texas, for a three-month sojourn in Mexico. He passes back into the US on August 27.[^25] While in Mexico, he spends time in Mexico City, Cuernavaca, and Taxco. He meets Diego Rivera, Jean Charlot, and probably Edward Weston.[^26]
+In April 1925, Ueyama exhibits *Portrait of Miss B.* (no. 73) at the *Sixth Exhibition:* *Painters and Sculptors of Southern California*, Los Angeles Museum of History, Science, and Art.[^24]
 
-: Ueyama probably travels back to Oregon in 1925.[^27]
+On May 24, 1925, Ueyama passes through the US border at El Paso, Texas, for a three-month sojourn in Mexico. He passes back into the US on August 27.[^25] While in Mexico, he spends time in Mexico City, Cuernavaca, and Taxco. He meets Diego Rivera, Jean Charlot, and probably Edward Weston.[^26]
 
-: A letter dated February 13, 1926, from F. T. Iwakura in Courtland, California, is addressed to Ueyama at 1912 Moss Street in Eugene, Oregon, suggesting he may have been in Oregon at that time.[^28]
+Ueyama probably travels back to Oregon in 1925.[^27]
 
-: From April 9 to May 23, 1926, Ueyama exhibits *Creeping Shadows* (no. 62) in the *Seventh Exhibition:* *Painters and Sculptors of Southern California*, Los Angeles Museum of History, Science, and Art.[^29]
+A letter dated February 13, 1926, from F. T. Iwakura in Courtland, California, is addressed to Ueyama at 1912 Moss Street in Eugene, Oregon, suggesting he may have been in Oregon at that time.[^28]
 
-: In late May 1926, Ueyama returns to the University of Oregon in Eugene to help arrange stage decorations with Zane for an upcoming dance drama.[^30]
+From April 9 to May 23, 1926, Ueyama exhibits *Creeping Shadows* (no. 62) in the *Seventh Exhibition:* *Painters and Sculptors of Southern California*, Los Angeles Museum of History, Science, and Art.[^29]
 
-: During the summer of 1926, Ueyama wins an honorable mention for his painting *The Spring-house* when it is exhibited (no. 143) in the first annual Southern California Artists’ exhibition at the Fine Arts Gallery, San Diego, from June 4 to August 31.[^31]
+In late May 1926, Ueyama returns to the University of Oregon in Eugene to help arrange stage decorations with Zane for an upcoming dance drama.[^30]
 
-: Later in 1926, he exhibits at the Southern California State Fair in Riverside County and wins honorable mention for *Still Life*.[^32]
+During the summer of 1926, Ueyama wins an honorable mention for his painting *The Spring-house* when it is exhibited (no. 143) in the first annual Southern California Artists’ exhibition at the Fine Arts Gallery, San Diego, from June 4 to August 31.[^31]
 
-: In January 1927, Ueyama begins working for the Bunrindo Book Store at 303 East First Street in Los Angeles.[^33]
+Later in 1926, he exhibits at the Southern California State Fair in Riverside County and wins honorable mention for *Still Life*.[^32]
 
-: From April 6 to May 17, 1928, Ueyama exhibits <span id="ptl-26167" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26167" data-outputs-include="html"><img alt="A sitting woman wears a black coat and hat, her hands crossed on her lap." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26167.jpg">*Portrait in Black*</a></span> (no. 83) at the *Ninth Exhibition:* *Painters and Sculptors of Southern California*, Los Angeles Museum of History, Science, and Art.[^34]
+In January 1927, Ueyama begins working for the Bunrindo Book Store at 303 East First Street in Los Angeles.[^33]
+
+From April 6 to May 17, 1928, Ueyama exhibits <span id="ptl-26167" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26167" data-outputs-include="html"><img alt="A sitting woman wears a black coat and hat, her hands crossed on her lap." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26167.jpg">*Portrait in Black*</a></span> (no. 83) at the *Ninth Exhibition:* *Painters and Sculptors of Southern California*, Los Angeles Museum of History, Science, and Art.[^34]
 
 {% figure 'ptl-26167' 'visually-hidden' %}
 
-: {% figure 'exrr-2024-31' 'is-pulled-left' %} On July 23, 1928, Ueyama marries Suye Tsukada in a ceremony at California’s Mission Inn in Riverside in a ceremony led by Reverend Taizo Kitagawa (fig. 4).[^35]
+{% figure 'exrr-2024-31' 'is-pulled-left' %}
 
-: From April 14 to 28, 1929, Ueyama exhibits *Portrait Study in Black* (no. 158) in the 51st San Francisco Art Association exhibition.[^36]
+On July 23, 1928, Ueyama marries Suye Tsukada in a ceremony at California’s Mission Inn in Riverside in a ceremony led by Reverend Taizo Kitagawa (fig. 4).[^35]
 
-: From June 7 to August 31, 1929, he exhibits *Creeping Shadows* (no. 93) in the *Fourth Annual Exhibition of Southern California Art* at the Fine Arts Gallery of San Diego.[^37]
+From April 14 to 28, 1929, Ueyama exhibits *Portrait Study in Black* (no. 158) in the 51st San Francisco Art Association exhibition.[^36]
 
-: In December 1929, Ueyama exhibits two paintings in the first annual *Japanese Artists of Los Angeles* exhibition held at the Rafu Nichibei Art Salon at 219 N. San Pedro Street. Based on a review written by Arthur Millier, art critic for the *LA Times*, these were probably <span id="ptl-26187" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26187" data-outputs-include="html"><img alt="White buildings are nestled into a rocky yet grassy landscape that overlooks blue water." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26187.jpg">*Monterey*</a></span> and <span id="ptl-26167" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26167" data-outputs-include="html"><img alt="A sitting woman wears a black coat and hat, her hands crossed on her lap." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26167.jpg">*Portrait in Black*</a></span>.[^38]
+From June 7 to August 31, 1929, he exhibits *Creeping Shadows* (no. 93) in the *Fourth Annual Exhibition of Southern California Art* at the Fine Arts Gallery of San Diego.[^37]
+
+In December 1929, Ueyama exhibits two paintings in the first annual *Japanese Artists of Los Angeles* exhibition held at the Rafu Nichibei Art Salon at 219 N. San Pedro Street. Based on a review written by Arthur Millier, art critic for the *LA Times*, these were probably <span id="ptl-26187" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26187" data-outputs-include="html"><img alt="White buildings are nestled into a rocky yet grassy landscape that overlooks blue water." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26187.jpg">*Monterey*</a></span> and <span id="ptl-26167" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26167" data-outputs-include="html"><img alt="A sitting woman wears a black coat and hat, her hands crossed on her lap." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26167.jpg">*Portrait in Black*</a></span>.[^38]
 
 {% figure 'ptl-26187' 'visually-hidden' %}
 
 {% figure 'ptl-26167' 'visually-hidden' %}
 
-: In 1930, Tokio and Suye move to the Fulsom Street house owned by Mr. and Mrs. Wilson.[^39]
+In 1930, Tokio and Suye move to the Fulsom Street house owned by Mr. and Mrs. Wilson.[^39]
 
-: From April 4 to May 25, 1930, Ueyama exhibits a painting titled <span id="ptl-26187" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26187" data-outputs-include="html"><img alt="White buildings are nestled into a rocky yet grassy landscape that overlooks blue water." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26187.jpg">*Monterey*</a></span> (no. 96), possibly the painting below, in the *Eleventh Exhibition: Painters and Sculptors of Southern California*, Los Angeles Museum of History, Science, and Art.[^40]
+From April 4 to May 25, 1930, Ueyama exhibits a painting titled <span id="ptl-26187" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26187" data-outputs-include="html"><img alt="White buildings are nestled into a rocky yet grassy landscape that overlooks blue water." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26187.jpg">*Monterey*</a></span> (no. 96), possibly the painting below, in the *Eleventh Exhibition: Painters and Sculptors of Southern California*, Los Angeles Museum of History, Science, and Art.[^40]
 
 {% figure 'ptl-26187' 'visually-hidden' %}
 
-: Later in 1930, he exhibits in the second annual *Japanese Artists of Los Angeles*.[^41]
+Later in 1930, he exhibits in the second annual *Japanese Artists of Los Angeles*.[^41]
 
-: In 1931, Ueyama exhibits <span id="ptl-26166" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26166" data-outputs-include="html"><img alt="A predominantly white church rises above a green landscape against a mountainous backdrop." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26166.jpg">*Church at Taxco, Mexico*</a></span> (no. 440) in the 53rd exhibition of the San Francisco Art Association at the Palace of the Legion of Honor from April 26 to May 31.[^42] Ueyama painted a number of versions of the Church of Santa Prisca de Taxco. While it is unknown which one was on display in San Francisco, it may have been similar to the oil included in the exhibition accompanying this catalog.
+In 1931, Ueyama exhibits <span id="ptl-26166" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26166" data-outputs-include="html"><img alt="A predominantly white church rises above a green landscape against a mountainous backdrop." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26166.jpg">*Church at Taxco, Mexico*</a></span> (no. 440) in the 53rd exhibition of the San Francisco Art Association at the Palace of the Legion of Honor from April 26 to May 31.[^42] Ueyama painted a number of versions of the Church of Santa Prisca de Taxco. While it is unknown which one was on display in San Francisco, it may have been similar to the oil included in the exhibition accompanying this catalog.
 
 {% figure 'ptl-26166' 'visually-hidden' %}
 
-: From April 25 to June 6, 1935, Ueyama exhibits one painting, *The Rain* (no. 104), in the *Sixteenth Annual: Painters and Sculptors of Southern California*, Los Angeles Museum of History, Science, and Art.[^43]
+From April 25 to June 6, 1935, Ueyama exhibits one painting, *The Rain* (no. 104), in the *Sixteenth Annual: Painters and Sculptors of Southern California*, Los Angeles Museum of History, Science, and Art.[^43]
 
-: From February 19 to 24, 1936, Ueyama holds a significant solo exhibition composed of sixty-one works at the Miyako Hotel on First and San Pedro Streets. <span id="ptl-26164" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26164" data-outputs-include="html"><img alt="A nude woman reclines on a red couch." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26164.jpg">*The Nude*</a></span> (no. 6) is illustrated on the cover of the catalog. Also included were <span id="ptl-26167" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26167" data-outputs-include="html"><img alt="A sitting woman wears a black coat and hat, her hands crossed on her lap." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26167.jpg">*Portrait in Black*</a></span> (no. 14), <span id="ptl-26159" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26159" data-outputs-include="html"><img alt="A man in a white shirt looks directly forward, with a white full-length sculpture behind his right shoulder." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26159.jpg">*Self Portrait*</a></span> (no. 21), <span id="ptl-26168" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26168" data-outputs-include="html"><img alt="A craggy canyon extends takes up the majority of the canvas in this painting." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26168.jpg">*Red Rock Canyon*</a></span> (no. 40), and <span id="ptl-26160" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26160" data-outputs-include="html"><img alt="Many colorful roofs are clustered together in this cityscape set against a gray sky." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26160.jpg">*At Cuernavaca*</a></span> (no. 60).[^44]
+From February 19 to 24, 1936, Ueyama holds a significant solo exhibition composed of sixty-one works at the Miyako Hotel on First and San Pedro Streets. <span id="ptl-26164" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26164" data-outputs-include="html"><img alt="A nude woman reclines on a red couch." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26164.jpg">*The Nude*</a></span> (no. 6) is illustrated on the cover of the catalog. Also included were <span id="ptl-26167" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26167" data-outputs-include="html"><img alt="A sitting woman wears a black coat and hat, her hands crossed on her lap." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26167.jpg">*Portrait in Black*</a></span> (no. 14), <span id="ptl-26159" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26159" data-outputs-include="html"><img alt="A man in a white shirt looks directly forward, with a white full-length sculpture behind his right shoulder." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26159.jpg">*Self Portrait*</a></span> (no. 21), <span id="ptl-26168" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26168" data-outputs-include="html"><img alt="A craggy canyon extends takes up the majority of the canvas in this painting." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26168.jpg">*Red Rock Canyon*</a></span> (no. 40), and <span id="ptl-26160" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26160" data-outputs-include="html"><img alt="Many colorful roofs are clustered together in this cityscape set against a gray sky." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26160.jpg">*At Cuernavaca*</a></span> (no. 60).[^44]
 
 {% figure 'ptl-26167' 'visually-hidden' %}
 
@@ -127,77 +138,83 @@ order: 90
 
 {% figure 'ptl-26160' 'visually-hidden' %}
 
-: On February 28, 1936, Ueyama receives a letter from the LA Art Association appointing him as its envoy to Japan to develop relationships that might result in exhibitions of Japanese artwork in California and of California artwork in Japan.[^45]
+On February 28, 1936, Ueyama receives a letter from the LA Art Association appointing him as its envoy to Japan to develop relationships that might result in exhibitions of Japanese artwork in California and of California artwork in Japan.[^45]
 
-: Ueyama receives his travel permit on March 10, 1936, and leaves on the ship *Asama* on May 30.[^46] While intending to stay for only ten months, he applies for an extension with the American consulate at Yokohama on February 1, 1937, and stays for a total of thirteen months.[^47] While in Japan, he mounts a solo exhibition at his alma mater, Toyajyo Elementary School.[^48]
+Ueyama receives his travel permit on March 10, 1936, and leaves on the ship *Asama* on May 30.[^46] While intending to stay for only ten months, he applies for an extension with the American consulate at Yokohama on February 1, 1937, and stays for a total of thirteen months.[^47] While in Japan, he mounts a solo exhibition at his alma mater, Toyajyo Elementary School.[^48]
 
-: On April 28, 1937, Tokio, Suye, Tokio’s father Sojuro, and Suye’s brother Jutaro Narumi board the SS *Tatsuta Maru* in Yokohama bound for San Francisco, where they arrive on May 12, 1937. Two days later, they arrived on the same ship at San Pedro and the port of Los Angeles.[^49]
+On April 28, 1937, Tokio, Suye, Tokio’s father Sojuro, and Suye’s brother Jutaro Narumi board the SS *Tatsuta Maru* in Yokohama bound for San Francisco, where they arrive on May 12, 1937. Two days later, they arrived on the same ship at San Pedro and the port of Los Angeles.[^49]
 
-: Ueyama’s father dies unexpectedly of a stroke in December 1939.[^50]
+Ueyama’s father dies unexpectedly of a stroke in December 1939.[^50]
 
-: The following month, January 1940, Suye’s father dies of a stroke.
+The following month, January 1940, Suye’s father dies of a stroke.
 
-: From May 25 to September 29, 1940, Ueyama exhibits *Misumi, Japan* (oil, no. 2165) and *The Rain* (oil, no. 2166) in *California Art Today* at the Golden Gate International Exposition in San Francisco.[^51]
+From May 25 to September 29, 1940, Ueyama exhibits *Misumi, Japan* (oil, no. 2165) and *The Rain* (oil, no. 2166) in *California Art Today* at the Golden Gate International Exposition in San Francisco.[^51]
 
-: Between July 19 and 22, 1940, Ueyama writes in his diary that he and Suye travel to San Francisco with Mr. and Mrs. Wilson. They stop in Monterey and drive up the Pacific Coast Highway. They visit the Presidio, Golden Gate State Park, and Chinatown. The Wilsons returned to LA, but Suye and Tokio remain to visit the Golden Gate International Exposition.[^52]
+Between July 19 and 22, 1940, Ueyama writes in his diary that he and Suye travel to San Francisco with Mr. and Mrs. Wilson. They stop in Monterey and drive up the Pacific Coast Highway. They visit the Presidio, Golden Gate State Park, and Chinatown. The Wilsons returned to LA, but Suye and Tokio remain to visit the Golden Gate International Exposition.[^52]
 
-: On September 27, 1940, Germany, Italy, and Japan sign the Tripartite Pact formalizing the alliance between the three countries. Ueyama notes Japan’s having joined the Axis in his diary that same day.[^53]
+On September 27, 1940, Germany, Italy, and Japan sign the Tripartite Pact formalizing the alliance between the three countries. Ueyama notes Japan’s having joined the Axis in his diary that same day.[^53]
 
-: On August 31, 1941, Ueyama writes in his diary that he has quit working for Bunrindo, where he has worked for fourteen years. “My heart is heavy with feeling.”[^54]
+On August 31, 1941, Ueyama writes in his diary that he has quit working for Bunrindo, where he has worked for fourteen years. “My heart is heavy with feeling.”[^54]
 
-: On December 7, 1941, Japan attacks Pearl Harbor. In response, the US joins World War II.
+On December 7, 1941, Japan attacks Pearl Harbor. In response, the US joins World War II.
 
-1942–45, World War II and Amache
-: On February 19, 1942, President Franklin D. Roosevelt signs Executive Order 9066, allowing for the mass incarceration of around 120,000 Japanese Americans during WWII without trial or hearings.[^55]
+## 1942–45, World War II and Amache
 
-: On March 18, 1942, President Roosevelt signs Executive Order 9102, establishing the War Relocation Authority (WRA) to formulate a program for Japanese relocation.
+On February 19, 1942, President Franklin D. Roosevelt signs Executive Order 9066, allowing for the mass incarceration of around 120,000 Japanese Americans during WWII without trial or hearings.[^55]
 
-: The Santa Anita Assembly Center, where the Ueyamas are first detained, opens on March 27, 1942. (It closes on October 27, 1942).
+On March 18, 1942, President Roosevelt signs Executive Order 9102, establishing the War Relocation Authority (WRA) to formulate a program for Japanese relocation.
 
-: On June 12, 1942, construction of the WRA-managed Granada Relocation Center in Colorado, colloquially known as Amache (pronounced *ah-mah-chee*), begins. It is in operation by August and sees its maximum population that October at 7,318. Evacuees are from the Merced and Santa Anita assembly centers. More than 10,000 people are incarcerated at Amache over time.[^56]
+The Santa Anita Assembly Center, where the Ueyamas are first detained, opens on March 27, 1942. (It closes on October 27, 1942).
 
-: Also on June 12, 1942, the 100th Infantry Battalion—a segregated unit composed of second-generation Japanese Americans (Nisei)—is activated.[^57]
+On June 12, 1942, construction of the WRA-managed Granada Relocation Center in Colorado, colloquially known as Amache (pronounced *ah-mah-chee*), begins. It is in operation by August and sees its maximum population that October at 7,318. Evacuees are from the Merced and Santa Anita assembly centers. More than 10,000 people are incarcerated at Amache over time.[^56]
 
-: The Ueyamas arrive at Amache on September 19, 1942, and reside at barrack 6F-7C.[^58] With Koichi Nomiyama (1900–1984), Ueyama supervises and teaches art classes three times a day, three days a week, in one of the rec halls (fig. 5).[^59]
+Also on June 12, 1942, the 100th Infantry Battalion—a segregated unit composed of second-generation Japanese Americans (Nisei)—is activated.[^57]
 
-: {% figure 'exrr-2024-32' 'is-pulled-right' %} On February 1, 1943, President Roosevelt activates the 442nd Regimental Combat Team, a segregated regiment of Japanese Americans.[^60] On August 10, 1944, the 100th Infantry Battalion is integrated into the 442nd.[^61] These would become the most decorated units of their size in US military history.[^62] Thirty-one members of Amache are killed at war.[^63]
+The Ueyamas arrive at Amache on September 19, 1942, and reside at barrack 6F-7C.[^58] With Koichi Nomiyama (1900–1984), Ueyama supervises and teaches art classes three times a day, three days a week, in one of the rec halls (fig. 5).[^59]
 
-: From March 6 to 8, 1943, Ueyama exhibits <span id="ptl-26150" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26150" data-outputs-include="html"><img alt="A woman sews in a wooden chair in a room next to an open door." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26150.jpg">*The Evacuee*</a></span> at the Arts and Crafts Festival at Amache held in Terry Hall.[^64]
+{% figure 'exrr-2024-32' 'is-pulled-right' %}
 
-{% figure 'ptl-26150' 'visually-hidden' %}
+On February 1, 1943, President Roosevelt activates the 442nd Regimental Combat Team, a segregated regiment of Japanese Americans.[^60] On August 10, 1944, the 100th Infantry Battalion is integrated into the 442nd.[^61] These would become the most decorated units of their size in US military history.[^62] Thirty-one members of Amache are killed at war.[^63]
 
-: On December 17, 1944, the West Coast exclusion ban is lifted, effective January 2, 1945.[^65] The ten concentration camps run by the WRA begin to close.
-
-: On May 29, 1945, Ueyama receives permission to travel to Los Angeles.[^66]
-
-: On June 11, 1945, the Ueyamas return to Los Angeles.[^67]
-
-: On August 31, 1945, Ueyama receives permission to travel to the Manzanar Relocation Center, California. He departs Los Angeles on September 4 and returns on September 20.[^68]
-
-: The last residents leave Amache on October 15, 1945.[^69]
-
-1946–69, Los Angeles
-: In November 1946, a group of artists including Ueyama form the Los Angeles Palette Club.[^70]
-
-: {% figure 'exrr-2024-33' %} In 1947, Suye and Tokio open the gift shop Bunkado (fig. 6).[^71]
-
-: From May 2 to 4, 1947, Japanese artists of the LA Palette Club exhibit artwork created at relocation centers at the Daishi Mission, or Koyasas Beikoku Betsuin, on 342 East First Street. Ueyama exhibits *At Santa Anita* (known as <span id="ptl-26150" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26150" data-outputs-include="html"><img alt="A woman sews in a wooden chair in a room next to an open door." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26150.jpg">*The Evacuee*</a></span>, no. 48), *Yucca Trees* (no. 49), *Amache Center* (no. 50), *Passing Shower* (no. 51), *Our Corn Patch* (no. 52), *Cactus* (no. 53), and *Manzanar* (no. 54). Ueyama serves as chairman of the exhibition.[^72]
+From March 6 to 8, 1943, Ueyama exhibits <span id="ptl-26150" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26150" data-outputs-include="html"><img alt="A woman sews in a wooden chair in a room next to an open door." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26150.jpg">*The Evacuee*</a></span> at the Arts and Crafts Festival at Amache held in Terry Hall.[^64]
 
 {% figure 'ptl-26150' 'visually-hidden' %}
 
-: From November 5 to 10, Ueyama exhibits *Self Portrait* (no. 33), possibly this <span id="ptl-26190" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26190" data-outputs-include="html"><img alt="The a man in a white button-up shirt holds paint brushes and a palette." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26190.jpg">self-portrait</a></span>, *Katsuura* (no. 34), possibly <span id="ptl-26169" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26169" data-outputs-include="html"><img alt="A shoreline with strongly vertical rock outcroppings overlooks blue and white water." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26169.jpg">this painting</a></span>, and *Still Life* (no. 35) in the Los Angeles Palette Club’s *Second Annual Exhibition* at the Daishi Mission, 342 East First Street.[^73]
+On December 17, 1944, the West Coast exclusion ban is lifted, effective January 2, 1945.[^65] The ten concentration camps run by the WRA begin to close.
+
+On May 29, 1945, Ueyama receives permission to travel to Los Angeles.[^66]
+
+On June 11, 1945, the Ueyamas return to Los Angeles.[^67]
+
+On August 31, 1945, Ueyama receives permission to travel to the Manzanar Relocation Center, California. He departs Los Angeles on September 4 and returns on September 20.[^68]
+
+The last residents leave Amache on October 15, 1945.[^69]
+
+## 1946–69, Los Angeles
+
+In November 1946, a group of artists including Ueyama form the Los Angeles Palette Club.[^70]
+
+{% figure 'exrr-2024-33' %}
+
+In 1947, Suye and Tokio open the gift shop Bunkado (fig. 6).[^71]
+
+From May 2 to 4, 1947, Japanese artists of the LA Palette Club exhibit artwork created at relocation centers at the Daishi Mission, or Koyasas Beikoku Betsuin, on 342 East First Street. Ueyama exhibits *At Santa Anita* (known as <span id="ptl-26150" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26150" data-outputs-include="html"><img alt="A woman sews in a wooden chair in a room next to an open door." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26150.jpg">*The Evacuee*</a></span>, no. 48), *Yucca Trees* (no. 49), *Amache Center* (no. 50), *Passing Shower* (no. 51), *Our Corn Patch* (no. 52), *Cactus* (no. 53), and *Manzanar* (no. 54). Ueyama serves as chairman of the exhibition.[^72]
+
+{% figure 'ptl-26150' 'visually-hidden' %}
+
+From November 5 to 10, Ueyama exhibits *Self Portrait* (no. 33), possibly this <span id="ptl-26190" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26190" data-outputs-include="html"><img alt="The a man in a white button-up shirt holds paint brushes and a palette." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26190.jpg">self-portrait</a></span>, *Katsuura* (no. 34), possibly <span id="ptl-26169" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26169" data-outputs-include="html"><img alt="A shoreline with strongly vertical rock outcroppings overlooks blue and white water." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26169.jpg">this painting</a></span>, and *Still Life* (no. 35) in the Los Angeles Palette Club’s *Second Annual Exhibition* at the Daishi Mission, 342 East First Street.[^73]
 
 {% figure 'ptl-26190' 'visually-hidden' %}
 
 {% figure 'ptl-26169' 'visually-hidden' %}
 
-: From September 29 to October 4, 1948, Ueyama exhibits *The Spring Light* (no. 37), *Sketch* (no. 38), and *Amakusa, Japan* (no. 39) in the LA Palette Club’s *Third Annual Exhibition* at the Daishi Mission, 342 East First Street. Ueyama serves as chairman of the exhibition.[^74]
+From September 29 to October 4, 1948, Ueyama exhibits *The Spring Light* (no. 37), *Sketch* (no. 38), and *Amakusa, Japan* (no. 39) in the LA Palette Club’s *Third Annual Exhibition* at the Daishi Mission, 342 East First Street. Ueyama serves as chairman of the exhibition.[^74]
 
-: In 1952, Congress passes the McCarran-Walter Act, allowing Japanese immigration to the US again and allowing Issei (first-generation Japanese immigrants) to become US citizens for the first time.
+In 1952, Congress passes the McCarran-Walter Act, allowing Japanese immigration to the US again and allowing Issei (first-generation Japanese immigrants) to become US citizens for the first time.
 
-: Tokio Ueyama dies, aged sixty-four, on July 12, 1954.
+Tokio Ueyama dies, aged sixty-four, on July 12, 1954.
 
-: Ueyama’s memorial exhibition takes place October 20 to 26, 1954, at the Japanese Chamber of Commerce of Southern California, 358 East First Street. Thirty-five works are on display representing the arc of his career, including <span id="ptl-26167" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26167" data-outputs-include="html"><img alt="A sitting woman wears a black coat and hat, her hands crossed on her lap." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26167.jpg">*Portrait in Black*</a></span> (no. 5), <span id="ptl-26168" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26168" data-outputs-include="html"><img alt="A craggy canyon extends takes up the majority of the canvas in this painting." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26168.jpg">*Red Rock Canyon*</a></span> (no. 25), and *Life at Santa Anita* (known as <span id="ptl-26150" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26150" data-outputs-include="html"><img alt="A woman sews in a wooden chair in a room next to an open door." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26150.jpg">*The Evacuee*</a></span>) (no. 27).[^75]
+Ueyama’s memorial exhibition takes place October 20 to 26, 1954, at the Japanese Chamber of Commerce of Southern California, 358 East First Street. Thirty-five works are on display representing the arc of his career, including <span id="ptl-26167" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26167" data-outputs-include="html"><img alt="A sitting woman wears a black coat and hat, her hands crossed on her lap." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26167.jpg">*Portrait in Black*</a></span> (no. 5), <span id="ptl-26168" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26168" data-outputs-include="html"><img alt="A craggy canyon extends takes up the majority of the canvas in this painting." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26168.jpg">*Red Rock Canyon*</a></span> (no. 25), and *Life at Santa Anita* (known as <span id="ptl-26150" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26150" data-outputs-include="html"><img alt="A woman sews in a wooden chair in a room next to an open door." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26150.jpg">*The Evacuee*</a></span>) (no. 27).[^75]
 
 {% figure 'ptl-26167' 'visually-hidden' %}
 
@@ -205,7 +222,7 @@ order: 90
 
 {% figure 'ptl-26150' 'visually-hidden' %}
 
-: On March 12, 1969, Suye Ueyama dies, aged seventy-one, in Los Angeles.
+On March 12, 1969, Suye Ueyama dies, aged seventy-one, in Los Angeles.
 
 [^1]: See the biography (in Japanese) in Ueyama’s Memorial Exhibition catalog, 1954, Bunkado collection. Many thanks to Noriko Okada for translating the Japanese text.
 
