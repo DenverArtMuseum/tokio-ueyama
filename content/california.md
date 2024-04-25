@@ -33,17 +33,15 @@ In 1925, Ueyama made a second major international trip, this time to Mexico for 
 
 {% figuregroup '2' 'ptl-26166, exrr-2024-14' %}
 
-{% figure 'ptl-26167' 'is-pulled-right' %}
-
 {% figure 'ptl-26192' 'visually-hidden' %}
 
 {% figure 'ptl-26160' 'visually-hidden' %}
 
 During the later 1920s and into the ’30s, Ueyama continued a robust exhibition schedule in Little Tokyo and Southern California. In the spring of 1928, he exhibited *Portrait in Black*, featuring a fashionable Japanese woman in a black fur coat and cloche hat. The sitter, Suye (pronounced *soo-eh)* Tsukada (1897–1969), would become his wife on July 23, 1928, in a ceremony at California’s Mission Inn in Riverside.
 
-{% figure 'ptl-26187' 'is-pulled-left'%}
-
 Like many of Ueyama’s portraits, *Portrait in Black* received favorable reviews in the Los Angeles press. Antony Anderson commented on the “imposing and exceedingly skillful portrait of a young Japanese woman.” The artist is, he wrote, “one of our finest portrait painters, indeed, quite among the good portraitists of the country.”[^18] Ueyama’s landscapes, too, were praised. When his *Monterey* was on display in 1929, the artist and critic Arthur Millier described it as “flooded with clear light which creates a fine pattern of light and shadow on headlands, houses, and blue water.”[^19]
+
+{% figuregroup '2' 'ptl-26167, ptl-26187' %}
 
 In February 1936, Ueyama held a significant solo exhibition of sixty-one works at the Miyako Hotel in Little Tokyo. Spanning more than a decade of output, works included studies, watercolors, and finished oils representing diverse locations in Mexico, California, and Oregon. His repertoire remained the same: still life; figure paintings, including <span id="ptl-26164" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26164" data-outputs-include="html"><img alt="A nude woman reclines on a red couch." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26164.jpg">*The Nude*</a></span> (no. 6, illustrated on cover); portraits, including that of Suye and his own self-portrait; landscapes, including a striking representation of California’s <span id="ptl-26168" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26168" data-outputs-include="html"><img alt="A craggy canyon extends takes up the majority of the canvas in this painting." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26168.jpg">Red Rock Canyon</a></span>; and Mexican subjects, including *At Cuernavaca* and the church in Taxco. In an undated clipping, an unknown author calls Ueyama’s Miyako Hotel exhibition “one of the best exhibits ever held by a Japanese artist.”[^20] Another clipping details the artist’s “wide versatility not only in technique but in the skill Ueyama uses in handling landscapes, marines, still life compositions, figure arrangements, and portraits with equal dexterity and colorful success.”[^21]
 
@@ -89,7 +87,7 @@ Given Ueyama’s positive reviews, regular exhibitions, and significant trip to 
 
 [^15]: See letters in the Tokio Ueyama papers, many of which are written by the author Frances Toor. [Tokio Ueyama papers, 1908-circa 1954, bulk 1914-1945](https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289), Archives of American Art, Smithsonian Institution.
 
-[^16]: “Tokio Ueyama: Un Pintor Japonés en México,” *Revista de Revistas*, September 6, 1925, 17–18 and 42. Page 42 is missing in the clipping available in the red scrapbook, Bunkado collection, 20–21. I am grateful to Memphis Despain for translating this article while ShiPu Wang’s research assistant in August 2022. See also a print of Rivera’s Chapingo mural (*Dividing the Land*) signed by the artist in the [Tokio Ueyama papers](https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289), Archives of American Art.
+[^16]: “Tokio Ueyama: Un Pintor Japonés en México,” *Revista de Revistas*, September 6, 1925, 17–18 and 42. Page 42 is missing in the clipping available in the red scrapbook, Bunkado collection, 20–21. I am grateful to Memphis Despain for translating this article while ShiPu Wang’s research assistant in August 2022. See also a print of Rivera’s Chapingo mural (*Dividing the Land*) signed by the artist in the [Tokio Ueyama papers, 1908-circa 1954, bulk 1914-1945](https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289), Archives of American Art.
 
 [^17]: On Weston and the Shaku-do-sha, see Karin Higa, *The View from Within: Japanese American Art from the Internment Camps, 1942–1945* (Los Angeles: Japanese American National Museum, 1992), 31.
 
@@ -101,8 +99,8 @@ Given Ueyama’s positive reviews, regular exhibitions, and significant trip to 
 
 [^21]: “Tokio Ueyama’s Success,” March 21, 1936, red scrapbook, Bunkado collection, 22.
 
-[^22]: In a letter sent to Ueyama, the Association stated, “As an artist well trained in the best American schools, and a resident of Los Angeles, we believe that you are in a position to accomplish splendid results in creating a better understanding of the art developments around the Pacific Ocean.” [Tokio Ueyama papers](https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289), Archives of American Art.
+[^22]: In a letter sent to Ueyama, the Association stated, “As an artist well trained in the best American schools, and a resident of Los Angeles, we believe that you are in a position to accomplish splendid results in creating a better understanding of the art developments around the Pacific Ocean.” [Tokio Ueyama papers, 1908-circa 1954, bulk 1914-1945](https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289), Archives of American Art.
 
 [^23]: See Memorial Exhibition catalog, Bunkado collection. I am grateful to Noriko Okada for her translation of the Japanese.
 
-[^24]: Ueyama’s 1937–41 diary, [Tokio Ueyama papers](https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289), Archives of American Art. I am grateful to Noriko Okada for sharing relevant excerpts of her translations.
+[^24]: Ueyama’s 1937–41 diary, [Tokio Ueyama papers, 1908-circa 1954, bulk 1914-1945](https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289), Archives of American Art. I am grateful to Noriko Okada for sharing relevant excerpts of her translations.
