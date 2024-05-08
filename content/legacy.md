@@ -22,7 +22,9 @@ Suye continued to manage Bunkado and died on March 12, 1969, aged seventy-one. T
 
 {% figure 'exrr-2024-20' %}
 
-Due to efforts by people formerly incarcerated and their families starting in the 1960s, Amache achieved status as a national historic site in March 2022.[^9] Eventually, the National Park Service will maintain the site after decades of volunteer management driven by the Friends of Amache group, the town of Granada, and the Amache Preservation Society established by educator John Hopper and supported by his students.[^10] The University of Denver has also played a leading role in understanding and excavating the site, particularly thanks to the work of archaeologist Bonnie Clark and her students.[^11] Not least of these efforts, family and friends have made regular pilgrimages to Amache since 1975. These continue to take place, typically in May during the weekend before Memorial Day.[^12]
+It has taken many years for the United States to reckon with the unconstitutional forced relocation of Japanese Americans during World War II. The rise of civil rights activism in the 1960s and extensive efforts by the Japanese American Citizens League (JACL) in the 1970s helped lead to President Gerald Ford’s formal act rescinding Executive Order 9066 in 1976. In 1980, President Jimmy Carter established the Commission on Wartime Relocation and Internment of Civilians (CWRIC), which found that the causes for forced relocation were “race prejudice, war hysteria and a failure of political leadership.”[^9]  The Civil Liberties Act of 1988, signed by President Ronald Reagan, granted $20,000 and a formal presidential apology to every surviving Japanese American incarcerated during World War II.[^10]   
+
+Due to efforts by people formerly incarcerated and their families starting in the 1960s, Amache achieved status as a national historic site in March 2022.[^11] In February 2024, the site officially became part of the National Park system after decades of volunteer management driven by the Friends of Amache group, the town of Granada, and the Amache Preservation Society established by educator John Hopper and supported by his students.[^12] The University of Denver has also played a leading role in understanding and excavating the site, particularly thanks to the work of archaeologist Bonnie Clark and her students.[^13] Not least of these efforts, family and friends have made regular pilgrimages to Amache since 1975. These continue to take place, typically in May during the weekend before Memorial Day.[^14]
 
 Because of these efforts, Amache’s legacy as a place of remembrance and education is ensured. Ueyama’s work sheds light on the lived experience of Amache, on the consequences of forced relocation, and on the important role of the arts in nurturing resilience, agency, and identity. As a whole, Ueyama’s life helps reveal untold histories, and his oeuvre stands the test of time as a significant contribution to American art.
 
@@ -42,10 +44,14 @@ Because of these efforts, Amache’s legacy as a place of remembrance and educat
 
 [^8]: [Bunkado](https://www.bunkadoonline.com/pages/new) website, accessed November 28, 2023.
 
-[^9]: President Joe Biden signed the Amache National Historic Site Act into law on March 18, 2022. For press on the site’s management history, see Kevin Simpson, “[Amache Is on the Verge of Earning National Park Status](https://coloradosun.com/2022/02/14/amache-on-verge-national-historic-site/),” *Colorado Sun*, February 14, 2022.
+[^9]: See the National JACL Power of Word II Committee, *The Power of Words Handbook: A Guide to Language about Japanese Americans in World War II* (Japanese American Citizens League, 2013, revised 2020), 6 and the Densho Encyclopedia on the Commission on Wartime Relocation and Internment of Civilians, https://encyclopedia.densho.org/Commission_on_Wartime_Relocation_and_Internment_of_Civilians/.
 
-[^10]: See “[Amache Preservation Society](https://amache.org/amache-preservation-society/),” accessed November 29, 2023, [amache.org](https://amache.org/). For information on the project team, see “[Project Team](https://amache.org/project-team/),” accessed November 29, 2023, [amache.org](amache.org).
+[^10]: See the Densho Encyclopedia on the Civil Liberties Act of 1988, https://encyclopedia.densho.org/Civil%20Liberties%20Act%20of%201988.
 
-[^11]: See the [DU Amache Research Project](https://portfolio.du.edu/amache), accessed November 29, 2023.
+[^11]: President Joe Biden signed the Amache National Historic Site Act into law on March 18, 2022. For press on the site’s management history, see Kevin Simpson, “[Amache Is on the Verge of Earning National Park Status](https://coloradosun.com/2022/02/14/amache-on-verge-national-historic-site/),” *Colorado Sun*, February 14, 2022.
 
-[^12]: On the pilgrimage, see “[Pilgrimage History](https://amache.org/pilgrimage-history/),” accessed November 29, 2023, [amache.org](amache.org).
+[^12]: See “[Amache Preservation Society](https://amache.org/amache-preservation-society/),” accessed November 29, 2023, [amache.org](https://amache.org/). For information on the project team, see “[Project Team](https://amache.org/project-team/),” accessed November 29, 2023, [amache.org](amache.org).
+
+[^13]: See the [DU Amache Research Project](https://portfolio.du.edu/amache), accessed November 29, 2023.
+
+[^14]: On the pilgrimage, see “[Pilgrimage History](https://amache.org/pilgrimage-history/),” accessed November 29, 2023, [amache.org](amache.org).
