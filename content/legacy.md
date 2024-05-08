@@ -42,16 +42,16 @@ Because of these efforts, Amache’s legacy as a place of remembrance and educat
 
 [^7]: See Memorial Exhibition catalog, Bunkado collection.
 
-[^8]: [Bunkado](https://www.bunkadoonline.com/pages/new) website, accessed November 28, 2023.
+[^8]: Bunkado website, accessed November 28, 2023, https://www.bunkadoonline.com/pages/new.
 
 [^9]: See the National JACL Power of Word II Committee, *The Power of Words Handbook: A Guide to Language about Japanese Americans in World War II* (Japanese American Citizens League, 2013, revised 2020), 6 and the Densho Encyclopedia on the Commission on Wartime Relocation and Internment of Civilians, https://encyclopedia.densho.org/Commission_on_Wartime_Relocation_and_Internment_of_Civilians/.
 
 [^10]: See the Densho Encyclopedia on the Civil Liberties Act of 1988, https://encyclopedia.densho.org/Civil%20Liberties%20Act%20of%201988.
 
-[^11]: President Joe Biden signed the Amache National Historic Site Act into law on March 18, 2022. For press on the site’s management history, see Kevin Simpson, “[Amache Is on the Verge of Earning National Park Status](https://coloradosun.com/2022/02/14/amache-on-verge-national-historic-site/),” *Colorado Sun*, February 14, 2022.
+[^11]: President Joe Biden signed the Amache National Historic Site Act into law on March 18, 2022. For press on the site’s management history, see Kevin Simpson, “Amache Is on the Verge of Earning National Park Status,” *Colorado Sun*, February 14, 2022, https://coloradosun.com/2022/02/14/amache-on-verge-national-historic-site/.
 
-[^12]: See “[Amache Preservation Society](https://amache.org/amache-preservation-society/),” accessed November 29, 2023, [amache.org](https://amache.org/). For information on the project team, see “[Project Team](https://amache.org/project-team/),” accessed November 29, 2023, [amache.org](amache.org).
+[^12]: See “Amache Preservation Society,” accessed November 29, 2023, Amache.org, https://amache.org/amache-preservation-society/. For information on the project team, see “Project Team,” accessed November 29, 2023, Amache.org, https://amache.org/project-team/.
 
-[^13]: See the [DU Amache Research Project](https://portfolio.du.edu/amache), accessed November 29, 2023.
+[^13]: See the DU Amache Research Project, accessed November 29, 2023, https://portfolio.du.edu/amache.
 
-[^14]: On the pilgrimage, see “[Pilgrimage History](https://amache.org/pilgrimage-history/),” accessed November 29, 2023, [amache.org](amache.org).
+[^14]: On the pilgrimage, see “Pilgrimage History,” accessed November 29, 2023, Amache.org, https://amache.org/pilgrimage-history/ .

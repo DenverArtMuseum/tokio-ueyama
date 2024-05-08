@@ -99,11 +99,11 @@ Over twenty years later, when polishing these stones, Ueyama provides each a his
 
 [^7]: See Harvey, 108–09.
 
-[^8]: “[Amache Construction](https://amache.org/amache-construction/),” accessed November 29, 2023, [amache.org](https://amache.org/amache-construction/). For maps, see “[Maps](https://amache.org/map/),” accessed November 29, 2023, [amache.org](https://amache.org/map/).
+[^8]: “Amache Construction,” Amache.org, accessed November 29, 2023, https://amache.org/amache-construction/. For maps, see “Maps,” Amache.org, accessed November 29, 2023, https://amache.org/map/.
 
-[^9]: For resources on Amache gardens, see the [University of Denver Amache Research Project](https://portfolio.du.edu/amache), last updated February 22, 2023.
+[^9]: For resources on Amache gardens, see the University of Denver Amache Research Project, last updated February 22, 2023, https://portfolio.du.edu/amache.
 
-[^10]: To browse issues of the *Granada Pioneer*, 1942–45, see the [Library of Congress digitized archives](https://www.loc.gov/item/sn83025522/?st=calendar).
+[^10]: To browse issues of the *Granada Pioneer*, 1942–45, see the Library of Congress digitized archives, https://www.loc.gov/item/sn83025522/?st=calendar.
 
 [^11]: See Gordon Chang, *Asian American Art: A History, 1850–1970* (Stanford, CA: Stanford University Press, 2008), 401.
 
@@ -113,17 +113,17 @@ Over twenty years later, when polishing these stones, Ueyama provides each a his
 
 [^14]: The sombrero takes on increased poignancy “as an image that recalls a happier time—and certainly a freer time.” ShiPu Wang, *Chiura Obata: An American Modern* (Oakland, CA: University of California Press, 2018), 38.
 
-[^15]: Regarding the construction of Amache, see “[Amache Construction](https://amache.org/amache-construction/),” accessed November 28, 2023, [amache.org](https://amache.org).
+[^15]: Regarding the construction of Amache, see “Amache Construction."
 
 [^16]: See Delphine Hirasuna, *The Art of Gaman: Arts and Crafts from the Japanese American Internment Camps, 1942–1946* (Berkeley, CA: Ten Speed Press, 2005), 7; and Harvey, 57. Family member David Hirai, who knew Ueyama, remembered that, when asked about the camp, Ueyama did not want to talk about it and said that they had made the best of it. Conversation with author, April 2024.
 
 [^17]: Black-and-white photographs of Ueyama’s Amache portraits show that a variety of sitters, both Japanese and Caucasian, sat for him and, presumably, his classes. See red scrapbook, Bunkado collection.
 
-[^18]: “[Granada (Amache) Relocation Center Colorado](https://www.nps.gov/parkhistory/online_books/internment/reporta3.htm),” in *Report to the President: Japanese-American Internment Sites Preservation* (US Department of the Interior, 2001).
+[^18]: “Granada (Amache) Relocation Center Colorado,” in *Report to the President: Japanese-American Internment Sites Preservation* (US Department of the Interior, 2001), https://www.nps.gov/parkhistory/online_books/internment/reporta3.htm.
 
-[^19]: Regarding the trees, see “[Amache Construction](David%20Hirai).”
+[^19]: Regarding the trees, see “Amache Construction.”
 
-[^20]: J. Burton, M. Farrell, F. Lord, and R. Lord, “[Granada Relocation Center](https://www.nps.gov/parkhistory/online_books/anthropology74/ce5.htm),” in *Confinement and Ethnicity: An Overview of World War II Japanese American Relocation Sites* (Tuscon, AZ: Western Archeological and Conservation Center, National Park Service, 2000).
+[^20]: J. Burton, M. Farrell, F. Lord, and R. Lord, “Granada Relocation Center,” in *Confinement and Ethnicity: An Overview of World War II Japanese American Relocation Sites* (Tuscon, AZ: Western Archeological and Conservation Center, National Park Service, 2000), https://www.nps.gov/parkhistory/online_books/anthropology74/ce5.htm.
 
 [^21]: I am grateful to Bonnie Clark, professor for archaeology at the University of Denver and leader of the DU Amache Project, for her insight about Amache’s porous boundaries. Conversation with the author, November 29, 2023.
 

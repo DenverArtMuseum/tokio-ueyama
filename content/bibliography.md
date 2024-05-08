@@ -38,28 +38,28 @@ Wang, ShiPu, ed. *Pictures of Belonging: Miki Hayakawa, Hisako Hibi, and Miné O
 
 **Online Resources**
 
-[The Amache Museum](https://amache.org/amache-museum/).
+The Amache Museum. https://amache.org/amache-museum/.
 
-[The Amache Preservation Society](https://amache.org/).
+The Amache Preservation Society. https://amache.org/.
 
-Burton, J., M. Farrell, F. Lord, and R. Lord. [*Confinement and Ethnicity: An Overview of World War II Japanese American Relocation Sites.*](https://www.nps.gov/parkhistory/online_books/anthropology74/index.htm) Tuscon, AZ: Western Archeological and Conservation Center, National Park Service, 2000.
+Burton, J., M. Farrell, F. Lord, and R. Lord. *Confinement and Ethnicity: An Overview of World War II Japanese American Relocation Sites.* Tuscon, AZ: Western Archeological and Conservation Center, National Park Service, 2000. https://www.nps.gov/parkhistory/online_books/anthropology74/index.htm.
 
-[Densho](https://densho.org/).
+Densho. https://densho.org/.
 
-[DU Amache Research Project](https://portfolio.du.edu/amache).
+DU Amache Research Project. https://portfolio.du.edu/amache.
 
-“[Granada (Amache) Relocation Center Colorado](https://www.nps.gov/parkhistory/online_books/internment/reporta3.htm),” in *Report to the President: Japanese-American Internment Sites Preservation*. US Department of the Interior, 2001.
+“Granada (Amache) Relocation Center Colorado,” in *Report to the President: Japanese-American Internment Sites Preservation*. US Department of the Interior, 2001. https://www.nps.gov/parkhistory/online_books/internment/reporta3.htm.
 
-[*The Granada Pioneer*](https://www.loc.gov/item/sn83025522/?st=calendar), Library of Congress digitized archives.
+*The Granada Pioneer*. Library of Congress digitized archives. https://www.loc.gov/item/sn83025522/?st=calendar.
 
-Japanese American National Museum, [Timeline of Japanese American History](https://www.janm.org/sites/default/files/2021-12/janm-education-resources-common-ground-previsit-timeline-and-vocabulary-2021.pdf).
+Japanese American National Museum. "Timeline of Japanese American History." https://www.janm.org/sites/default/files/2021-12/janm-education-resources-common-ground-previsit-timeline-and-vocabulary-2021.pdf.
 
-Lindley, James G. “[The Granada Relocation Center: A Narrative Report](https://digicoll.lib.berkeley.edu/record/175087?ln=en),” November 15, 1945, Japanese American Evacuation and Resettlement Records 1930–1974, The Bancroft Library, University of California, Berkeley.
+Lindley, James G. “The Granada Relocation Center: A Narrative Report.” November 15, 1945. Japanese American Evacuation and Resettlement Records 1930–1974, The Bancroft Library, University of California, Berkeley. https://digicoll.lib.berkeley.edu/record/175087?ln=en. 
 
-National Park Service, [Little Tokyo Historic District](https://www.nps.gov/places/little-tokyo-historic-district.htm).
+National Park Service. "Little Tokyo Historic District." https://www.nps.gov/places/little-tokyo-historic-district.htm.
 
-National Park Service, [Terminology and the Mass Incarceration of Japanese Americans during World War II](https://www.nps.gov/articles/000/terminology-and-the-mass-incarceration-of-japanese-americans-during-world-war-ii.htm#:~:text=The%20NPS%20has%20not%20published%20standard%20guidance%20on,their%20ethnicity%2C%20as%20well%20as%20the%20general%20public.).
+National Park Service. "Terminology and the Mass Incarceration of Japanese Americans during World War II." https://www.nps.gov/articles/000/terminology-and-the-mass-incarceration-of-japanese-americans-during-world-war-ii.htm#:~:text=The%20NPS%20has%20not%20published%20standard%20guidance%20on,their%20ethnicity%2C%20as%20well%20as%20the%20general%20public.
 
-The National WWII Museum, [Going for Broke: The 100th Infantry Battalion](https://www.nationalww2museum.org/war/articles/japanese-american-100th-infantry-battalion) and [Going for Broke: The 442nd Regimental Combat Team](https://www.nationalww2museum.org/war/articles/442nd-regimental-combat-team).
+The National WWII Museum. "Going for Broke: The 100th Infantry Battalion." https://www.nationalww2museum.org/war/articles/japanese-american-100th-infantry-battalion; and "Going for Broke: The 442nd Regimental Combat Team." https://www.nationalww2museum.org/war/articles/442nd-regimental-combat-team.
 
-[The Tokio Ueyama papers](https://sirismm.si.edu/EADpdfs/AAA.ueyatoki.pdf), 1908–circa 1954, Archives of American Art.
+The Tokio Ueyama papers, 1908–circa 1954. Archives of American Art. https://sirismm.si.edu/EADpdfs/AAA.ueyatoki.pdf.

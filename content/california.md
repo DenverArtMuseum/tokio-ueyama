@@ -57,7 +57,7 @@ The same author also trumpets Ueyama’s success in selling twenty-seven of sixt
 
 Given Ueyama’s positive reviews, regular exhibitions, and significant trip to Japan, the 1930s seem to have been a successful decade, but his diary from this period shows ups and downs. The deaths of his father in December 1939 and of Suye’s father the following month were heavy blows to the entire family, while his inclusion in the 1940 Golden Gate International Exposition in San Francisco was a professional coup. Friends including Zane, artist Paul Landacre, Mr. and Mrs. Wilson, and family members show up regularly, though health concerns sometimes keep his body and mood low. In retrospect, his diary—punctuated by notes on German expansion, European alliances, and the deteriorating relationship between Japan and the US—seems both prescient and ominous.[^24]
 
-[^1]: For an overview of Little Tokyo’s history, see “[Little Tokyo Historic District](https://www.nps.gov/places/little-tokyo-historic-district.htm),” National Park Service, accessed November 15, 2023.
+[^1]: For an overview of Little Tokyo’s history, see “Little Tokyo Historic District,” National Park Service, accessed November 15, 2023, https://www.nps.gov/places/little-tokyo-historic-district.htm.
 
 [^2]: See “Photographs by Edward Weston on Exhibition,” undated but probably July 1927, red scrapbook, Bunkado collection, 17. Karin Higa provides the date of July 7, 1927, in her *A View from Within: Japanese American Art from the Internment Camps, 1942–1945* (Los Angeles: Japanese American National Museum, 1992), 30. For the most complete account of the Shaku-do-sha, see Higa, “Hidden in Plain Sight: Little Tokyo between the Wars,” *Asian American Art: A History, 1850–1970*, edited by Gordon Chang (Stanford, CA: Stanford University Press, 2008).
 
@@ -67,13 +67,13 @@ Given Ueyama’s positive reviews, regular exhibitions, and significant trip to 
 
 [^5]: On the East West Art Society, see ShiPu Wang, *Chiura Obata: An American Modern* (Oakland, CA: University of California Press, 2018) 12.
 
-[^6]: Given the date, the number of works included, and period reviews, it is likely that he sent the same (or similar) group as had been exhibited at the Sumida Music Store. See “[Japanese Art to be Shown in University Gallery Soon](https://oregonnews.uoregon.edu/lccn/2004260239/1924-10-29/ed-1/seq-1/#words=Tokio+Ueyama),” *Oregon Daily Emerald*, October 29, 1924; Margaret Skavlan, “[Japanese Paintings Are Hung in University Art Gallery](https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-13/ed-1/seq-1/),” *Oregon Daily Emerald*, November 13, 1924; “[Arts Club Will Open Exhibition with Tea](https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-18/ed-1/seq-3/#words=Tokio+Ueyama),” *Oregon Daily Emerald*, November 18, 1924; “[Exhibition of Japanese Artist’s Paintings Will Be Opened Today](https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-19/ed-1/seq-1/#words=Tokio+Ueyama),” *Oregon Daily Emerald,* November 19, 1924; “[Japanese Print Collector Visits Campus Today. S. Doi Paintings to be Presented With Ueyama Exhibition](https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-20/ed-1/seq-3/#words=Tokio+Ueyama),” *Oregon Daily Emerald*, November 20, 1924; “[Work of Japanese Artist Portrays Variety of Style](https://oregonnews.uoregon.edu/lccn/2004260239/1924-12-02/ed-1/seq-1/#words=Tokio+Ueyama),” *Oregon Daily Emerald*, December 2, 1924; and undated clipping, “Exhibit of Ueyama, Japanese Painter, Opens Wednesday,” red scrapbook, Bunkado collection, 8.
+[^6]: Given the date, the number of works included, and period reviews, it is likely that he sent the same (or similar) group as had been exhibited at the Sumida Music Store. See “Japanese Art to be Shown in University Gallery Soon,” *Oregon Daily Emerald*, October 29, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-10-29/ed-1/seq-1/#words=Tokio+Ueyama; Margaret Skavlan, “Japanese Paintings Are Hung in University Art Gallery,” *Oregon Daily Emerald*, November 13, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-13/ed-1/seq-1/; “Arts Club Will Open Exhibition with Tea,” *Oregon Daily Emerald*, November 18, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-18/ed-1/seq-3/#words=Tokio+Ueyama; “Exhibition of Japanese Artist’s Paintings Will Be Opened Today,” *Oregon Daily Emerald*, November 19, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-19/ed-1/seq-1/#words=Tokio+Ueyama; “Japanese Print Collector Visits Campus Today. S. Doi Paintings to be Presented With Ueyama Exhibition,” *Oregon Daily Emerald*, November 20, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-20/ed-1/seq-3/#words=Tokio+Ueyama; “Work of Japanese Artist Portrays Variety of Style,” *Oregon Daily Emerald*, December 2, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-12-02/ed-1/seq-1/#words=Tokio+Ueyama; and undated clipping, “Exhibit of Ueyama, Japanese Painter, Opens Wednesday,” red scrapbook, Bunkado collection, 8.
 
-[^7]: “[Work of Japanese Artist Portrays Variety of Style](https://oregonnews.uoregon.edu/lccn/2004260239/1924-12-02/ed-1/seq-1/#words=Tokio+Ueyama).”
+[^7]: “Work of Japanese Artist Portrays Variety of Style.”
 
-[^8]: “[Exhibition of Japanese Artist’s Paintings Will Be Opened Today](https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-19/ed-1/seq-1/#words=Tokio+Ueyama).”
+[^8]: “Exhibition of Japanese Artist’s Paintings Will Be Opened Today.”
 
-[^9]: Skavlan, “[Japanese Paintings Are Hung in University Art Gallery](https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-13/ed-1/seq-1/#words=Tokio+Ueyama).”
+[^9]: Skavlan, “Japanese Paintings Are Hung in University Art Gallery.”
 
 [^10]: This evaluation, he continues, “assumed that the mainstream of American art was, as America itself, entirely Europe-derived.” Gordan Chang, “Emerging from the Shadows,” in *Asian American Art: A History, 1850–1970* (Stanford, CA: Stanford University Press, 2008), x.
 
@@ -85,9 +85,9 @@ Given Ueyama’s positive reviews, regular exhibitions, and significant trip to 
 
 [^14]: Chang, “Emerging from the Shadows,” xi.
 
-[^15]: See letters in the Tokio Ueyama papers, many of which are written by the author Frances Toor. [Tokio Ueyama papers, 1908-circa 1954, bulk 1914-1945](https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289), Archives of American Art, Smithsonian Institution.
+[^15]: See letters in the Tokio Ueyama papers, many of which are written by the author Frances Toor. Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945, Archives of American Art, Smithsonian Institution, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289.
 
-[^16]: “Tokio Ueyama: Un Pintor Japonés en México,” *Revista de Revistas*, September 6, 1925, 17–18 and 42. Page 42 is missing in the clipping available in the red scrapbook, Bunkado collection, 20–21. I am grateful to Memphis Despain for translating this article while ShiPu Wang’s research assistant in August 2022. See also a print of Rivera’s Chapingo mural (*Dividing the Land*) signed by the artist in the [Tokio Ueyama papers, 1908-circa 1954, bulk 1914-1945](https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289), Archives of American Art.
+[^16]: “Tokio Ueyama: Un Pintor Japonés en México,” *Revista de Revistas*, September 6, 1925, 17–18 and 42. Page 42 is missing in the clipping available in the red scrapbook, Bunkado collection, 20–21. I am grateful to Memphis Despain for translating this article while ShiPu Wang’s research assistant in August 2022. See also a print of Rivera’s Chapingo mural (*Dividing the Land*) signed by the artist in the Tokio Ueyama papers, 1908-circa 1954, bulk 1914-1945, Archives of American Art.
 
 [^17]: On Weston and the Shaku-do-sha, see Karin Higa, *The View from Within: Japanese American Art from the Internment Camps, 1942–1945* (Los Angeles: Japanese American National Museum, 1992), 31.
 
@@ -99,8 +99,8 @@ Given Ueyama’s positive reviews, regular exhibitions, and significant trip to 
 
 [^21]: “Tokio Ueyama’s Success,” March 21, 1936, red scrapbook, Bunkado collection, 22.
 
-[^22]: In a letter sent to Ueyama, the Association stated, “As an artist well trained in the best American schools, and a resident of Los Angeles, we believe that you are in a position to accomplish splendid results in creating a better understanding of the art developments around the Pacific Ocean.” [Tokio Ueyama papers, 1908-circa 1954, bulk 1914-1945](https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289), Archives of American Art.
+[^22]: In a letter sent to Ueyama, the Association stated, “As an artist well trained in the best American schools, and a resident of Los Angeles, we believe that you are in a position to accomplish splendid results in creating a better understanding of the art developments around the Pacific Ocean.” Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945, Archives of American Art.
 
 [^23]: See Memorial Exhibition catalog, Bunkado collection. I am grateful to Noriko Okada for her translation of the Japanese.
 
-[^24]: Ueyama’s 1937–41 diary, [Tokio Ueyama papers, 1908-circa 1954, bulk 1914-1945](https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289), Archives of American Art. I am grateful to Noriko Okada for sharing relevant excerpts of her translations.
+[^24]: Ueyama’s 1937–41 diary, Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945, Archives of American Art. I am grateful to Noriko Okada for sharing relevant excerpts of her translations.
