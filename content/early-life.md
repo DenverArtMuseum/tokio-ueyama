@@ -19,4 +19,4 @@ While Japanese immigrants were present in the US by the 1880s, after the Chinese
 
 [^3]: As Karin Higa writes, “While American anti-Asian sentiment was consolidated in the legislative arena, Chinese and Japanese immigrants solidified their communities and planted firm roots in the American soil.” Higa, “Some Notes on an Asian American Art History,” in *With New Eyes: Toward an Asian American Art History in the West* (San Francisco: San Francisco State University), 13.
 
-[^4]: Regarding this history of exclusion, see the “[Timeline of Japanese American History](https://www.janm.org/sites/default/files/2021-12/janm-education-resources-common-ground-previsit-timeline-and-vocabulary-2021.pdf),” September 2021; and Higa, “Some Notes on an Asian American Art History,” 13.
+[^4]: Regarding this history of exclusion, see the “Timeline of Japanese American History,” Japanese American National Museum, September 2021, https://www.janm.org/sites/default/files/2021-12/janm-education-resources-common-ground-previsit-timeline-and-vocabulary-2021.pdf; and Higa, “Some Notes on an Asian American Art History,” 13.
