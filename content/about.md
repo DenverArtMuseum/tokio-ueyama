@@ -13,7 +13,7 @@ Published in conjunction with *The Life and Art of Tokio Ueyama*, organized by t
 (SCFD logo)
 
 
-Publication text and design © 2024 Denver Art Museum
+© 2024 Denver Art Museum
 Unless otherwise indicated, images are © Estate of Tokio Ueyama
 
 
@@ -23,9 +23,21 @@ All rights reserved. This book may not be reproduced, in whole or in part, inclu
 
 Every effort has been made to supply complete and correct credits; if there are errors or omissions, please contact the publisher so that corrections can be made.
 
+(DAM logo)
 Published by the Denver Art Museum
 100 West 14th Avenue Parkway
 Denver, CO 80204
 denverartmuseum.org
 
 The Denver Art Museum is located on the homeland of the Arapaho, Cheyenne, and Ute people, along with many people from other Indigenous nations that call this place home. Learn more about our commitments to better represent, elevate, and support Indigenous cultures and people, past and present, on our [website](https://www.denverartmuseum.org/en/values-and-philosophy).
+
+Managing Editor: Valerie Hellstein
+Editor: Leslie Murrell
+Curatorial Assistant: Meg Selig
+Developer: Matt Popke
+Development and Design: Darcy Christ
+Manager of Rights and Reproductions: Renée B. Miller
+Rights and Reproductions Assistant: Dzifah Danso
+Photographers: TK
+
+Cover page: Tokio Ueyama, *Desert Brush*, March 1945 (detail). Oil on canvas, 15 3/4 × 19 in. Courtesy Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.5. © Estate of Tokio Ueyama.
