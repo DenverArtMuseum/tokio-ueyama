@@ -7,7 +7,17 @@ layout: essay
 order: 90 
 ---
 
-## 1889–1908, Early Life
+<div class="timeline-toc">
+
+- [1889–1908, Early Life](#early-life)
+- [1909–21, American Art Education](#art-education)
+- [1922–41, California, Oregon, Mexico, and Japan](#comj)
+- [1842–45, World War II and Amache](#amache)
+- [1946–69, Los Angeles](#los-angeles)
+
+</div>
+
+## 1889–1908, Early Life {#early-life}
 
 Tokio Ueyama is born on September 22, 1889, in Toyajo, Wakayama Prefecture, to parents Sojuro and Hamaye Nakai Ueyama. His Japanese education includes Toyajyo Elementary School, Taikuy Junior High School, Prefecture High School, and Eastlake English School. While studying at Eastlake, he works for the design department of the Imperial Japanese Army General Staff Office in Tokyo.[^1]
 
@@ -15,7 +25,7 @@ In April 1908, a nearly eleven-year-old Suye Tsukada (1897–1969) leaves Japan 
 
 Ueyama arrives at Seattle, Washington, on May 7, 1908, after sailing from Yokohama on the ship *Kaga Maru*.[^3]
 
-## 1909–21, American Art Education
+## 1909–21, American Art Education {#art-education}
 
 In November 1909, Ueyama enrolls at the California School of Design (later renamed the San Francisco Art Institute) and leaves in February 1910.[^4]
 
@@ -49,7 +59,8 @@ The <em>Canopic</em> makes a brief stop at the Azores, then carries on to Gibral
 
 Ueyama completes his studies at PAFA in 1921.
 
-## 1922–41, California, Oregon, Mexico, and Japan
+## 1922–41, California, Oregon, Mexico, and Japan {#comj}
+
 He probably returns by train to Los Angeles in January 1922, departing Philadelphia on January 8 to Kansas City, then San Francisco, arriving in Los Angeles on January 12.[^13]
 
 In 1922, Ueyama cofounds the association Shaku-do-sha with artists Hojin Miyoshi and Sekishun Masuzo Uyeno and poet T. B. Okamura.
@@ -158,7 +169,7 @@ On August 31, 1941, Ueyama writes in his diary that he has quit working for Bunr
 
 On December 7, 1941, Japan attacks Pearl Harbor. In response, the US joins World War II.
 
-## 1942–45, World War II and Amache
+## 1942–45, World War II and Amache {#amache}
 
 On February 19, 1942, President Franklin D. Roosevelt signs Executive Order 9066, allowing for the mass incarceration of around 120,000 Japanese Americans during WWII without trial or hearings.[^55]
 
@@ -190,7 +201,7 @@ On August 31, 1945, Ueyama receives permission to travel to the Manzanar Relocat
 
 The last residents leave Amache on October 15, 1945.[^69]
 
-## 1946–69, Los Angeles
+## 1946–69, Los Angeles {#los-angeles}
 
 In November 1946, a group of artists including Ueyama form the Los Angeles Palette Club.[^70]
 
