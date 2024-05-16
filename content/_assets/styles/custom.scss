@@ -153,6 +153,25 @@ a.q-figure__modal-link.onhover {
         left: 50%;
         transform: translate(-50%,0);
     }
+
+    /* Due to the nature of CSS layout, matching height has to be done
+     * with knowledge of the specific image aspect ratio. So… don't
+     * do this a lot.
+    */
+    &.match-height {
+        display: grid;
+        max-height: calc(98% - 4.375rem);
+        .q-figure--group__row.columns {
+            .q-figure.quire-grid--2 {
+                &#ptl-26192 {
+                    flex: 1.42;
+                }
+                &#exrr-2024-14 {
+                    flex: 1.185;
+                }
+            }
+        }
+    }
 }
 
 .quire-page__header .hero-body .quire-page__header__title .separator {

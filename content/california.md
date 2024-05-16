@@ -31,7 +31,7 @@ In contrast, Los Angeles critics were more likely to point to the thorough weste
 
 In 1925, Ueyama made a second major international trip, this time to Mexico for the summer. In Mexico City, he listened to a lecture by Diego Rivera at the Association of Christian Women and spent time with the muralist, even keeping up a correspondence after his return to the US.[^15] In an interview for *Revista de Revistas*, Ueyama says he spent time with Rivera in his studio and admired his work, especially the mural in the Chapingo chapel.[^16] In Mexico, Ueyama probably met Edward Weston (which may have created the connection for Weston’s Shaku-do-sha exhibitions) and Jean Charlot, who wrote his address in <span id="ptl-26192" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26192" data-outputs-include="html"><img alt="This open notebook features handwriting on both pages." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26192.jpg">Ueyama’s notebook</a></span>.[^17] Ueyama traveled to <span id="ptl-26160" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26160" data-outputs-include="html"><img alt="Many colorful roofs are clustered together in this cityscape set against a gray sky." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26160.jpg">Cuernavaca</a></span> and Taxco, where he painted the Church of Santa Prisca from multiple perspectives (fig. 1). 
 
-{% figuregroup '2' 'ptl-26166, exrr-2024-14' %}
+{% figuregroup '2' 'ptl-26166, exrr-2024-14' 'break-grid match-height' %}
 
 {% figure 'ptl-26192' 'visually-hidden' %}
 
