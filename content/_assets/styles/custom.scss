@@ -409,6 +409,18 @@ a.q-figure__modal-link.onhover {
         background-size: cover;
       }
     }
+    #page-ch-foreword {
+      .quire-page__header.hero {
+        background-image: linear-gradient(180deg, rgba(246,239,223,0) 15%, rgb(246, 239, 223) 90%), url('/_assets/images/header-background/bg03.jpg');
+        background-size: cover;
+      }
+    }
+    #page-contents {
+      .quire-page__header.hero {
+        background-image: linear-gradient(180deg, rgba(246,239,223,0) 15%, rgb(246, 239, 223) 90%), url('/_assets/images/header-background/bg04.jpg');
+        background-size: cover;
+      }
+    }
   }
 
 /* Page Layout */
