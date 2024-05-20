@@ -92,6 +92,7 @@ strong {
 
 q-modal {
     background-color: $desat-blue;
+    z-index: 100;
 }
 
 
@@ -866,6 +867,11 @@ main.quire-page.quire-entry .quire-entry__content {
     display: none;
 }
 
+#page-index .quire-navbar-controls__left .logos,
+#page-index .contributor {
+    display: none;
+}
+
 /* Contents */
 
 // .table-of-contents ol {
@@ -875,23 +881,36 @@ main.quire-page.quire-entry .quire-entry__content {
 //     display: none;
 // }
 
-.page-contents .table-of-contents .subtitle {
+#page-contents .table-of-contents .subtitle {
     display: none;
 }
-.page-contents .quire-contents-list .menu-list a .arrow {
+#page-contents .quire-contents-list .menu-list a .arrow {
     display: none;
 }
-.page-contents .quire-contents-list .page-item.level-0:nth-child(n+4):nth-child(-n+8) {
+#page-contents .quire-contents-list .page-item.level-0:nth-child(n+4):nth-child(-n+8) {
     margin-left: 2rem;
 }
-.page-contents .quire-contents-list .page-item.level-0:nth-child(n+4):nth-child(-n+8) .contributor-divider,
-.page-contents .quire-contents-list .page-item.level-0:nth-child(n+4):nth-child(-n+8) .contributor {
+#page-contents .quire-contents-list .page-item.level-0:nth-child(n+4):nth-child(-n+8) .contributor-divider,
+#page-contents .quire-contents-list .page-item.level-0:nth-child(n+4):nth-child(-n+8) .contributor {
     display: none;
 }
-.page-contents .quire-contents-list .section-item.level-0 > ol.table-of-contents-list {
+#page-contents .quire-contents-list .section-item.level-0 > ol.table-of-contents-list {
     display: none;
+}
+#page-contents .quire-contents-list .page-item.level-1 a {
+    display: none !important;
+    // color: red !important;
 }
 
+.quire-contents-list .contributor-divider {
+    display: none;
+}
+.quire-contents-list .contributor {
+    display: block;
+    text-align: left;
+    font-size: 1rem;
+    margin-left: 1rem;
+}
 
 /* Chapters */
 
