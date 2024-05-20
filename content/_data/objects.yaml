@@ -78,11 +78,11 @@ object_list:
       - id: "ptl-26164-zoom"
     artist: Tokio Ueyama
     title: The Nude
-    year: 1924
+    year: 1932
     medium: Oil on canvas
     dimensions: 41 1/2 × 36 in.
     credit: Private collection. © Estate of Tokio Ueyama
-    entry_number: 6
+    entry_number: 13
 
   - id: ptl-26165
     figure:
@@ -93,7 +93,7 @@ object_list:
     medium: Oil on canvas
     dimensions: 32 × 40 1/2 in.
     credit: Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
-    entry_number: 7
+    entry_number: 6
 
   - id: ptl-26192
     figure:
@@ -104,7 +104,7 @@ object_list:
     medium: Ink on paper
     dimensions: 4 1/2 × 5 in.
     credit: Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Joshua White, image courtesy Bunkado, Inc.
-    entry_number: 8
+    entry_number: 7
 
   - id: ptl-26166
     figure:
@@ -115,7 +115,7 @@ object_list:
     medium: Oil on canvas
     dimensions: 25 1/4 × 30 in.
     credit: Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
-    entry_number: 9
+    entry_number: 8
 
   - id: ptl-26160
     figure:
@@ -126,7 +126,7 @@ object_list:
     medium: Oil on canvas
     dimensions: 8 3/4 × 10 in.
     credit: Private collection. © Estate of Tokio Ueyama
-    entry_number: 10
+    entry_number: 9
 
   - id: ptl-26167
     figure:
@@ -137,7 +137,7 @@ object_list:
     medium: Oil on canvas
     dimensions: 29 1/2 × 24 in.
     credit: Private collection. © Estate of Tokio Ueyama
-    entry_number: 11
+    entry_number: 10
 
   - id: ptl-26187
     figure:
@@ -148,7 +148,7 @@ object_list:
     medium: Oil on canvas
     dimensions: 29 7/8 × 35 1/2 in.
     credit: Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
-    entry_number: 12
+    entry_number: 11
 
   - id: ptl-26168
     figure:
@@ -159,7 +159,7 @@ object_list:
     medium: Oil on canvas
     dimensions: 42 × 42 in.
     credit: Private collection. © Estate of Tokio Ueyama
-    entry_number: 13
+    entry_number: 12
 
   - id: ptl-26188
     figure:

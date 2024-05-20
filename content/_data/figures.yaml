@@ -34,12 +34,14 @@ figure_list:
     credit: Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Joshua White, image courtesy Bunkado, Inc.
     caption: Tokio Ueyama, Notebook with addresses and journal entries, 1920s. Ink on paper, 4 1/2 × 5 in.
     alt: This open notebook features handwriting on both pages.
+    label: Cat. 7
 
   - id: ptl-26192-zoom
     src: figures/PTL-26192-zoom.jpg
     credit: Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Joshua White, image courtesy Bunkado, Inc.
     caption: Tokio Ueyama, Notebook with addresses and journal entries, 1920s. Ink on paper, 4 1/2 × 5 in.
     alt: This open notebook features handwriting on both pages.
+    label: Cat. 7
     zoom: true
 
   - id: ptl-26159
@@ -67,14 +69,16 @@ figure_list:
   - id: ptl-26164
     src: figures/PTL-26164.jpg
     credit: Private collection. © Estate of Tokio Ueyama
-    caption: Tokio Ueyama, *The Nude*, 1924. Oil on canvas, 41 1/2 × 36 in.
+    caption: Tokio Ueyama, *The Nude*, 1932. Oil on canvas, 41 1/2 × 36 in.
     alt: A nude woman reclines on a red couch.
+    label: Cat. 13
 
   - id: ptl-26164-zoom
     src: figures/PTL-26164-zoom.jpg
     credit: Private collection. © Estate of Tokio Ueyama
-    caption: Tokio Ueyama, *The Nude*, 1924. Oil on canvas, 41 1/2 × 36 in.
+    caption: Tokio Ueyama, *The Nude*, 1932. Oil on canvas, 41 1/2 × 36 in.
     alt: A nude woman reclines on a red couch.
+    label: Cat. 13
     zoom: true
 
   - id: ptl-26165
@@ -82,12 +86,14 @@ figure_list:
     credit: Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum
     caption: Tokio Ueyama, *Untitled (Landscape)*, 1924. Oil on canvas, 32 × 40 1/2 in.
     alt: There are large rocks in the foreground, tall trees in the middle ground, and mountains in the background of this landscape.
+    label: Cat. 6
 
   - id: ptl-26165-zoom
     src: figures/ptl-26165-zoom.jpg
     credit: Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum
     caption: Tokio Ueyama, *Untitled (Landscape)*, 1924. Oil on canvas, 32 × 40 1/2 in.
     alt: There are large rocks in the foreground, tall trees in the middle ground, and mountains in the background of this landscape.
+    label: Cat. 6
     zoom: true
 
   - id: ptl-26166
@@ -95,14 +101,14 @@ figure_list:
     credit: Oil on canvas, 25 1/4 × 30 in. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum
     caption: Tokio Ueyama, *Untitled (Taxco, Mexico)*, 1925. 
     alt: A predominantly white church rises above a green landscape against a mountainous backdrop.
-    label: Cat. 9
+    label: Cat. 8
 
   - id: ptl-26166-zoom
     src: figures/ptl-26166-zoom.jpg
     credit: Oil on canvas, 25 1/4 × 30 in. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum
     caption: Tokio Ueyama, *Untitled (Taxco, Mexico)*, 1925. 
     alt: A predominantly white church rises above a green landscape against a mountainous backdrop.
-    label: Cat. 9
+    label: Cat. 8
     zoom: true
 
   - id: ptl-26160
@@ -110,20 +116,21 @@ figure_list:
     credit: Private collection. © Estate of Tokio Ueyama
     caption: Tokio Ueyama, *At Cuernavaca*, 1925. Oil on canvas, 8 3/4 × 10 in.
     alt: Many colorful roofs are clustered together in this cityscape set against a gray sky.
+    label: Cat. 9
 
   - id: ptl-26167
     src: figures/ptl-26167.jpg
     credit: Oil on canvas, 29 1/2 × 24 in. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum
     caption: Tokio Ueyama, *Portrait in Black (Mrs. Ueyama)*, 1928. 
     alt: A sitting woman wears a black coat and hat, her hands crossed on her lap.
-    label: Cat. 11
+    label: Cat. 10
 
   - id: ptl-26167-zoom
     src: figures/ptl-26167-zoom.jpg
     credit: Oil on canvas, 29 1/2 × 24 in. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum
     caption: Tokio Ueyama, *Portrait in Black (Mrs. Ueyama)*, 1928. 
     alt: A sitting woman wears a black coat and hat, her hands crossed on her lap.
-    label: Cat. 11
+    label: Cat. 10
     zoom: true
 
   - id: ptl-26187
@@ -131,14 +138,14 @@ figure_list:
     credit: Oil on canvas, 29 7/8 × 35 1/2 in. Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum
     caption: Tokio Ueyama, *Monterey (Point Lobos, Monterey, California)*, 1929. 
     alt: White buildings are nestled into a rocky yet grassy landscape that overlooks blue water.
-    label: Cat. 12
+    label: Cat. 11
 
   - id: ptl-26187-zoom
     src: figures/ptl-26187-zoom.jpg
     credit: Oil on canvas, 29 7/8 × 35 1/2 in. Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum
     caption: Tokio Ueyama, *Monterey (Point Lobos, Monterey, California)*, 1929. 
     alt: White buildings are nestled into a rocky yet grassy landscape that overlooks blue water.
-    label: Cat. 12
+    label: Cat. 11
     zoom: true
 
   - id: ptl-26168
@@ -146,6 +153,7 @@ figure_list:
     credit: Private collection. © Estate of Tokio Ueyama
     caption: Tokio Ueyama, *Red Rock Canyon*, 1931. Oil on canvas, 42 × 42 in.
     alt: A craggy canyon extends takes up the majority of the canvas in this painting.
+    label: Cat. 12
 
   - id: ptl-26188
     src: figures/PTL-26188.jpg
