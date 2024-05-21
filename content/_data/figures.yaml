@@ -20,7 +20,7 @@ figure_list:
   - id: ptl-26158
     src: figures/fpo/ptl-26158.jpg
     credit: Private collection. © Estate of Tokio Ueyama
-    caption: Tokio Ueyama, *Study of Sculpture Bust*, 1919. Oil on canvas, 21 × 16 1/2 in.
+    caption: Tokio Ueyama, *Head*, 1919. Oil on canvas, 21 × 16 1/2 in.
     alt: A white sculpture of a head looking to the left is set against a mottled blue background.
 
   - id: ptl-26173
@@ -47,7 +47,7 @@ figure_list:
   - id: ptl-26159
     src: figures/fpo/ptl-26159.jpg
     credit: Oil on canvas, 18 1/2 × 13 3/4 in. Susie and David Ishibashi. © Estate of Tokio Ueyama
-    caption: Tokio Ueyama, *Self Portrait*, 1924. 
+    caption: Tokio Ueyama, *Self-Portrait*, 1924. 
     alt: A man in a white shirt looks directly forward, with a white full-length sculpture behind his right shoulder.
     label: Cat. 4
 
@@ -254,14 +254,14 @@ figure_list:
   - id: ptl-26190
     src: figures/PTL-26190.jpg
     credit: Oil on canvas, 18 × 16 in. Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Joshua White, image courtesy Bunkado, Inc.
-    caption: Tokio Ueyama, *Self Portrait*, July 1943. 
+    caption: Tokio Ueyama, *Self-Portrait*, July 1943. 
     alt: The a man in a white button-up shirt holds paint brushes and a palette.
     label: Cat. 20
 
   - id: ptl-26190-zoom
     src: figures/PTL-26190-zoom.jpg
     credit: Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Joshua White, image courtesy Bunkado, Inc.
-    caption: Tokio Ueyama, *Self Portrait*, July 1943. Oil on canvas, 18 × 16 in.
+    caption: Tokio Ueyama, *Self-Portrait*, July 1943. Oil on canvas, 18 × 16 in.
     alt: The a man in a white button-up shirt holds paint brushes and a palette.
     zoom: true
 
