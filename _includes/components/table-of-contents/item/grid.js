@@ -102,7 +102,7 @@ module.exports = function (eleventyConfig) {
         <div id="${page_id}" class="card ${imageAttribute} ${slugPageAttribute}">
           ${imageElement}
           <div class="card-content">
-            Cat. ${entry_number}, ${mainElement}
+            Cat. ${entry_number}. ${mainElement}
           </div>
         </div>
       `

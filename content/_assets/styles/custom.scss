@@ -348,7 +348,6 @@ a.q-figure__modal-link.onhover {
 }
 .button {
     display: inline-block;
-    /* width: 9.25em; */
     height: 2.9em;
     -moz-border-radius: 2px;
     -webkit-border-radius: 2px;
@@ -369,14 +368,12 @@ a.q-figure__modal-link.onhover {
 .button a {
     color: $nav-button-blue;
     display: inline-block;
-    width: 8.75em;
-    height: 3.25em;
     margin-top: 0;
     padding-top: 0.2em;
-    font-family: "Lato", sans-serif;
-    font-size: 1rem;
+    font-family:$montserrat;
     font-weight: 500;
 }
+
 .button span.button-title {
     vertical-align: super;
 }
@@ -964,6 +961,10 @@ main.quire-page.quire-entry .quire-entry__content {
 
 .card-image:first-child img {
     border-radius: 0;
+}
+
+#page-works .quire-contents-list .menu-list a .arrow {
+    display: none;
 }
 
 #page-works .quire-contents-list.grid .menu-list a:hover {
