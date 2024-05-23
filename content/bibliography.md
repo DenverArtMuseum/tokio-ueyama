@@ -62,4 +62,4 @@ National Park Service. "Terminology and the Mass Incarceration of Japanese Ameri
 
 The National WWII Museum. "Going for Broke: The 100th Infantry Battalion." https://www.nationalww2museum.org/war/articles/japanese-american-100th-infantry-battalion; and "Going for Broke: The 442nd Regimental Combat Team." https://www.nationalww2museum.org/war/articles/442nd-regimental-combat-team.
 
-The Tokio Ueyama papers, 1908–circa 1954. Archives of American Art. https://sirismm.si.edu/EADpdfs/AAA.ueyatoki.pdf.
+Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945, Archives of American Art, Smithsonian Institution. https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289.

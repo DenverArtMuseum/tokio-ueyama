@@ -21,7 +21,7 @@ order: 90
 
 Tokio Ueyama is born on September 22, 1889, in Toyajo, Wakayama Prefecture, to parents Sojuro and Hamaye Nakai Ueyama. His Japanese education includes Toyajyo Elementary School, Taikuy Junior High School, Prefecture High School, and Eastlake English School. While studying at Eastlake, he works for the design department of the Imperial Japanese Army General Staff Office in Tokyo.[^1]
 
-In April 1908, a nearly eleven-year-old Suye Tsukada (1897–1969) leaves Japan on the ship *Iyo Maru* with her father, Tomojiro Tsukada, and mother, Hana Uyeda Tsukada, and arrives in Seattle on April 17.[^2] (Twenty years later, Suye marries Tokio in California.)
+In April 1908, a nearly eleven-year-old Suyeko "Suye" Tsukada (1897–1969) leaves Japan on the ship *Iyo Maru* with her father, Tomojiro Tsukada, and mother, Hana Uyeda Tsukada, and arrives in Seattle on April 17.[^2] (Twenty years later, Suye marries Tokio in California.)
 
 Ueyama arrives at Seattle, Washington, on May 7, 1908, after sailing from Yokohama on the ship *Kaga Maru*.[^3]
 
@@ -43,7 +43,7 @@ In 1917, Ueyama moves to the East Coast and studies at the Pennsylvania Academy 
 
 In June 1918, he receives an honorable mention at PAFA for his work in perspective.[^10]
 
-In November 1919, he exhibits in the *Third Exhibition of Work Done at Chester Springs, the Summer School of the Pennsylvania Academy of the Fine Arts*.[^11] Works on display include a <span id="ptl-26158" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26158" data-outputs-include="html"><img alt="A white sculpture of a head looking to the left is set against a mottled blue background." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26158.jpg">sculpture bust exhibited as *Head*</a></span> (no. 2), *The Spring House* (no. 32), *The Hills* (no. 103), and *Portrait* (no. 124).
+In November 1919, he exhibits in the *Third Exhibition of Work Done at Chester Springs, the Summer School of the Pennsylvania Academy of the Fine Arts*.[^11] Works on display include a painting of a sculpture bust exhibited as <span id="ptl-26158" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26158" data-outputs-include="html"><img alt="A white sculpture of a head looking to the left is set against a mottled blue background." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26158.jpg">*Head*</a></span> (no. 2), *The Spring House* (no. 32), *The Hills* (no. 103), and *Portrait* (no. 124).
 
 {% figure 'ptl-26158' 'visually-hidden' %}
 
@@ -63,7 +63,7 @@ Ueyama completes his studies at PAFA in 1921.
 
 He probably returns by train to Los Angeles in January 1922, departing Philadelphia on January 8 to Kansas City, then San Francisco, arriving in Los Angeles on January 12.[^13]
 
-In 1922, Ueyama cofounds the association Shaku-do-sha with artists Hojin Miyoshi and Sekishun Masuzo Uyeno and poet T. B. Okamura.
+In 1922, Ueyama cofounds the association Shaku-do-sha with artists Hojin Miyoshi (1888–unknown) and Sekishun Masuzo Uyeno (c. 1892–unknown) and poet T. B. Okamura (dates unknown).
 
 From April 21 to May 28, 1922, Ueyama exhibits *The Spring House* (no. 64) and *Portrait Study* (no. 65) in the *Third Exhibition:* *Painters and Sculptors of Southern California*, Los Angeles Museum of History, Science, and Art.[^14]
 
@@ -77,7 +77,13 @@ On September 1, 1923, the Great Kanto Earthquake strikes south of Tokyo, bringin
 
 Congress passes the Immigration Act of 1924 (Johnson-Reed Act), which halts all immigration from Asia and limits other immigrants through a national origins quota.[^20]
 
-From September 20 to 30, 1924, Ueyama mounts his first known solo exhibition at the Sumida Music Store at 325 East First Street. Among the twenty-five works exhibited are his watercolor *The Castle in Naples* (no. 13), his early *Self Portrait* (no. 25), and possibly *Still Life* (no. 10 or 19). It is also possible that a currently untitled California landscape dated 1924 was exhibited as <span id="ptl-26165" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26165" data-outputs-include="html"><img alt="There are large rocks in the foreground, tall trees in the middle ground, and mountains in the background of this landscape." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26165.jpg">*In the High Sierras*</a></span> (no. 23).[^21]
+From September 20 to 30, 1924, Ueyama mounts his first known solo exhibition at the Sumida Music Store at 325 East First Street. Among the twenty-five works exhibited are his watercolor <span id="ptl-26173" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26173" data-outputs-include="html"><img alt="A large brown castle towers over two blue pools separated by a walkway in the foreground." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26173.jpg">*The Castle in Naples*</a></span> (no. 13), his early <span id="ptl-26159" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26159" data-outputs-include="html"><img alt="A man in a white shirt looks directly forward, with a white full-length sculpture behind his right shoulder." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26159.jpg">*Self Portrait*</a></span> (no. 25), and possibly <span id="ptl-26163" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26163" data-outputs-include="html"><img alt="A man in a white shirt looks directly forward, with a white full-length sculpture behind his right shoulder." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26163.jpg">*Still Life*</a></span> (no. 10 or 19). It is also possible that a <span id="ptl-26165" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26165" data-outputs-include="html"><img alt="There are large rocks in the foreground, tall trees in the middle ground, and mountains in the background of this landscape." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26165.jpg">currently untitled California landscape</a></span> dated 1924 was exhibited as *In the High Sierras* (no. 23).[^21]
+
+{% figure 'ptl-26173' 'visually-hidden' %}
+
+{% figure 'ptl-26159' 'visually-hidden' %}
+
+{% figure 'ptl-26163' 'visually-hidden' %}
 
 {% figure 'ptl-26165' 'visually-hidden' %}
 
@@ -93,11 +99,11 @@ On May 24, 1925, Ueyama passes through the US border at El Paso, Texas, for a th
 
 Ueyama probably travels back to Oregon in 1925.[^27]
 
-A letter dated February 13, 1926, from F. T. Iwakura in Courtland, California, is addressed to Ueyama at 1912 Moss Street in Eugene, Oregon, suggesting he may have been in Oregon at that time.[^28]
+A letter dated February 13, 1926, from F. T. Iwakura in Courtland, California, is addressed to Ueyama at 1912 Moss Street in Eugene, Oregon, suggesting he was in Oregon at that time.[^28]
 
 From April 9 to May 23, 1926, Ueyama exhibits *Creeping Shadows* (no. 62) in the *Seventh Exhibition:* *Painters and Sculptors of Southern California*, Los Angeles Museum of History, Science, and Art.[^29]
 
-In late May 1926, Ueyama returns to the University of Oregon in Eugene to help arrange stage decorations with Zane for an upcoming dance drama.[^30]
+In late May 1926, Ueyama helps arrange stage decorations with Zane at the University of Oregon for an upcoming dance drama.[^30]
 
 During the summer of 1926, Ueyama wins an honorable mention for his painting *The Spring-house* when it is exhibited (no. 143) in the first annual Southern California Artists’ exhibition at the Fine Arts Gallery, San Diego, from June 4 to August 31.[^31]
 
@@ -111,7 +117,7 @@ From April 6 to May 17, 1928, Ueyama exhibits <span id="ptl-26167" class="q-figu
 
 {% figure 'exrr-2024-31' 'is-pulled-left' %}
 
-On July 23, 1928, Ueyama marries Suye Tsukada in a ceremony at California’s Mission Inn in Riverside in a ceremony led by Reverend Taizo Kitagawa (fig. 4).[^35]
+On July 23, 1928, Ueyama marries Suye Tsukada in a ceremony at California’s Mission Inn led by Reverend Taizo Kitagawa (fig. 4).[^35]
 
 From April 14 to 28, 1929, Ueyama exhibits *Portrait Study in Black* (no. 158) in the 51st San Francisco Art Association exhibition.[^36]
 
@@ -125,13 +131,11 @@ In December 1929, Ueyama exhibits two paintings in the first annual *Japanese Ar
 
 In 1930, Tokio and Suye move to the Fulsom Street house owned by Mr. and Mrs. Wilson.[^39]
 
-From April 4 to May 25, 1930, Ueyama exhibits a painting titled <span id="ptl-26187" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26187" data-outputs-include="html"><img alt="White buildings are nestled into a rocky yet grassy landscape that overlooks blue water." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26187.jpg">*Monterey*</a></span> (no. 96), possibly the painting below, in the *Eleventh Exhibition: Painters and Sculptors of Southern California*, Los Angeles Museum of History, Science, and Art.[^40]
-
-{% figure 'ptl-26187' 'visually-hidden' %}
+From April 4 to May 25, 1930, Ueyama exhibits a painting titled *Monterey* (no. 96) in the *Eleventh Exhibition: Painters and Sculptors of Southern California*, Los Angeles Museum of History, Science, and Art.[^40]
 
 Later in 1930, he exhibits in the second annual *Japanese Artists of Los Angeles*.[^41]
 
-In 1931, Ueyama exhibits <span id="ptl-26166" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26166" data-outputs-include="html"><img alt="A predominantly white church rises above a green landscape against a mountainous backdrop." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26166.jpg">*Church at Taxco, Mexico*</a></span> (no. 440) in the 53rd exhibition of the San Francisco Art Association at the Palace of the Legion of Honor from April 26 to May 31.[^42] Ueyama painted a number of versions of the Church of Santa Prisca de Taxco. While it is unknown which one was on display in San Francisco, it may have been similar to the oil included in the exhibition accompanying this catalog.
+In 1931, Ueyama exhibits *Church at Taxco, Mexico* (no. 440) in the 53rd exhibition of the San Francisco Art Association at the Palace of the Legion of Honor from April 26 to May 31.[^42] Ueyama painted a number of versions of the Church of Santa Prisca de Taxco. While it is unknown which one was on display in San Francisco, it may have been similar to the <span id="ptl-26166" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26166" data-outputs-include="html"><img alt="A predominantly white church rises above a green landscape against a mountainous backdrop." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26166.jpg">oil included in the exhibition</a></span> accompanying this catalog.
 
 {% figure 'ptl-26166' 'visually-hidden' %}
 
@@ -171,23 +175,23 @@ On December 7, 1941, Japan attacks Pearl Harbor. In response, the US joins World
 
 ## 1942–45, World War II and Amache {#amache}
 
-On February 19, 1942, President Franklin D. Roosevelt signs Executive Order 9066, allowing for the mass incarceration of around 120,000 Japanese Americans during WWII without trial or hearings.[^55]
+On February 19, 1942, President Franklin D. Roosevelt signs Executive Order 9066, allowing for the mass incarceration of over 120,000 Japanese Americans living on the West Coast during WWII without trial or hearings.[^55]
 
 On March 18, 1942, President Roosevelt signs Executive Order 9102, establishing the War Relocation Authority (WRA) to formulate a program for Japanese relocation.
 
-The Santa Anita Assembly Center, where the Ueyamas are first detained, opens on March 27, 1942. (It closes on October 27, 1942).
+The Santa Anita Assembly Center, a temporary detention center where the Ueyamas are first detained, opens on March 27, 1942. (It closes on October 27, 1942).
 
-On June 12, 1942, construction of the WRA-managed Granada Relocation Center in Colorado, colloquially known as Amache (pronounced *ah-mah-chee*), begins. It is in operation by August and sees its maximum population that October at 7,318. Evacuees are from the Merced and Santa Anita assembly centers. More than 10,000 people are incarcerated at Amache over time.[^56]
+On June 12, 1942, construction of the WRA-managed Granada Relocation Center in Colorado, colloquially known as Amache (pronounced *ah-mah-chee*), begins. It is in operation by August and sees its maximum population that October at 7,318. More than 10,000 people are incarcerated at Amache over time.[^56]
 
 Also on June 12, 1942, the 100th Infantry Battalion—a segregated unit composed of second-generation Japanese Americans (Nisei)—is activated.[^57]
 
-The Ueyamas arrive at Amache on September 19, 1942, and reside at barrack 6F-7C.[^58] With Koichi Nomiyama (1900–1984), Ueyama supervises and teaches art classes three times a day, three days a week, in one of the rec halls (fig. 5).[^59]
+The Ueyamas arrive at Amache on September 19, 1942, and reside at barrack 6F-7C.[^58] With Koichi Nomiyama (1900–1984) and others, Ueyama supervises and teaches art classes three times a day, three days a week, in the 7E block recreation hall (fig. 5).[^59]
 
 {% figure 'exrr-2024-32' 'is-pulled-right' %}
 
-On February 1, 1943, President Roosevelt activates the 442nd Regimental Combat Team, a segregated regiment of Japanese Americans.[^60] On August 10, 1944, the 100th Infantry Battalion is integrated into the 442nd.[^61] These would become the most decorated units of their size in US military history.[^62] Thirty-one members of Amache are killed at war.[^63]
+On February 1, 1943, President Roosevelt activates the 442nd Regimental Combat Team, a segregated regiment of Japanese Americans.[^60] On August 10, 1944, the 100th Infantry Battalion is integrated into the 442nd.[^61] These remain the most decorated units of their size in US military history.[^62] Thirty-one members of Amache are killed at war.[^63]
 
-From March 6 to 8, 1943, Ueyama exhibits <span id="ptl-26150" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26150" data-outputs-include="html"><img alt="A woman sews in a wooden chair in a room next to an open door." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26150.jpg">*The Evacuee*</a></span> at the Arts and Crafts Festival at Amache held in Terry Hall.[^64]
+In March 1943, Ueyama exhibits <span id="ptl-26150" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26150" data-outputs-include="html"><img alt="A woman sews in a wooden chair in a room next to an open door." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26150.jpg">*The Evacuee*</a></span> at the Arts and Crafts Festival at Amache held in Terry Hall.[^64]
 
 {% figure 'ptl-26150' 'visually-hidden' %}
 
@@ -195,7 +199,7 @@ On December 17, 1944, the West Coast exclusion ban is lifted, effective January 
 
 On May 29, 1945, Ueyama receives permission to travel to Los Angeles.[^66]
 
-On June 11, 1945, the Ueyamas return to Los Angeles.[^67]
+On June 11, 1945, the Ueyamas leave Amache.[^67]
 
 On August 31, 1945, Ueyama receives permission to travel to the Manzanar Relocation Center, California. He departs Los Angeles on September 4 and returns on September 20.[^68]
 
@@ -209,17 +213,17 @@ In November 1946, a group of artists including Ueyama form the Los Angeles Palet
 
 In 1947, Suye and Tokio open the gift shop Bunkado (fig. 6).[^71]
 
-From May 2 to 4, 1947, Japanese artists of the LA Palette Club exhibit artwork created at relocation centers at the Daishi Mission, or Koyasas Beikoku Betsuin, on 342 East First Street. Ueyama exhibits *At Santa Anita* (known as <span id="ptl-26150" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26150" data-outputs-include="html"><img alt="A woman sews in a wooden chair in a room next to an open door." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26150.jpg">*The Evacuee*</a></span>, no. 48), *Yucca Trees* (no. 49), *Amache Center* (no. 50), *Passing Shower* (no. 51), *Our Corn Patch* (no. 52), *Cactus* (no. 53), and *Manzanar* (no. 54). Ueyama serves as chairman of the exhibition.[^72]
+From May 2 to 4, 1947, Japanese artists of the LA Palette Club exhibit artwork created at American concentration camps at the Daishi Mission, or Koyasas Beikoku Betsuin, on 342 East First Street. Ueyama exhibits *At Santa Anita* (known as <span id="ptl-26150" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26150" data-outputs-include="html"><img alt="A woman sews in a wooden chair in a room next to an open door." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26150.jpg">*The Evacuee*</a></span>, no. 48), *Yucca Trees* (no. 49), *Amache Center* (no. 50), *Passing Shower* (no. 51), *Our Corn Patch* (no. 52), *Cactus* (no. 53), and *Manzanar* (no. 54). Ueyama serves as chairman of the exhibition.[^72]
 
 {% figure 'ptl-26150' 'visually-hidden' %}
 
-From November 5 to 10, Ueyama exhibits *Self Portrait* (no. 33), possibly this <span id="ptl-26190" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26190" data-outputs-include="html"><img alt="The a man in a white button-up shirt holds paint brushes and a palette." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26190.jpg">self-portrait</a></span>, *Katsuura* (no. 34), possibly <span id="ptl-26169" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26169" data-outputs-include="html"><img alt="A shoreline with strongly vertical rock outcroppings overlooks blue and white water." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26169.jpg">this painting</a></span>, and *Still Life* (no. 35) in the Los Angeles Palette Club’s *Second Annual Exhibition* at the Daishi Mission, 342 East First Street.[^73]
+From November 5 to 10, Ueyama exhibits *Self Portrait* (no. 33), possibly this <span id="ptl-26190" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26190" data-outputs-include="html"><img alt="The a man in a white button-up shirt holds paint brushes and a palette." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26190.jpg">self-portrait</a></span>, *Katsuura* (no. 34), possibly <span id="ptl-26169" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26169" data-outputs-include="html"><img alt="A shoreline with strongly vertical rock outcroppings overlooks blue and white water." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26169.jpg">this painting</a></span>, and *Still Life* (no. 35) in the Los Angeles Palette Club’s *Second Annual Exhibition* at the Daishi Mission.[^73]
 
 {% figure 'ptl-26190' 'visually-hidden' %}
 
 {% figure 'ptl-26169' 'visually-hidden' %}
 
-From September 29 to October 4, 1948, Ueyama exhibits *The Spring Light* (no. 37), *Sketch* (no. 38), and *Amakusa, Japan* (no. 39) in the LA Palette Club’s *Third Annual Exhibition* at the Daishi Mission, 342 East First Street. Ueyama serves as chairman of the exhibition.[^74]
+From September 29 to October 4, 1948, Ueyama exhibits *The Spring Light* (no. 37), *Sketch* (no. 38), and *Amakusa, Japan* (no. 39) in the LA Palette Club’s *Third Annual Exhibition* at the Daishi Mission. Ueyama serves as chairman of the exhibition.[^74]
 
 In 1952, Congress passes the McCarran-Walter Act, allowing Japanese immigration to the US again and allowing Issei (first-generation Japanese immigrants) to become US citizens for the first time.
 
@@ -235,17 +239,17 @@ Ueyama’s memorial exhibition takes place October 20 to 26, 1954, at the Japane
 
 On March 12, 1969, Suye Ueyama dies, aged seventy-one, in Los Angeles.
 
-[^1]: See the biography (in Japanese) in Ueyama’s Memorial Exhibition catalog, 1954, Bunkado collection. Many thanks to Noriko Okada for translating the Japanese text.
+[^1]: See the biography (in Japanese) in Ueyama’s Memorial Exhibition catalog, 1954, Collection of Bunkado. Many thanks to Noriko Okada for translating the Japanese text.
 
-[^2]: See handwritten note, small black notebook, Bunkado collection.
+[^2]: See handwritten note, small black notebook, Collection of Bunkado.
 
-[^3]: See Ueyama’s Imperial Japanese Government passport, Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945, Archives of American Art, Smithsonian Institution, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289; and handwritten note, small black notebook, Bunkado collection.
+[^3]: See "Japanese Passport, 1908," Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945, Archives of American Art, Smithsonian Institution, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-10; and handwritten note, small black notebook, Collection of Bunkado.
 
 [^4]: See 1909–10 California School of Design college catalog and Ueyama registration documents shared in an email to the author from Jeff Gunderson, Archivist/Librarian of the SFAI Legacy Foundation + Archives, June 20, 2023.
 
-[^5]: I am grateful to Noriko Okada for her translation of Ueyama’s 1937–41 diary from Japanese; diary in Tokio Ueyama papers, Archives of American Art.
+[^5]: "Diary Excerpts Translated into English, 2023," Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945, Archives of American Art, Smithsonian Institution, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-9.
 
-[^6]: See the 1915 USC yearbook and Ueyama’s USC diploma, Tokio Ueyama papers, Archives of American Art.
+[^6]: See "University of Southern California Diploma," Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945, Archives of American Art, Smithsonian Institution, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-2-folder-8.
 
 [^7]: See “Timeline of Japanese American History,” Japanese American National Museum, September 2021, https://www.janm.org/sites/default/files/2021-12/janm-education-resources-common-ground-previsit-timeline-and-vocabulary-2021.pdf.
 
@@ -253,13 +257,13 @@ On March 12, 1969, Suye Ueyama dies, aged seventy-one, in Los Angeles.
 
 [^9]: See registration cards at PAFA sent via email to the author from Hoang Tran, Director of Archives & Collections, PAFA, June 12, 2023.
 
-[^10]: See hand-written letter dated June 28, 1918, red scrapbook, Bunkado collection.
+[^10]: See hand-written letter dated June 28, 1918, red scrapbook, Collection of Bunkado.
 
 [^11]: See *Third Exhibition of Work Done at Chester Springs, the Summer School of the Pennsylvania Academy of the Fine Arts* (Chester Springs, PA: Pennsylvania Academy of the Fine Arts, 1919), https://babel.hathitrust.org/cgi/pt?id=mdp.39015062805919&view=1up&seq=3.
 
 [^12]: The ship manifest provides the date of arrival in New York as October 4, 1920. In a small black notebook in the Bunkado collection with his and Suye’s travel information, Ueyama notes the date as October 3.
 
-[^13]: See Pullman train ticket stubs, Tokio Ueyama papers, Archives of American Art, Smithsonian Institution.
+[^13]: See Pullman train ticket stubs, "Visas and Other Travel Documents, 1920–1925," Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945, Archives of American Art, Smithsonian Institution, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-2-folder-9.
 
 [^14]: See *Third Exhibition: Painters and Sculptors of Southern California* (Los Angeles: Los Angeles Museum of History, Science, and Art, 1922), https://archive.org/details/calanhm_000570.
 
@@ -275,73 +279,73 @@ On March 12, 1969, Suye Ueyama dies, aged seventy-one, in Los Angeles.
 
 [^20]: See “The Immigration Act of 1924 (The Johnson-Reed Act),” Office of the Historian of the United States Department of State, accessed November 9, 2023, https://history.state.gov/milestones/1921-1936/immigration-act.
 
-[^21]: The catalog is in the red scrapbook, Bunkado collection, 11.
+[^21]: The catalog is in the red scrapbook, Collection of Bunkado, 11.
 
-[^22]: See “Japanese Art to be Shown in University Gallery Soo,” *Oregon Daily Emerald*, October 29, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-10-29/ed-1/seq-1/#words=Tokio+Ueyama; Margaret Skavlan, “Japanese Paintings Are Hung in University Art Gallery,” *Oregon Daily Emerald*, November 13, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-13/ed-1/seq-1/#words=Tokio+Ueyama; “Arts Club Will Open Exhibition with Tea,” *Oregon Daily Emerald*, November 18, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-18/ed-1/seq-3/#words=Tokio+Ueyama; “Exhibition of Japanese Artist’s Paintings Will Be Opened Today,” *Oregon Daily Emerald*, November 19, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-19/ed-1/seq-1/#words=Tokio+Ueyama; “Japanese Print Collector Visits Campus Today. S. Doi Paintings to be Presented With Ueyama Exhibition,” *Oregon Daily Emerald*, November 20, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-20/ed-1/seq-3/#words=Tokio+Ueyama; “Work of Japanese Artist Portrays Variety of Style,” *Oregon Daily Emerald*, December 2, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-12-02/ed-1/seq-1/#words=Tokio+Ueyama; and undated clipping, “Exhibit of Ueyama, Japanese Painter, Opens Wednesday,” red scrapbook, Bunkado collection, 8.
+[^22]: See “Japanese Art to be Shown in University Gallery Soo,” *Oregon Daily Emerald*, October 29, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-10-29/ed-1/seq-1/#words=Tokio+Ueyama; Margaret Skavlan, “Japanese Paintings Are Hung in University Art Gallery,” *Oregon Daily Emerald*, November 13, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-13/ed-1/seq-1/#words=Tokio+Ueyama; “Arts Club Will Open Exhibition with Tea,” *Oregon Daily Emerald*, November 18, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-18/ed-1/seq-3/#words=Tokio+Ueyama; “Exhibition of Japanese Artist’s Paintings Will Be Opened Today,” *Oregon Daily Emerald*, November 19, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-19/ed-1/seq-1/#words=Tokio+Ueyama; “Japanese Print Collector Visits Campus Today. S. Doi Paintings to be Presented With Ueyama Exhibition,” *Oregon Daily Emerald*, November 20, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-20/ed-1/seq-3/#words=Tokio+Ueyama; “Work of Japanese Artist Portrays Variety of Style,” *Oregon Daily Emerald*, December 2, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-12-02/ed-1/seq-1/#words=Tokio+Ueyama; and undated clipping, “Exhibit of Ueyama, Japanese Painter, Opens Wednesday,” red scrapbook, Collection of Bunkado, 8.
 
-[^23]: Ueyama’s Memorial Exhibition biography states he received the commission in 1924, and a black-and-white photograph of Ueyama applying paint under Romeo’s shoe provides incontestable evidence. See the Japanese version of his biography in the Memorial Exhibition catalog, 1954. I am grateful for a translation by Noriko Okada. See also photograph of Ueyama applying paint under Romeo’s shoe, red scrapbook, Bunkado collection, 42. I am grateful to Kanae Aoki, whose research revealed that Ueyama also helped create the Macbeth mural. Both murals still exist. See email to the author, December 18, 2023. Recently, Aoki co-curated *Transbordering: Migration and Art Across Wakayama and the U.S.A* at the Museum of Modern Art, Wakayama, Japan, which included artwork by Ueyama.
+[^23]: Ueyama’s Memorial Exhibition biography states he received the commission in 1924, and a black-and-white photograph of Ueyama applying paint under Romeo’s shoe, illustrated in this timeline, provides incontestable evidence. See the Japanese version of his biography in the Memorial Exhibition catalog, 1954. I am grateful for a translation by Noriko Okada. I am also grateful to Kanae Aoki, whose research revealed that Ueyama helped create both murals, which still exist. See email to the author, December 18, 2023. Recently, Aoki co-curated *Transbordering: Migration and Art Across Wakayama and the U.S.A* at the Museum of Modern Art, Wakayama, Japan, which included artwork by Ueyama.
 
 [^24]: See *Sixth Exhibition: Painters and Sculptors of Southern California* (Los Angeles: Los Angeles Museum of History, Science, and Art, 1925), https://archive.org/details/calanhm_000621.
 
-[^25]: His visa to visit Mexico was approved in Los Angeles on April 27, 1925. It shows that he entered Mexico on May 24, 1925, and was admitted back into the US on August 27, 1925. Tokio Ueyama papers, Archives of American Art.
+[^25]: His visa to visit Mexico was approved in Los Angeles on April 27, 1925. It shows that he entered Mexico on May 24, 1925, and was admitted back into the US on August 27, 1925. "Visas and Other Travel Documents, 1920–1925," Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945, Archives of American Art, Smithsonian Institution, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-2-folder-9.  
 
-[^26]: On his relationship with Diego Rivera, see “Tokio Ueyama: Un Pintor Japonés en México,” *Revista de Revistas*, September 6, 1925, 17–18 and 42. Page 42 is missing in the clipping available in the red scrapbook, Bunkado collection, 20–21. I am grateful to Memphis Despain for translating this article while ShiPu Wang’s research assistant in August 2022. Jean Charlot handwrote his address in Ueyama’s black notebook, Bunkado collection. The Shaku-do-sha later exhibited Weston’s work in 1925, 1927, and 1931 at the Sumida Music Store on East First Street. See Higa, “Hidden in Plain Sight,” 39.
+[^26]: On his relationship with Diego Rivera, see “Tokio Ueyama: Un Pintor Japonés en México,” *Revista de Revistas*, September 6, 1925, 17–18 and 42. Page 42 is missing in the clipping available in the red scrapbook, Collection of Bunkado, 20–21. I am grateful to Memphis Despain for translating this article while ShiPu Wang’s research assistant in August 2022. Jean Charlot handwrote his address in Ueyama’s black notebook, Collection of Bunkado. The Shaku-do-sha later exhibited Weston’s work in 1925, 1927, and 1931 at the Sumida Music Store on East First Street. See Higa, “Hidden in Plain Sight,” 39.
 
 [^27]: See “Talented Japanese Artist Visits Campus,” *Oregon Daily Emerald*, November 18, 1925, https://oregonnews.uoregon.edu/lccn/2004260239/1925-11-18/ed-1/seq-3/#words=Tokio+Ueyama; and “Dance,” *Oregon Daily Emerald*, April 2, 1926, https://oregonnews.uoregon.edu/lccn/2004260239/1926-04-02/ed-1/seq-4/.
 
-[^28]: See letter in Tokio Ueyama papers, Archives of American Art.
+[^28]: See "Correspondence—Miscellaneous, 1916–1936," Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945, Archives of American Art, Smithsonian Institution, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-4.
 
 [^29]: See *Seventh Exhibition: Painters and Sculptors of Southern California* (Los Angeles: Los Angeles Museum of History, Science, and Art, 1926), https://archive.org/details/calanhm_000633.
 
-[^30]: See “Music to Add to Beauty of Dance Drama,” *Oregon Daily Emerald*, April 1, 1926, https://oregonnews.uoregon.edu/lccn/2004260239/1926-04-01/ed-1/seq-1/#words=Tokio+Ueyama; and “Dance Drama Has Atmosphere of Colorful and Dreamlike Fairyland,” *Oregon Daily Emerald*, April 2, 1926, https://oregonnews.uoregon.edu/lccn/2004260239/1926-04-02/ed-1/seq-1/. An envelope in the Tokio Ueyama papers provides Ueyama’s 1926 address in Eugene as 1912 Moss St.
+[^30]: See “Music to Add to Beauty of Dance Drama,” *Oregon Daily Emerald*, April 1, 1926, https://oregonnews.uoregon.edu/lccn/2004260239/1926-04-01/ed-1/seq-1/#words=Tokio+Ueyama; and “Dance Drama Has Atmosphere of Colorful and Dreamlike Fairyland,” *Oregon Daily Emerald*, April 2, 1926, https://oregonnews.uoregon.edu/lccn/2004260239/1926-04-02/ed-1/seq-1/.
 
-[^31]: Catalog available in the archives of the San Diego Museum of Art. See also a clipping from the *San Diego Independent*, June 27, 1926, red scrapbook, Bunkado collection, 19; letter from Reginald Poland notifying of award, red scrapbook, Bunkado collection, 30; and Ione Rayburn, “Japanese Artists in California,” in “Sports and Vanities,” September 1927, clipping in red scrapbook, Bunkado collection, 37–38. Rayburn’s article states that Ueyama exhibited canvases at the Artland Club from December 1926 to January 1927, but to date this author has not found further references to these.
+[^31]: Catalog available in the archives of the San Diego Museum of Art. See also a clipping from the *San Diego Independent*, June 27, 1926, red scrapbook, Collection of Bunkado, 19; letter from Reginald Poland notifying of award, red scrapbook, Collection of Bunkado, 30; and Ione Rayburn, “Japanese Artists in California,” in “Sports and Vanities,” September 1927, clipping in red scrapbook, Collection of Bunkado, 37–38. Rayburn’s article states that Ueyama exhibited canvases at the Artland Club from December 1926 to January 1927, but to date this author has not found further references to these.
 
-[^32]: Because he exhibited a number of paintings under this title, it is difficult to know which still life won the award. To date this author has not located the exhibition catalog. See references to this award and exhibition in Ueyama’s Memorial Exhibition biography; a certificate of award, given on September 21, Tokio Ueyama papers, Archives of American Art; and Rayburn, “Japanese Artists in California.”
+[^32]: Because he exhibited a number of paintings under this title, it is difficult to know which still life won the award. To date this author has not located the exhibition catalog. See references to this award and exhibition in Ueyama’s Memorial Exhibition biography; "Award Certificate from Southern California Fair, 1926," Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945, Archives of American Art, Smithsonian Institution, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-1; and Rayburn, “Japanese Artists in California.”
 
-[^33]: See Noriko’s translation of Ueyama’s diary 1937–41; diary in Tokio Ueyama papers, Archives of American Art. See especially the diary entry from January 17, 1940.
+[^33]: "Diary Excerpts Translated into English, 2023," Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945, Archives of American Art, Smithsonian Institution, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-9.
 
 [^34]: Catalog available in the Los Angeles County Museum of Art (LACMA) archives.
 
-[^35]: See hand-written details in a small black notebook, Bunkado collection; and a wedding expenses receipt from the Mission Inn, Tokio Ueyama papers, Archives of American Art.
+[^35]: See hand-written details in a small black notebook, Collection of Bunkado; and a wedding expenses receipt, "Miscellaneous Biographical Information, circa 1928–1937," Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945, Archives of American Art, Smithsonian Institution, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-11.  
 
 [^36]: My thanks to ShiPu Wang for information on this exhibition.
 
-[^37]: Catalog available in the archives of the San Diego Museum of Art. See also a clipping of an article by Reginald Poland, director of the Fine Arts Gallery, “Work in Annual Show of Virile, Positive Spirit,” red scrapbook, Bunkado collection, 5.
+[^37]: Catalog available in the archives of the San Diego Museum of Art. See also a clipping of an article by Reginald Poland, director of the Fine Arts Gallery, “Work in Annual Show of Virile, Positive Spirit,” red scrapbook, Collection of Bunkado, 5.
 
 [^38]: Millier describes *Monterey* as “flooded with clear light which creates a fine pattern of light and shadow on headlands, houses, and blue water.” He continues: “His portrait of a young Japanese woman in black hat and coat holds one’s interest by its poise, feeling for textures and character.” Millier concludes by writing, “He is an accomplished and painstaking artist.” See Arthur Millier, “City’s Japanese Show Art,” *Los Angeles Times*, December 29, 1929. To date this author has not located the exhibition catalog.
 
-[^39]: See Noriko’s translation of Ueyama’s diary 1937–41; diary in Tokio Ueyama papers, Archives of American Art.
+[^39]: "Diary Excerpts Translated into English, 2023," Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945, Archives of American Art, Smithsonian Institution, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-9.
 
 [^40]: Catalog available in the LACMA archives.
 
-[^41]: To date, this author has not sourced the catalog for this exhibition. Based on the review by *LA Times* art critic Antony Anderson, Ueyama had on display “an imposing and exceedingly skillful portrait of a young Japanese woman.” This might be his large portrait of Suye in a kimono painted in 1929 and now at the Japanese American National Museum. Anderson continues that Ueyama’s “strong modeling and understanding breadth of style show him to be one of our finest portrait painters, indeed, quite among the good portraitists of the country.” See clipping in red scrapbook, Bunkado collection, 15. Antony Anderson, “Art News From Laguna,” *Los Angeles Times*, December 21, 1930.
+[^41]: To date, this author has not sourced the catalog for this exhibition. Based on the review by *LA Times* art critic Antony Anderson, Ueyama had on display “an imposing and exceedingly skillful portrait of a young Japanese woman.” This might be his large portrait of Suye in a kimono painted in 1929 and now at the Japanese American National Museum. Anderson continues that Ueyama’s “strong modeling and understanding breadth of style show him to be one of our finest portrait painters, indeed, quite among the good portraitists of the country.” See clipping in red scrapbook, Collection of Bunkado, 15. Antony Anderson, “Art News From Laguna,” *Los Angeles Times*, December 21, 1930.
 
 [^42]: Many thanks to ShiPu Wang for information about this exhibition.
 
 [^43]: Catalog available in the LACMA archives.
 
-[^44]: See catalog in red scrapbook, Bunkado collection, 30.
+[^44]: See catalog in red scrapbook, Collection of Bunkado, 30.
 
-[^45]: See letter in the Tokio Ueyama papers, Archives of American Art.
+[^45]:  "Correspondence—Miscellaneous, 1916–1936," Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945, Archives of American Art, Smithsonian Institution, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-4.
 
-[^46]: See handwritten note in small black notebook, Bunkado collection.
+[^46]: See handwritten note in small black notebook, Collection of Bunkado.
 
-[^47]: See handwritten note in small black notebook, Bunkado collection; and Japanese biography in his Memorial Exhibition catalog. I am grateful to Noriko Okada for her translation of the Japanese.
+[^47]: See handwritten note in small black notebook, Collection of Bunkado; and Japanese biography in his Memorial Exhibition catalog. I am grateful to Noriko Okada for her translation of the Japanese.
 
-[^48]: See Memorial Exhibition catalog, Bunkado collection. I am grateful to Noriko Okada for her translation of the Japanese.
+[^48]: See Memorial Exhibition catalog, Collection of Bunkado. I am grateful to Noriko Okada for her translation of the Japanese.
 
-[^49]: See the manifest for the *Tatsuta Maru*; handwritten notes in small black notebook, Bunkado collection; and Ueyama’s visa, Tokio Ueyama papers, Archives of American Art. I am grateful to Grace Keiko Nozaki for articulating family relationships.
+[^49]: See the manifest for the *Tatsuta Maru*; handwritten notes in small black notebook, Collection of Bunkado; and "Visas and Other Travel Documents, 1920–1925," Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945, Archives of American Art, Smithsonian Institution, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-2-folder-9. I am grateful to Grace Keiko Nozaki for articulating family relationships.
 
-[^50]: See Western Union telegraph dated December 10, 1939, Tokio Ueyama papers, Archives of American Art; and emails to the author from Grace Keiko Nozaki, June 19 and 20, 2023.
+[^50]: See Western Union telegraph dated December 10, 1929, "Correspondence—Ueyama Family, circa 1928–1939," Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945, Archives of American Art, Smithsonian Institution, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-7; and emails to the author from Grace Keiko Nozaki, June 19 and 20, 2023.
 
-[^51]: This author has not sourced this catalog and is grateful to ShiPu Wang for the information on this exhibition. In a diary entry from May 2, 1940, Ueyama writes that *Misumi* and *Rain* won citations. See Okada’s translation of Ueyama’s diary, 1937–41; diary in Tokio Ueyama papers, Archives of American Art. See also a letter from Timothy L. Pflueger, Vice Chairman, Golden Gate International Exposition, San Francisco, expressing gratitude for Ueyama’s participation, red scrapbook, Bunkado collection, 92–93.
+[^51]: This author has not sourced this catalog and is grateful to ShiPu Wang for the information on this exhibition. In a diary entry from May 2, 1940, Ueyama writes that *Misumi* and *Rain* won citations. See "Diary Excerpts Translated into English, 2023," Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945, Archives of American Art, Smithsonian Institution, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-9. See also a letter from Timothy L. Pflueger, Vice Chairman, Golden Gate International Exposition, San Francisco, expressing gratitude for Ueyama’s participation, red scrapbook, Collection of Bunkado, 92–93.
 
-[^52]: See Okada’s translation of Ueyama’s diary, 1937–41; diary in Tokio Ueyama papers, Archives of American Art.
+[^52]: "Diary Excerpts Translated into English, 2023," Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945, Archives of American Art, Smithsonian Institution, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-9.
 
-[^53]: See Okada’s translation of Ueyama’s diary, 1937–41; diary in Tokio Ueyama papers, Archives of American Art.
+[^53]: "Diary Excerpts Translated into English, 2023," Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945, Archives of American Art, Smithsonian Institution, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-9.
 
-[^54]: See Okada’s translation of Ueyama’s diary, 1937–41; diary in Tokio Ueyama papers, Archives of American Art.
+[^54]: "Diary Excerpts Translated into English, 2023," Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945, Archives of American Art, Smithsonian Institution, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-9.
 
 [^55]: See “Timeline,” Japanese American Museum of Art.
 
@@ -365,11 +369,11 @@ On March 12, 1969, Suye Ueyama dies, aged seventy-one, in Los Angeles.
 
 [^65]: See James G. Lindley, “The Granada Relocation Center: A Narrative Report,” November 15, 1945, Japanese American Evacuation and Resettlement Records 1930–1974, The Bancroft Library, University of California, Berkeley, https://digicoll.lib.berkeley.edu/record/175087?ln=en.
 
-[^66]: See Alien’s Travel Permit, Tokio Ueyama papers, Archives of American Art.
+[^66]: See Alien's Travel Permit, "Granada Relocation Center (Amache, Colorado) Forms and Permits, 1942–1945, Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945, Archives of American Art, Smithsonian Institution, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-2.
 
 [^67]: See “Name by Name Accounting Roster of Evacuees for Closing of Granada Camp.”
 
-[^68]: See “Application for Alien Enemy to Travel,” US Department of Justice, dated August 31, 1945, Tokio Ueyama papers, Archives of American Art.
+[^68]: See Application for Alien Enemy to Travel, "Granada Relocation Center (Amache, Colorado) Forms and Permits, 1942–1945, Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945, Archives of American Art, Smithsonian Institution, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-2. 
 
 [^69]: See Robert Harvey, *Amache: The Story of Japanese Internment in Colorado during World War II* (Scottsdale, AZ: Hawes & Jenkins, 2023), 282; and Lindley, “The Granada Relocation Center: A Narrative Report.”
 
@@ -377,10 +381,10 @@ On March 12, 1969, Suye Ueyama dies, aged seventy-one, in Los Angeles.
 
 [^71]: See the Bunkado website, accessed November 28, 2023, https://www.bunkadoonline.com/pages/new.
 
-[^72]: See catalog in Bunkado collection; and Mary Oyama, “Reveille,” May 2, 1947, clipping in scrapbook, Bunkado collection.
+[^72]: See catalog in Collection of Bunkado; and Mary Oyama, “Reveille,” May 2, 1947, clipping in scrapbook, Collection of Bunkado.
 
-[^73]: See catalog in Bunkado collection.
+[^73]: See catalog in Collection of Bunkado.
 
-[^74]: See catalog in Bunkado collection; and undated clipping, “Attn: Nisei artists,” scrapbook, Bunkado collection.
+[^74]: See catalog in Collection of Bunkado; and undated clipping, “Attn: Nisei artists,” scrapbook, Collection of Bunkado.
 
-[^75]: See catalog in Bunkado collection.
+[^75]: See catalog in Collection of Bunkado.
