@@ -12,40 +12,47 @@ figure_list:
     zoom: true
 
   - id: ptl-26191
-    src: figures/fpo/ptl-26191.jpg
-    credit: Collection of Bunkado. © Estate of Tokio Ueyama
+    src: figures/PTL-26191.jpg
+    credit: Collection of Bunkado. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, Pennsylvania Academy of the Fine Arts Cresson scholarship, May 1919. Ink on paper, 9 × 11 in.
     alt: A certificate with a large red-orange seal at bottom left.
 
+  - id: ptl-26191-zoom
+    src: figures/PTL-26191-zoom.jpg
+    credit: Collection of Bunkado. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
+    caption: Tokio Ueyama, Pennsylvania Academy of the Fine Arts Cresson scholarship, May 1919. Ink on paper, 9 × 11 in.
+    alt: A certificate with a large red-orange seal at bottom left.
+    zoom: true
+
   - id: ptl-26158
     src: figures/fpo/ptl-26158.jpg
-    credit: Private collection. © Estate of Tokio Ueyama
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Head*, 1919. Oil on canvas, 21 × 16 1/2 in.
     alt: A white sculpture of a head looking to the left is set against a mottled blue background.
 
   - id: ptl-26173
     src: figures/PTL-26173.jpg
-    credit: Private collection. © Estate of Tokio Ueyama
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *The Castle in Naples (Castel dell'Ovo, Naples)*, 1920. Watercolor on paper, 8 1/2 × 11 in.
     alt: A large brown castle towers over two blue pools separated by a walkway in the foreground.
 
   - id: ptl-26173-zoom
     src: figures/PTL-26173-zoom.jpg
-    credit: Private collection. © Estate of Tokio Ueyama
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *The Castle in Naples (Castel dell'Ovo, Naples)*, 1920. Watercolor on paper, 8 1/2 × 11 in.
     alt: A large brown castle towers over two blue pools separated by a walkway in the foreground.
     zoom: true
 
   - id: ptl-26192
     src: figures/PTL-26192.jpg
-    credit: Collection of Bunkado. © Estate of Tokio Ueyama. Photo by Joshua White, image courtesy Collection of Bunkado.
+    credit: Collection of Bunkado. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, Notebook with addresses and journal entries, 1920s. Ink on paper, 4 1/2 × 5 in.
     alt: This open notebook features handwriting on both pages.
     label: Cat. 7
 
   - id: ptl-26192-zoom
     src: figures/PTL-26192-zoom.jpg
-    credit: Collection of Bunkado. © Estate of Tokio Ueyama. Photo by Joshua White, image courtesy Collection of Bunkado.
+    credit: Collection of Bunkado. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, Notebook with addresses and journal entries, 1920s. Ink on paper, 4 1/2 × 5 in.
     alt: This open notebook features handwriting on both pages.
     label: Cat. 7
@@ -53,21 +60,21 @@ figure_list:
 
   - id: ptl-26159
     src: figures/fpo/ptl-26159.jpg
-    credit: Oil on canvas, 18 1/2 × 13 3/4 in. Susie and David Ishibashi. © Estate of Tokio Ueyama
+    credit: Oil on canvas, 18 1/2 × 13 3/4 in. Susie and David Ishibashi. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Self-Portrait*, 1924. 
     alt: A man in a white shirt looks directly forward, with a white full-length sculpture behind his right shoulder.
     label: Cat. 4
 
   - id: ptl-26163
     src: figures/PTL-26163.jpg
-    credit: Oil on canvas, 24 × 30 in. Private collection. © Estate of Tokio Ueyama
+    credit: Oil on canvas, 24 × 30 in. Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Still Life*, 1924. 
     alt: A bowl, vessel, wine bottle, and six apples sit on a table covered by a multicolored textile.
     label: "Cat. 5"
 
   - id: ptl-26163-zoom
     src: figures/PTL-26163-zoom.jpg
-    credit: Private collection. © Estate of Tokio Ueyama
+    credit: Oil on canvas, 24 × 30 in. Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Still Life*, 1924. Oil on canvas, 24 × 30 in.
     alt: A bowl, vessel, wine bottle, and six apples sit on a table covered by a multicolored textile.
     label: "Cat. 5"
@@ -75,14 +82,14 @@ figure_list:
 
   - id: ptl-26164
     src: figures/PTL-26164.jpg
-    credit: Private collection. © Estate of Tokio Ueyama
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *The Nude*, 1932. Oil on canvas, 41 1/2 × 36 in.
     alt: A nude woman reclines on a red couch.
     label: Cat. 13
 
   - id: ptl-26164-zoom
     src: figures/PTL-26164-zoom.jpg
-    credit: Private collection. © Estate of Tokio Ueyama
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *The Nude*, 1932. Oil on canvas, 41 1/2 × 36 in.
     alt: A nude woman reclines on a red couch.
     label: Cat. 13
@@ -105,14 +112,14 @@ figure_list:
 
   - id: ptl-26166
     src: figures/PTL-26166.jpg
-    credit: Oil on canvas, 25 1/4 × 30 in. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum
+    credit: Oil on canvas, 25 1/4 × 30 in. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Taxco, Mexico)*, 1925. 
     alt: A predominantly white church rises above a green landscape against a mountainous backdrop.
     label: Cat. 8
 
   - id: ptl-26166-zoom
     src: figures/PTL-26166-zoom.jpg
-    credit: Oil on canvas, 25 1/4 × 30 in. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum
+    credit: Oil on canvas, 25 1/4 × 30 in. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Taxco, Mexico)*, 1925. 
     alt: A predominantly white church rises above a green landscape against a mountainous backdrop.
     label: Cat. 8
@@ -120,7 +127,7 @@ figure_list:
 
   - id: ptl-26160
     src: figures/fpo/ptl-26160.jpg
-    credit: Private collection. © Estate of Tokio Ueyama
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *At Cuernavaca*, 1925. Oil on canvas, 8 3/4 × 10 in.
     alt: Many colorful roofs are clustered together in this cityscape set against a gray sky.
     label: Cat. 9
@@ -157,14 +164,14 @@ figure_list:
 
   - id: ptl-26168
     src: figures/PTL-26168.jpg
-    credit: Private collection. © Estate of Tokio Ueyama
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Red Rock Canyon*, 1931. Oil on canvas, 42 × 42 in.
     alt: A craggy canyon extends takes up the majority of the canvas in this painting.
     label: Cat. 12
 
   - id: ptl-26168-zoom
     src: figures/PTL-26168-zoom.jpg
-    credit: Private collection. © Estate of Tokio Ueyama
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Red Rock Canyon*, 1931. Oil on canvas, 42 × 42 in.
     alt: A craggy canyon extends takes up the majority of the canvas in this painting.
     label: Cat. 12
@@ -172,13 +179,13 @@ figure_list:
 
   - id: ptl-26188
     src: figures/PTL-26188.jpg
-    credit: Collection of Bunkado. © Estate of Tokio Ueyama Photo by Joshua White, image courtesy Collection of Bunkado.
+    credit: Collection of Bunkado. © Estate of Tokio Ueyama. Photo by Eric Stephenson.
     caption: Tokio Ueyama, *Untitled (Japanese Village)*, 1937. Oil on board, 8 3/4 × 10 1/2 in.
     alt: Multiple houses, most with blue roofs, are situated in a green, hilly landscape with tall trees and a blue sky.
 
   - id: ptl-26188-zoom
     src: figures/PTL-26188-zoom.jpg
-    credit: Collection of Bunkado. © Estate of Tokio Ueyama Photo by Joshua White, image courtesy Collection of Bunkado.
+    credit: Collection of Bunkado. © Estate of Tokio Ueyama. Photo by Eric Stephenson.
     caption: Tokio Ueyama, *Untitled (Japanese Village)*, 1937. Oil on board, 8 3/4 × 10 1/2 in.
     alt: Multiple houses, most with blue roofs, are situated in a green, hilly landscape with tall trees and a blue sky.
     zoom: true
@@ -200,14 +207,14 @@ figure_list:
 
   - id: ptl-26189
     src: figures/PTL-26189.jpg
-    credit: Oil on board, 8 3/4 × 10 1/2 in. Collection of Bunkado. © Estate of Tokio Ueyama. Photo by Joshua White, image courtesy Collection of Bunkado.
+    credit: Oil on board, 8 3/4 × 10 1/2 in. Collection of Bunkado. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Tori Gate)*, 1937. 
     alt: A red-orange tori gate in the left foreground stands under tall green trees.
     label: Cat. 15
 
   - id: ptl-26189-zoom
     src: figures/PTL-26189-zoom.jpg
-    credit: Collection of Bunkado. © Estate of Tokio Ueyama. Photo by Joshua White, image courtesy Collection of Bunkado.
+    credit: Oil on board, 8 3/4 × 10 1/2 in. Collection of Bunkado. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Tori Gate)*, 1937. Oil on board, 8 3/4 × 10 1/2 in.
     alt: A red-orange tori gate in the left foreground stands under tall green trees.
     label: Cat 15
@@ -215,14 +222,14 @@ figure_list:
 
   - id: ptl-26169
     src: figures/PTL-26169.jpg
-    credit: Oil on canvas, 38 × 43 1/2 in. Private collection. © Estate of Tokio Ueyama.
+    credit: Oil on canvas, 38 × 43 1/2 in. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Katsuura*, 1940. 
     alt: A shoreline with strongly vertical rock outcroppings overlooks blue and white water.
     label: Cat. 17
 
   - id: ptl-26169-zoom
     src: figures/PTL-26169-zoom.jpg
-    credit: Oil on canvas, 38 × 43 1/2 in. Private collection. © Estate of Tokio Ueyama.
+    credit: Oil on canvas, 38 × 43 1/2 in. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Katsuura*, 1940. 
     alt: A shoreline with strongly vertical rock outcroppings overlooks blue and white water.
     label: Cat. 17
@@ -343,47 +350,47 @@ figure_list:
 
   - id: ptl-26161
     src: figures/fpo/ptl-26161.jpg
-    credit: Private collection. © Estate of Tokio Ueyama
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Horse and Barn)*, October 1944. Oil on Newton artist board, 15 3/4 × 19 3/4 in.
     alt: A horse stands next to a tall, pink barn, with farm equipment in the foreground.
 
   - id: ptl-26162-1-15
     src: figures/fpo/ptl-26162-1-15.jpg
-    credit: Set of 15 polished stones. Private collection. © Estate of Tokio Ueyama
+    credit: Set of 15 polished stones. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, Hand-Polished Stones, 1943–44. 
     alt: Three rows of colorful stones sit on a black tabletop.
     label: Cat. 42
 
   - id: ptl-26175
     src: figures/PTL-26175.jpg
-    credit: Private collection. © Estate of Tokio Ueyama
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Amache Landscape with Fields)*, 1943–44. Pastel on paper, 17 × 19 1/2 in.
     alt: Small figures work a field of crops bounded by green shrubs in the foreground, while the background features a row of trees against a blue sky with billowing white clouds.
 
   - id: ptl-26175-zoom
     src: figures/PTL-26175-zoom.jpg
-    credit: Private collection. © Estate of Tokio Ueyama
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Amache Landscape with Fields)*, 1943–44. Pastel on paper, 17 × 19 1/2 in.
     alt: Small figures work a field of crops bounded by green shrubs in the foreground, while the background features a row of trees against a blue sky with billowing white clouds.
     zoom: true
 
   - id: ptl-26172
     src: figures/fpo/ptl-26172.jpg
-    credit: Oil on unstretched canvas, 19 1/2 × 17 in. Private collection. © Estate of Tokio Ueyama
+    credit: Oil on unstretched canvas, 19 1/2 × 17 in. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Amache Portrait)*, January 17, 1944. 
     alt: A woman with black hair wears a red-and-blue plaid shirt.
     label: Cat. 25
 
   - id: ptl-26170
     src: figures/PTL-26170.jpg
-    credit: Oil on board, 16 × 20 in. Private collection. © Estate of Tokio Ueyama.
+    credit: Oil on board, 16 × 20 in. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Katsuura Coast)*, February 1944. 
     alt: A shoreline with strongly vertical rock outcroppings overlooks blue and white water.
     label: Cat. 18
 
   - id: ptl-26170-zoom
     src: figures/PTL-26170-zoom.jpg
-    credit: Oil on board, 16 × 20 in. Private collection. © Estate of Tokio Ueyama.
+    credit: Oil on board, 16 × 20 in. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Katsuura Coast)*, February 1944. 
     alt: A shoreline with strongly vertical rock outcroppings overlooks blue and white water.
     label: Cat. 18
@@ -406,26 +413,26 @@ figure_list:
 
   - id: ptl-26174
     src: figures/PTL-26174.jpg
-    credit: Private collection. © Estate of Tokio Ueyama
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Granada Landscape)*, November 1944. Pastel on paper, 8 1/2 × 11 1/2 in.
     alt: A ladder leans against a tree with fall colors in a yard next to a brown building.
 
   - id: ptl-26174-zoom
     src: figures/PTL-26174-zoom.jpg
-    credit: Private collection. © Estate of Tokio Ueyama
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Granada Landscape)*, November 1944. Pastel on paper, 8 1/2 × 11 1/2 in.
     alt: A ladder leans against a tree with fall colors in a yard next to a brown building.
     zoom: true
 
   - id: ptl-26177
     src: figures/PTL-26177.jpg
-    credit: Private collection. © Estate of Tokio Ueyama
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Building and Trees)*, 1944. Pastel on paper, 9 × 12 in.
     alt: A long brown building with many windows sits behind a lighter-colored fence and a green patch of grass with three tall trees with green leaves.
 
   - id: ptl-26177-zoom
     src: figures/PTL-26177-zoom.jpg
-    credit: Private collection. © Estate of Tokio Ueyama
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Building and Trees)*, 1944. Pastel on paper, 9 × 12 in.
     alt: A long brown building with many windows sits behind a lighter-colored fence and a green patch of grass with three tall trees with green leaves.
     zoom: true
@@ -458,20 +465,20 @@ figure_list:
 
   - id: ptl-26181
     src: figures/PTL-26181.jpg
-    credit: Private collection. © Estate of Tokio Ueyama
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Granada Outbuildings)*, 1943–44. Drawing on paper, 12 1/2 × 19 in.
     alt: This black-and-white drawing features two buildings and a fence.
 
   - id: ptl-26181-zoom
     src: figures/PTL-26181-zoom.jpg
-    credit: Private collection. © Estate of Tokio Ueyama
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Granada Outbuildings)*, 1943–44. Drawing on paper, 12 1/2 × 19 in.
     alt: This black-and-white drawing features two buildings and a fence.
     zoom: true
 
   - id: ptl-26182
     src: figures/PTL-26182.jpg
-    credit: Private collection. © Estate of Tokio Ueyama
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Amache Still Life)*, 1943–44. Drawing on paper, 15 × 18 in.
     alt: Three vessels, including a kettle, are arranged with with two pieces of fruit on a tabletop draped with a cloth in this black-and-white drawing.
 
@@ -497,26 +504,26 @@ figure_list:
 
   - id: ptl-26186
     src: figures/PTL-26186.jpg
-    credit: Private collection. © Estate of Tokio Ueyama
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Portrait of a Man with Glasses)*, 1943–44. Drawing on paper, 19 × 12 1/2 in.
     alt: A man with glasses and white hair wears a black bowtie and suspenders in this black-and-white drawing.
 
   - id: ptl-26186-zoom
     src: figures/PTL-26186-zoom.jpg
-    credit: Private collection. © Estate of Tokio Ueyama
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Portrait of a Man with Glasses)*, 1943–44. Drawing on paper, 19 × 12 1/2 in.
     alt: A man with glasses and white hair wears a black bowtie and suspenders in this black-and-white drawing.
     zoom: true
 
   - id: ptl-26183
     src: figures/PTL-26183.jpg
-    credit: Private collection. © Estate of Tokio Ueyama.
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Amache Still Life with Fish and Lemon)*, 1942–45. Drawing on paper, 19 × 25 in.
     alt: A plate of three fishes sits on a tabletop draped with a dark cloth in this black-and-white drawing.
 
   - id: ptl-26183-zoom
     src: figures/PTL-26183-zoom.jpg
-    credit: Private collection. © Estate of Tokio Ueyama.
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Amache Still Life with Fish and Lemon)*, 1942–45. Drawing on paper, 19 × 25 in.
     alt: A plate of three fishes sits on a tabletop draped with a dark cloth in this black-and-white drawing.
     zoom: true
