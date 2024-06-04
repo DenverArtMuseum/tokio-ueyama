@@ -89,7 +89,7 @@ Over twenty years later, when polishing these stones, Ueyama provided each a his
 
 [^2]: Around 9,000 people voluntarily relocated inland. See ibid., 37 and 41.
 
-[^3]: According to evacuation notices, the belongings they carried had to include bedding and linens, toilet articles, extra clothing, plates and silverware, and essential personal effects. See Robert Y. Fuchigami, *Amache Remembered: An American Concentration Camp, 1942–1945* (2020), 15. On March 1 and April 30, 1942, Ueyama made inventory lists of the couple’s belongings in a small black notebook. The sixty-six boxes plus larger items would remain indefinitely with Mr. and Mrs. Wilson in Los Angeles. See small black notebook, Collection of Bunkado. I am grateful to Noriko Okada for reviewing the lists, much of which is in Japanese, and confirming their contents.
+[^3]: According to evacuation notices, the belongings they carried had to include bedding and linens, toilet articles, extra clothing, plates and silverware, and essential personal effects. See Robert Y. Fuchigami, *Amache Remembered: An American Concentration Camp, 1942–1945* (Parker, CO: BookCrafters, 2020), 15. On March 1 and April 30, 1942, Ueyama made inventory lists of the couple’s belongings in a small black notebook. The sixty-six boxes plus larger items would remain indefinitely with Mr. and Mrs. Wilson in Los Angeles. See small black notebook, Collection of Bunkado. I am grateful to Noriko Okada for reviewing the lists, much of which is in Japanese, and confirming their contents.
 
 [^4]: Harvey, *Amache*, 54.
 
