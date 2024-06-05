@@ -15,6 +15,7 @@ On December 17, 1944, the West Coast exclusion ban was lifted, effective January
 
 A few years after their return to Los Angeles, Tokio and Suye opened the gift store Bunkado in the heart of Little Tokyo. Tokio worked to help rebuild the artistic community, forming the Los Angeles Palette Club with a group of artists in November 1946.[^3] The Palette Club hosted annual exhibitions in Little Tokyo over the coming years. In the exhibitions held in 1947 and 1948, Ueyama exhibited work from Amache, including <span id="ptl-26150" class="q-figure q-figure--image inline"><a class="q-figure__modal-link" href="#ptl-26150" data-outputs-include="html"><img alt="A woman sews in a wooden chair in a room next to an open door." class="q-figure__image" src="/tokio-ueyama/_assets/images/figures/fpo/ptl-26150.jpg">*The Evacuee*</a></span>, a scene from the Manzanar War Relocation Center in California (which he had visited in September 1945), and Japanese subjects (fig. 1). He played a leadership role, serving as chairman of the spring 1947 and 1948 exhibitions.[^4]
 
+{% figure 'ptl-26150' 'visually-hidden' %}
 
 Ueyama curtailed his art production into the late 1940s.[^5] He died on July 12, 1954, aged sixty-four. Family member David Hirai recalls that Ueyama’s funeral was full to overflowing.[^6] In the catalog for his memorial exhibition, Sasabune Sasaki remembered the artist as “a gentle and solid person who loved peace and solitude,” a man of “unshakeable convictions,” and one who stayed true to his artistic philosophy in search of peace, calmness, and quietude.[^7]
 
@@ -30,7 +31,7 @@ Because of these efforts, Amache’s legacy as a place of remembrance and educat
 
 [^1]: Tule Lake marked the last camp to close, on March 20, 1946. See Robert Harvey, *Amache: The Story of Japanese Internment in Colorado during World War II* (Scottsdale, AZ: Hawes & Jenkins, 2023), 283.
 
-[^2]: Many incarcerated people felt complicated feelings of both relief and fear when leaving camp, having experienced anti-Japanese sentiment outside its barbed wire fences. See Harvey, “Going Home,” 263–83.
+[^2]: Many incarcerated people felt complicated feelings of both relief and fear when leaving camp, having experienced anti-Japanese sentiment outside its barbed wire fences. See Harvey, “Going Home,” in *Amache*, 263–83.
 
 [^3]: See “Japanese Artists Show Relocation Center Art,” *Los Angeles Times*, May 4, 1947.
 
