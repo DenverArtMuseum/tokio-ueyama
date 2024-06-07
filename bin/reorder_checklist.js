@@ -55,8 +55,8 @@ try {
                     if( md_doc !== null && md_doc.order ) {
                         md_doc.order = order
 
-                        if( !md_doc.title ) md_doc.title = object.title
-                        md_doc.object = [ { "id" : object.id } ]
+                        // if( !md_doc.title ) md_doc.title = object.title
+                        // md_doc.object = [ { "id" : object.id } ]
                         
                         //md_doc.short_title = " "
                         // delete md_doc.artist
@@ -101,11 +101,11 @@ try {
                 })
                 content += '---\n';
 
-                try {
-                    fs.writeFileSync(md_file, content);
-                } catch (err) {
-                    console.error(err);
-                }
+                // try {
+                //     fs.writeFileSync(md_file, content);
+                // } catch (err) {
+                //     console.error(err);
+                // }
                 console.log( md_doc.order+' '+md_doc.title )
 
             }
