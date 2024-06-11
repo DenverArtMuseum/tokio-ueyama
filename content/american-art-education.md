@@ -57,6 +57,6 @@ From Naples, Ueyama traveled by train to Rome, where he stayed for more than a w
 
 [^12]: Christian Brinton, *Exhibition of Paintings by Ignacio Zuloaga under the Auspices of Mrs. Philip M. Lydid* (1916), https://babel.hathitrust.org/cgi/pt?id=uc1.b3240967&view=1up&seq=7.
 
-[^13]: See 1924 Sumida store exhibition catalog, no. 13, red scrapbook, Collection of Bunkado, Inc., 11; Margaret Skavlan’s reference to it in the November 1924 exhibition in Eugene, Oregon: “Japanese Paintings Are Hung in University Art Gallery,” *Oregon Daily Emerald*, November 13, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-13/ed-1/seq-1/#words=Tokio+Ueyama; and clipping in red scrapbook, Collection of Bunkado, Inc., 9.
+[^13]: See 1924 Sumida store exhibition catalog, no. 13, red scrapbook, 11, Collection of Bunkado, Inc.; Margaret Skavlan’s reference to it in the November 1924 exhibition in Eugene, Oregon: “Japanese Paintings Are Hung in University Art Gallery,” *Oregon Daily Emerald*, November 13, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-13/ed-1/seq-1/#words=Tokio+Ueyama; and clipping in red scrapbook, 9, Collection of Bunkado, Inc.
 
 [^14]: In his journal, he notes while in Naples that he “sent unnecessary articles—paint box, shoes, books—back.” Perhaps his watercolor supplies were more convenient to travel with than oils. Additionally, in Rome he notes that he is “getting prints every day,” and the beginning of his travel journal includes notes on making ground for etching.

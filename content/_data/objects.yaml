@@ -36,7 +36,7 @@ object_list:
     title: Pennsylvania Academy of the Fine Arts Cresson Scholarship
     year: May 1919
     medium: Ink on paper
-    dimensions: 9 × 11 in.
+    dimensions: 11 × 8 1/2 in.
     credit: Collection of Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     entry_number: 2
 
@@ -59,7 +59,7 @@ object_list:
     year: 1924
     medium: Oil on canvas
     dimensions: 18 1/2 × 13 3/4 in.
-    credit: Susie and David Ishibashi. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
+    credit: Collection of Susie and David Ishibashi. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     entry_number: 4
 
   - id: ptl-26163
@@ -102,7 +102,7 @@ object_list:
     title: Notebook with addresses and journal entries
     year: 1920s
     medium: Ink on paper
-    dimensions: 4 1/2 × 5 in.
+    dimensions: 6 1/4 × 8 1/2 in. open
     credit: Collection of Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     entry_number: 7
 
@@ -136,7 +136,7 @@ object_list:
     year: 1928
     medium: Oil on canvas
     dimensions: 29 1/2 × 24 in.
-    credit: Private collection. © Estate of Tokio Ueyama.
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     entry_number: 10
 
   - id: ptl-26187
@@ -170,7 +170,7 @@ object_list:
     medium: Oil on board
     dimensions: 8 3/4 × 10 1/2 in.
     entry_number: 14
-    credit: Collection of Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Eric Stephenson.
+    credit: Collection of Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
 
   - id: ptl-26189
     figure:
@@ -191,7 +191,7 @@ object_list:
     year: 1937
     medium: Watercolor on paper
     dimensions: 2 1/2 × 10 in.
-    credit: Collection of Bunkado, Inc.
+    credit: Collection of Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     entry_number: 16
 
   - id: ptl-26169
@@ -235,7 +235,7 @@ object_list:
     year: July 1943
     medium: Oil on canvas
     dimensions: 18 × 16 in.
-    credit: Collection of Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Joshua White, image courtesy Collection of Bunkado, Inc.
+    credit: Collection of Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     entry_number: 20
 
   - id: ptl-26154
@@ -244,7 +244,7 @@ object_list:
     artist: Tokio Ueyama
     title: Untitled (Portrait of Tomoye Sawa [Gakuhajo] with Biwa)
     year: 1943
-    medium: Oil on canvas
+    medium: Charcoal on paper
     dimensions: 25 × 19 in.
     credit: "Courtesy Japanese American National Museum: Gift of Arthur Asawa, 2004.35.1. © Estate of Tokio Ueyama."
     entry_number: 21
@@ -255,8 +255,8 @@ object_list:
     artist: Tokio Ueyama
     title: Untitled (Portrait of a Soldier)
     year: February 12, 1943
-    medium: Drawing on paper
-    dimensions: 25 × 19 in.
+    medium: Charcoal on paper
+    dimensions: 25 1/8 × 19 1/8 in.
     credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     entry_number: 22
 
@@ -265,9 +265,9 @@ object_list:
       - id: "ptl-26185-zoom"
     artist: Tokio Ueyama
     title: Untitled (Portrait of a Girl)
-    year: 1943-44
-    medium: Drawing on paper
-    dimensions: 19 × 12 1/2 in.
+    year: 1943–44
+    medium: Charcoal on paper
+    dimensions: 19 1/8 × 12 1/2 in.
     credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     entry_number: 23
 
@@ -277,8 +277,8 @@ object_list:
     artist: Tokio Ueyama
     title: Untitled (Portrait of a Man with Glasses)
     year: 1943–44
-    medium: Drawing on paper
-    dimensions: 19 × 12 1/2 in.
+    medium: Charcoal on paper
+    dimensions: 19 1/8 × 12 5/8 in.
     credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     entry_number: 24
 
@@ -288,7 +288,7 @@ object_list:
     artist: Tokio Ueyama
     title: Untitled (Amache Portrait)
     year: January 17, 1944
-    medium: Oil on unstretched canvas
+    medium: Oil on canvas
     dimensions: 19 1/2 × 17 in.
     credit: Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     entry_number: 25
@@ -310,7 +310,7 @@ object_list:
     artist: Tokio Ueyama
     title: Untitled (Amache Sunflowers)
     year: August 1943
-    medium: Oil on canvas taped on Celotex(?)
+    medium: Oil on canvas taped on Celotex (insulation board)
     dimensions: 28 1/2 × 22 1/2 in.
     credit: Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     entry_number: 27
@@ -343,8 +343,8 @@ object_list:
     artist: Tokio Ueyama
     title: Untitled (Horse and Barn)
     year: October 1944
-    medium: Oil on Newton artist board
-    dimensions: 15 3/4 × 19 3/4 in
+    medium: Oil on artist's board
+    dimensions: 15 3/4 × 19 7/8 in.
     credit: Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     entry_number: 30
 
@@ -374,11 +374,11 @@ object_list:
     figure:
       - id: "ptl-26176-zoom"
     artist: Tokio Ueyama
-    title: Untitled (Amache Landscape with Barrack and Tower)
+    title: Untitled (Amache Landscape with Barrack and Water Tower)
     year: April 1944
     medium: Pastel on paper
     dimensions: 9 × 12 in.
-    credit: Private collection. © Estate of Tokio Ueyama.
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     entry_number: 33
 
   - id: ptl-26174
@@ -409,7 +409,7 @@ object_list:
     artist: Tokio Ueyama
     title: Untitled (Gate and Fence)
     year: 1943–44
-    medium: Drawing on paper
+    medium: Charcoal on paper
     dimensions: 12 1/2 × 19 in.
     credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     entry_number: 36
@@ -431,8 +431,8 @@ object_list:
     artist: Tokio Ueyama
     title: Untitled (Granada Outbuildings)
     year: 1943–44
-    medium: Drawing on paper
-    dimensions: 12 1/2 × 19 in.
+    medium: Charcoal on paper
+    dimensions: 12 5/8 × 19 1/8 in.
     credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     entry_number: 38
 
@@ -442,8 +442,8 @@ object_list:
     artist: Tokio Ueyama
     title: Untitled (Amache Still Life)
     year: 1943–44
-    medium: Drawing on paper
-    dimensions: 15 × 18 in.
+    medium: Charcoal on paper
+    dimensions: 14 5/8 × 17 3/4 in.
     credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     entry_number: 40
 
@@ -453,8 +453,8 @@ object_list:
     artist: Tokio Ueyama
     title: Untitled (Amache Still Life with Fish and Lemon)
     year: 1942–45
-    medium: Drawing on paper
-    dimensions: 19 × 25 in.
+    medium: Charcoal on paper
+    dimensions: 19 1/8 × 25 1/8 in.
     credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     entry_number: 41
 
