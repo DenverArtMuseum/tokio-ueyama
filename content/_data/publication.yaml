@@ -59,14 +59,14 @@ contributor:
     type: secondary
     first_name: ShiPu
     last_name: Wang
-    title: Professor and Coats Family Chair in the Arts
+    title: Professor and Coats Family Chair in the Arts, University of California, Merced
     affiliation: University of California, Merced
 
   - id: cheinrich
     type: secondary
     first_name: Christoph
     last_name: Heinrich
-    title: Frederick and Jan Mayer Director
+    title: Frederick and Jan Mayer Director, Denver Art Museum
     affiliation: Denver Art Museum
 
 
@@ -104,11 +104,11 @@ resource_link:
   - type: footer-link
     name: Privacy Policy
     link_relation: privacy-policy
-    url:
+    url: https://www.denverartmuseum.org/privacy-policy
   - type: footer-link
     name: Terms of Use
     link_relation: terms-of-service
-    url:
+    url: https://www.denverartmuseum.org/terms-use 
 
 # ------------------------------------------------------------------------------
 # Subjects

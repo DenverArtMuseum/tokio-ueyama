@@ -241,9 +241,9 @@ On March 12, 1969, Suye Ueyama dies, aged seventy-one, in Los Angeles.
 
 [^1]: See the biography (in Japanese) in Ueyama’s Memorial Exhibition catalog, 1954, Collection of Bunkado. Many thanks to Noriko Okada for translating the Japanese text.
 
-[^2]: See handwritten note, small black notebook, Collection of Bunkado.
+[^2]: See handwritten note, small black notebook, Collection of Bunkado, Inc.
 
-[^3]: See "Japanese Passport, 1908," Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945, Archives of American Art, Smithsonian Institution, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-10; and handwritten note, small black notebook, Collection of Bunkado.
+[^3]: See "Japanese Passport, 1908," Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945, Archives of American Art, Smithsonian Institution, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-10; and handwritten note, small black notebook, Collection of Bunkado, Inc.
 
 [^4]: See 1909–10 California School of Design college catalog and Ueyama registration documents shared in an email to the author from Jeff Gunderson, Archivist/Librarian of the SFAI Legacy Foundation + Archives, June 20, 2023.
 
@@ -257,7 +257,7 @@ On March 12, 1969, Suye Ueyama dies, aged seventy-one, in Los Angeles.
 
 [^9]: See registration cards at PAFA sent via email to the author from Hoang Tran, Director of Archives & Collections, PAFA, June 12, 2023.
 
-[^10]: See hand-written letter dated June 28, 1918, red scrapbook, Collection of Bunkado.
+[^10]: See hand-written letter dated June 28, 1918, red scrapbook, Collection of Bunkado, Inc.
 
 [^11]: See *Third Exhibition of Work Done at Chester Springs, the Summer School of the Pennsylvania Academy of the Fine Arts* (Chester Springs, PA: Pennsylvania Academy of the Fine Arts, 1919), https://babel.hathitrust.org/cgi/pt?id=mdp.39015062805919&view=1up&seq=3.
 
@@ -279,9 +279,9 @@ On March 12, 1969, Suye Ueyama dies, aged seventy-one, in Los Angeles.
 
 [^20]: See “The Immigration Act of 1924 (The Johnson-Reed Act),” Office of the Historian of the United States Department of State, accessed November 9, 2023, https://history.state.gov/milestones/1921-1936/immigration-act.
 
-[^21]: The catalog is in the red scrapbook, 11, Collection of Bunkado.
+[^21]: The catalog is in the red scrapbook, 11, Collection of Bunkado, Inc.
 
-[^22]: See “Japanese Art to be Shown in University Gallery Soon,” *Oregon Daily Emerald*, October 29, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-10-29/ed-1/seq-1/#words=Tokio+Ueyama; Margaret Skavlan, “Japanese Paintings Are Hung in University Art Gallery,” *Oregon Daily Emerald*, November 13, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-13/ed-1/seq-1/#words=Tokio+Ueyama; “Arts Club Will Open Exhibition with Tea,” *Oregon Daily Emerald*, November 18, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-18/ed-1/seq-3/#words=Tokio+Ueyama; “Exhibition of Japanese Artist’s Paintings Will Be Opened Today,” *Oregon Daily Emerald*, November 19, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-19/ed-1/seq-1/#words=Tokio+Ueyama; “Japanese Print Collector Visits Campus Today. S. Doi Paintings to be Presented With Ueyama Exhibition,” *Oregon Daily Emerald*, November 20, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-20/ed-1/seq-3/#words=Tokio+Ueyama; “Work of Japanese Artist Portrays Variety of Style,” *Oregon Daily Emerald*, December 2, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-12-02/ed-1/seq-1/#words=Tokio+Ueyama; and undated clipping, “Exhibit of Ueyama, Japanese Painter, Opens Wednesday,” red scrapbook, 8, Collection of Bunkado.
+[^22]: See “Japanese Art to be Shown in University Gallery Soon,” *Oregon Daily Emerald*, October 29, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-10-29/ed-1/seq-1/#words=Tokio+Ueyama; Margaret Skavlan, “Japanese Paintings Are Hung in University Art Gallery,” *Oregon Daily Emerald*, November 13, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-13/ed-1/seq-1/#words=Tokio+Ueyama; “Arts Club Will Open Exhibition with Tea,” *Oregon Daily Emerald*, November 18, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-18/ed-1/seq-3/#words=Tokio+Ueyama; “Exhibition of Japanese Artist’s Paintings Will Be Opened Today,” *Oregon Daily Emerald*, November 19, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-19/ed-1/seq-1/#words=Tokio+Ueyama; “Japanese Print Collector Visits Campus Today. S. Doi Paintings to be Presented With Ueyama Exhibition,” *Oregon Daily Emerald*, November 20, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-20/ed-1/seq-3/#words=Tokio+Ueyama; “Work of Japanese Artist Portrays Variety of Style,” *Oregon Daily Emerald*, December 2, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-12-02/ed-1/seq-1/#words=Tokio+Ueyama; and undated clipping, “Exhibit of Ueyama, Japanese Painter, Opens Wednesday,” red scrapbook, 8, Collection of Bunkado, Inc.
 
 [^23]: Ueyama’s Memorial Exhibition biography states he received the commission in 1924, and a black-and-white photograph of Ueyama applying paint under Romeo’s shoe, illustrated in this timeline, provides incontestable evidence. See the Japanese version of his biography in the Memorial Exhibition catalog, 1954. I am grateful for a translation by Noriko Okada. I am also grateful to Kanae Aoki, whose research revealed that Ueyama helped create both murals, which still exist. See email to the author, December 18, 2023. Recently, Aoki co-curated *Transbordering: Migration and Art Across Wakayama and the U.S.A* at the Museum of Modern Art, Wakayama, Japan, which included artwork by Ueyama.
 
@@ -289,7 +289,7 @@ On March 12, 1969, Suye Ueyama dies, aged seventy-one, in Los Angeles.
 
 [^25]: His visa to visit Mexico was approved in Los Angeles on April 27, 1925. It shows that he entered Mexico on May 24, 1925, and was admitted back into the US on August 27, 1925. "Visas and Other Travel Documents, 1920–1925," Tokio Ueyama papers, Archives of American Art, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-2-folder-9.  
 
-[^26]: On his relationship with Diego Rivera, see “Tokio Ueyama: Un Pintor Japonés en México,” *Revista de Revistas*, September 6, 1925, 17–18 and 42. Page 42 is missing in the clipping available in the red scrapbook, 20–21, Collection of Bunkado. I am grateful to Memphis Despain for translating this article while ShiPu Wang’s research assistant in August 2022. Jean Charlot handwrote his address in Ueyama’s black notebook, Collection of Bunkado. The Shaku-do-sha later exhibited Weston’s work in 1925, 1927, and 1931 at the Sumida Music Store on East First Street. See Higa, “Hidden in Plain Sight,” 39.
+[^26]: On his relationship with Diego Rivera, see “Tokio Ueyama: Un Pintor Japonés en México,” *Revista de Revistas*, September 6, 1925, 17–18 and 42. Page 42 is missing in the clipping available in the red scrapbook, 20–21, Collection of Bunkado, Inc. I am grateful to Memphis Despain for translating this article while ShiPu Wang’s research assistant in August 2022. Jean Charlot handwrote his address in Ueyama’s black notebook, Collection of Bunkado, Inc. The Shaku-do-sha later exhibited Weston’s work in 1925, 1927, and 1931 at the Sumida Music Store on East First Street. See Higa, “Hidden in Plain Sight,” 39.
 
 [^27]: See “Talented Japanese Artist Visits Campus,” *Oregon Daily Emerald*, November 18, 1925, https://oregonnews.uoregon.edu/lccn/2004260239/1925-11-18/ed-1/seq-3/#words=Tokio+Ueyama; and “Dance,” *Oregon Daily Emerald*, April 2, 1926, https://oregonnews.uoregon.edu/lccn/2004260239/1926-04-02/ed-1/seq-4/.
 
@@ -299,7 +299,7 @@ On March 12, 1969, Suye Ueyama dies, aged seventy-one, in Los Angeles.
 
 [^30]: See “Music to Add to Beauty of Dance Drama,” *Oregon Daily Emerald*, April 1, 1926, https://oregonnews.uoregon.edu/lccn/2004260239/1926-04-01/ed-1/seq-1/#words=Tokio+Ueyama; and “Dance Drama Has Atmosphere of Colorful and Dreamlike Fairyland,” *Oregon Daily Emerald*, April 2, 1926, https://oregonnews.uoregon.edu/lccn/2004260239/1926-04-02/ed-1/seq-1/.
 
-[^31]: Catalog available in the archives of the San Diego Museum of Art. See also a clipping from the *San Diego Independent*, June 27, 1926, red scrapbook, 19, Collection of Bunkado; letter from Reginald Poland notifying of award, red scrapbook, 30, Collection of Bunkado; and Ione Rayburn, “Japanese Artists in California,” in “Sports and Vanities,” September 1927, clipping in red scrapbook, 37–38, Collection of Bunkado. Rayburn’s article states that Ueyama exhibited canvases at the Artland Club from December 1926 to January 1927, but to date this author has not found further references to these.
+[^31]: Catalog available in the archives of the San Diego Museum of Art. See also a clipping from the *San Diego Independent*, June 27, 1926, red scrapbook, 19, Collection of Bunkado, Inc; letter from Reginald Poland notifying of award, red scrapbook, 30, Collection of Bunkado, Inc; and Ione Rayburn, “Japanese Artists in California,” in “Sports and Vanities,” September 1927, clipping in red scrapbook, 37–38, Collection of Bunkado, Inc. Rayburn’s article states that Ueyama exhibited canvases at the Artland Club from December 1926 to January 1927, but to date this author has not found further references to these.
 
 [^32]: Because he exhibited a number of paintings under this title, it is difficult to know which still life won the award. To date this author has not located the exhibition catalog. See references to this award and exhibition in Ueyama’s Memorial Exhibition biography; "Award Certificate from Southern California Fair, 1926," Tokio Ueyama papers, Archives of American Art, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-1; and Rayburn, “Japanese Artists in California.”
 
@@ -307,11 +307,11 @@ On March 12, 1969, Suye Ueyama dies, aged seventy-one, in Los Angeles.
 
 [^34]: Catalog available in the Los Angeles County Museum of Art (LACMA) archives.
 
-[^35]: See hand-written details in a small black notebook, Collection of Bunkado; and a wedding expenses receipt, "Miscellaneous Biographical Information, circa 1928–1937," Tokio Ueyama papers, Archives of American Art, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-11.  
+[^35]: See hand-written details in a small black notebook, Collection of Bunkado, Inc.; and a wedding expenses receipt, "Miscellaneous Biographical Information, circa 1928–1937," Tokio Ueyama papers, Archives of American Art, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-11.  
 
 [^36]: My thanks to ShiPu Wang for information on this exhibition.
 
-[^37]: Catalog available in the archives of the San Diego Museum of Art. See also a clipping of an article by Reginald Poland, director of the Fine Arts Gallery, “Work in Annual Show of Virile, Positive Spirit,” red scrapbook, 5, Collection of Bunkado.
+[^37]: Catalog available in the archives of the San Diego Museum of Art. See also a clipping of an article by Reginald Poland, director of the Fine Arts Gallery, “Work in Annual Show of Virile, Positive Spirit,” red scrapbook, 5, Collection of Bunkado, Inc.
 
 [^38]: Millier describes *Monterey* as “flooded with clear light which creates a fine pattern of light and shadow on headlands, houses, and blue water.” He continues: “His portrait of a young Japanese woman in black hat and coat holds one’s interest by its poise, feeling for textures and character.” Millier concludes by writing, “He is an accomplished and painstaking artist.” See Arthur Millier, “City’s Japanese Show Art,” *Los Angeles Times*, December 29, 1929. To date this author has not located the exhibition catalog.
 
@@ -319,27 +319,27 @@ On March 12, 1969, Suye Ueyama dies, aged seventy-one, in Los Angeles.
 
 [^40]: Catalog available in the LACMA archives.
 
-[^41]: To date, this author has not located the source catalog for this exhibition. Based on the review by *LA Times* art critic Antony Anderson, Ueyama had on display “an imposing and exceedingly skillful portrait of a young Japanese woman.” This might be his large portrait of Suye in a kimono painted in 1929 and now at the Japanese American National Museum. Anderson continues that Ueyama’s “strong modeling and understanding breadth of style show him to be one of our finest portrait painters, indeed, quite among the good portraitists of the country.” See clipping in red scrapbook, 15, Collection of Bunkado. Antony Anderson, “Art News From Laguna,” *Los Angeles Times*, December 21, 1930.
+[^41]: To date, this author has not located the source catalog for this exhibition. Based on the review by *LA Times* art critic Antony Anderson, Ueyama had on display “an imposing and exceedingly skillful portrait of a young Japanese woman.” This might be his large portrait of Suye in a kimono painted in 1929 and now at the Japanese American National Museum. Anderson continues that Ueyama’s “strong modeling and understanding breadth of style show him to be one of our finest portrait painters, indeed, quite among the good portraitists of the country.” See clipping in red scrapbook, 15, Collection of Bunkado, Inc. Antony Anderson, “Art News From Laguna,” *Los Angeles Times*, December 21, 1930.
 
 [^42]: Many thanks to ShiPu Wang for information about this exhibition.
 
 [^43]: Catalog available in the LACMA archives.
 
-[^44]: See catalog in red scrapbook, 30, Collection of Bunkado.
+[^44]: See catalog in red scrapbook, 30, Collection of Bunkado, Inc.
 
 [^45]:  "Correspondence—Miscellaneous, 1916–1936," Tokio Ueyama papers, Archives of American Art, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-4.
 
-[^46]: See handwritten note in small black notebook, Collection of Bunkado.
+[^46]: See handwritten note in small black notebook, Collection of Bunkado, Inc.
 
-[^47]: See handwritten note in small black notebook, Collection of Bunkado; and Japanese biography in his Memorial Exhibition catalog, Collection of Bunkado. I am grateful to Noriko Okada for her translation of the Japanese.
+[^47]: See handwritten note in small black notebook, Collection of Bunkado, Inc; and Japanese biography in his Memorial Exhibition catalog, Collection of Bunkado, Inc. I am grateful to Noriko Okada for her translation of the Japanese.
 
-[^48]: See Memorial Exhibition catalog, Collection of Bunkado. I am grateful to Noriko Okada for her translation of the Japanese.
+[^48]: See Memorial Exhibition catalog, Collection of Bunkado, Inc. I am grateful to Noriko Okada for her translation of the Japanese.
 
-[^49]: See the manifest for the *Tatsuta Maru*; handwritten notes in small black notebook, Collection of Bunkado; and "Visas and Other Travel Documents, 1920–1925," Tokio Ueyama papers, rchives of American Art, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-2-folder-9. I am grateful to Grace Keiko Nozaki for articulating family relationships.
+[^49]: See the manifest for the *Tatsuta Maru*; handwritten notes in small black notebook, Collection of Bunkado, Inc.; and "Visas and Other Travel Documents, 1920–1925," Tokio Ueyama papers, rchives of American Art, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-2-folder-9. I am grateful to Grace Keiko Nozaki for articulating family relationships.
 
 [^50]: See Western Union telegraph dated December 10, 1929, "Correspondence—Ueyama Family, circa 1928–1939," Tokio Ueyama papers, Archives of American Art, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-7; and emails to the author from Grace Keiko Nozaki, June 19 and 20, 2023.
 
-[^51]: This author has not located the source catalog and is grateful to ShiPu Wang for the information on this exhibition. In a diary entry from May 2, 1940, Ueyama writes that *Misumi* and *Rain* won citations. See "Diary Excerpts Translated into English, 2023," Tokio Ueyama papers, Archives of American Art, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-9. See also a letter from Timothy L. Pflueger, Vice Chairman, Golden Gate International Exposition, San Francisco, expressing gratitude for Ueyama’s participation, red scrapbook, 92–93, Collection of Bunkado.
+[^51]: This author has not located the source catalog and is grateful to ShiPu Wang for the information on this exhibition. In a diary entry from May 2, 1940, Ueyama writes that *Misumi* and *Rain* won citations. See "Diary Excerpts Translated into English, 2023," Tokio Ueyama papers, Archives of American Art, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-9. See also a letter from Timothy L. Pflueger, Vice Chairman, Golden Gate International Exposition, San Francisco, expressing gratitude for Ueyama’s participation, red scrapbook, 92–93, Collection of Bunkado, Inc.
 
 [^52]: "Diary Excerpts Translated into English, 2023," Tokio Ueyama papers, Archives of American Art, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-9.
 
@@ -381,10 +381,10 @@ On March 12, 1969, Suye Ueyama dies, aged seventy-one, in Los Angeles.
 
 [^71]: See the Bunkado website, accessed November 28, 2023, https://www.bunkadoonline.com/pages/new.
 
-[^72]: See catalog in Collection of Bunkado; and Mary Oyama, “Reveille,” May 2, 1947, clipping in scrapbook, Collection of Bunkado.
+[^72]: See catalog in Collection of Bunkado, Inc.; and Mary Oyama, “Reveille,” May 2, 1947, clipping in scrapbook, Collection of Bunkado, Inc.
 
-[^73]: See catalog in Collection of Bunkado.
+[^73]: See catalog in Collection of Bunkado, Inc.
 
-[^74]: See catalog in Collection of Bunkado; and undated clipping, “Attn: Nisei artists,” scrapbook, Collection of Bunkado.
+[^74]: See catalog in Collection of Bunkado, Inc.; and undated clipping, “Attn: Nisei artists,” scrapbook, Collection of Bunkado, Inc.
 
-[^75]: See catalog in Collection of Bunkado.
+[^75]: See catalog in Collection of Bunkado, Inc.

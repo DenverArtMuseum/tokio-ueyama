@@ -17,7 +17,7 @@ Working on this project has been a moving and revelatory experience, one that ha
 
 Fundamentally, this project is due to ShiPu Wang, Professor and Coats Family Endowed Chair in the Arts at the University of California, Merced. Thank you, ShiPu, for your generosity and collegiality, and for making all the necessary introductions.
 
-At the Denver Art Museum, I am grateful to Meg Selig, Curatorial Assistant; Lauren Thompson, Senior Interpretive Specialist; Jesse Laird Ortega, Assistant Project Manager; Yvanne Vieuille, Associate Registrar and Project Manager; Caitlin Rumery, Associate Registrar for Traveling Exhibitions; Pam Skiles, Senior Paintings Conservator; Christina Jackson, Manager of Photographic Services; Eric Stephenson, Photographer; Valerie Hellstein, Managing Editor; Leslie Murrell, Editor; and Matt Popke, Developer. I also thank Yasuko Ogino, independent painting conservator.
+At the Denver Art Museum, I am grateful to Meg Selig, Curatorial Assistant; Lauren Thompson, Senior Interpretive Specialist; Jesse Laird Ortega, Assistant Project Manager; Yvanne Vieuille, Associate Registrar and Project Manager; Caitlin Rumery, Associate Registrar for Traveling Exhibitions; Pam Skiles, Senior Paintings Conservator; Christina Jackson, Manager of Photographic Services; Eric Stephenson, Photographer; Renée B. Miller, Manager of Rights and Reproductions; Valerie Hellstein, Managing Editor; Leslie Murrell, Editor; and Matt Popke, Developer. I also thank Yasuko Ogino, independent painting conservator.
 
 My appreciation goes to Darcy Christ for developing this digital publication.
 
