@@ -59,15 +59,15 @@ Given Ueyama’s positive reviews, regular exhibitions, and significant trip to 
 
 [^1]: For an overview of Little Tokyo’s history, see “Little Tokyo Historic District,” National Park Service, accessed November 15, 2023, https://www.nps.gov/places/little-tokyo-historic-district.htm.
 
-[^2]: See “Photographs by Edward Weston on Exhibition,” undated but probably July 1927, red scrapbook, Collection of Bunkado, 17. Karin Higa provides the date of July 7, 1927, in her *A View from Within: Japanese American Art from the Internment Camps, 1942–1945* (Los Angeles: Japanese American National Museum, 1992), 30. For the most complete account of the Shaku-do-sha, see Higa, “Hidden in Plain Sight: Little Tokyo between the Wars,” *Asian American Art: A History, 1850–1970*, edited by Gordon Chang (Stanford, CA: Stanford University Press, 2008).
+[^2]: See “Photographs by Edward Weston on Exhibition,” undated but probably July 1927, red scrapbook, Collection of Bunkado, Inc., 17. Karin Higa provides the date of July 7, 1927, in her *A View from Within: Japanese American Art from the Internment Camps, 1942–1945* (Los Angeles: Japanese American National Museum, 1992), 30. For the most complete account of the Shaku-do-sha, see Higa, “Hidden in Plain Sight: Little Tokyo between the Wars,” *Asian American Art: A History, 1850–1970*, edited by Gordon Chang (Stanford, CA: Stanford University Press, 2008).
 
 [^3]: The Shaku-do-sha exhibited Weston’s work in 1925, 1927, and 1931.
 
-[^4]: Ione Rayburn, “Japanese Artists in California” in “Sports and Vanities,” September 1927, red scrapbook, Collection of Bunkado, 37–39.
+[^4]: Ione Rayburn, “Japanese Artists in California” in “Sports and Vanities,” September 1927, red scrapbook, Collection of Bunkado, Inc., 37–39.
 
 [^5]: On the East West Art Society, see ShiPu Wang, *Chiura Obata: An American Modern* (Oakland, CA: University of California Press, 2018) 12.
 
-[^6]: Given the date, the number of works included, and period reviews, it is likely that he sent the same (or similar) group as had been exhibited at the Sumida Music Store. See “Japanese Art to be Shown in University Gallery Soon,” *Oregon Daily Emerald*, October 29, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-10-29/ed-1/seq-1/#words=Tokio+Ueyama; Margaret Skavlan, “Japanese Paintings Are Hung in University Art Gallery,” *Oregon Daily Emerald*, November 13, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-13/ed-1/seq-1/; “Arts Club Will Open Exhibition with Tea,” *Oregon Daily Emerald*, November 18, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-18/ed-1/seq-3/#words=Tokio+Ueyama; “Exhibition of Japanese Artist’s Paintings Will Be Opened Today,” *Oregon Daily Emerald*, November 19, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-19/ed-1/seq-1/#words=Tokio+Ueyama; “Japanese Print Collector Visits Campus Today. S. Doi Paintings to be Presented With Ueyama Exhibition,” *Oregon Daily Emerald*, November 20, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-20/ed-1/seq-3/#words=Tokio+Ueyama; “Work of Japanese Artist Portrays Variety of Style,” *Oregon Daily Emerald*, December 2, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-12-02/ed-1/seq-1/#words=Tokio+Ueyama; and undated clipping, “Exhibit of Ueyama, Japanese Painter, Opens Wednesday,” red scrapbook, Collection of Bunkado, 8.
+[^6]: Given the date, the number of works included, and period reviews, it is likely that he sent the same (or similar) group as had been exhibited at the Sumida Music Store. See “Japanese Art to be Shown in University Gallery Soon,” *Oregon Daily Emerald*, October 29, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-10-29/ed-1/seq-1/#words=Tokio+Ueyama; Margaret Skavlan, “Japanese Paintings Are Hung in University Art Gallery,” *Oregon Daily Emerald*, November 13, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-13/ed-1/seq-1/; “Arts Club Will Open Exhibition with Tea,” *Oregon Daily Emerald*, November 18, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-18/ed-1/seq-3/#words=Tokio+Ueyama; “Exhibition of Japanese Artist’s Paintings Will Be Opened Today,” *Oregon Daily Emerald*, November 19, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-19/ed-1/seq-1/#words=Tokio+Ueyama; “Japanese Print Collector Visits Campus Today. S. Doi Paintings to be Presented With Ueyama Exhibition,” *Oregon Daily Emerald*, November 20, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-11-20/ed-1/seq-3/#words=Tokio+Ueyama; “Work of Japanese Artist Portrays Variety of Style,” *Oregon Daily Emerald*, December 2, 1924, https://oregonnews.uoregon.edu/lccn/2004260239/1924-12-02/ed-1/seq-1/#words=Tokio+Ueyama; and undated clipping, “Exhibit of Ueyama, Japanese Painter, Opens Wednesday,” red scrapbook, Collection of Bunkado, Inc., 8.
 
 [^7]: “Work of Japanese Artist Portrays Variety of Style.”
 
@@ -81,13 +81,13 @@ Given Ueyama’s positive reviews, regular exhibitions, and significant trip to 
 
 [^12]: Antony Anderson, *Art News* 21, no. 36 (1923): 8.
 
-[^13]: Untitled and undated clipping, red scrapbook, Collection of Bunkado, 10.
+[^13]: Untitled and undated clipping, red scrapbook, Collection of Bunkado, Inc., 10.
 
 [^14]: Chang, “Emerging from the Shadows,” xi.
 
 [^15]: See letters in the Tokio Ueyama papers, which are written by the author Frances Toor. "Correspondence—Toor, Frances, 1926–27," Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945, Archives of American Art, Smithsonian Institution, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-6.
 
-[^16]: “Tokio Ueyama: Un Pintor Japonés en México,” *Revista de Revistas*, September 6, 1925, 17–18 and 42. Page 42 is missing in the clipping available in the red scrapbook, Collection of Bunkado, 20–21. I am grateful to Memphis Despain for translating this article while ShiPu Wang’s research assistant in August 2022. See also a print of Rivera’s Chapingo mural (*Partition of the Land*) signed by the artist in "*Partition of the Land* Mural Signed by Diego Rivera," Tokio Ueyama papers, Archives of American Art, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/oversize-3.
+[^16]: “Tokio Ueyama: Un Pintor Japonés en México,” *Revista de Revistas*, September 6, 1925, 17–18 and 42. Page 42 is missing in the clipping available in the red scrapbook, Collection of Bunkado, Inc., 20–21. I am grateful to Memphis Despain for translating this article while ShiPu Wang’s research assistant in August 2022. See also a print of Rivera’s Chapingo mural (*Partition of the Land*) signed by the artist in "*Partition of the Land* Mural Signed by Diego Rivera," Tokio Ueyama papers, Archives of American Art, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/oversize-3.
 
 [^17]: On Weston and the Shaku-do-sha, see Karin Higa, *The View from Within: Japanese American Art from the Internment Camps, 1942–1945* (Los Angeles: Japanese American National Museum, 1992), 31.
 
@@ -95,12 +95,12 @@ Given Ueyama’s positive reviews, regular exhibitions, and significant trip to 
 
 [^19]: Millier, “City’s Japanese Show Art.”
 
-[^20]: “Art Exhibit Draws Many Purchasers,” red scrapbook, Collection of Bunkado, 24.
+[^20]: “Art Exhibit Draws Many Purchasers,” red scrapbook, Collection of Bunkado, Inc., 24.
 
-[^21]: “Tokio Ueyama’s Success,” March 21, 1936, red scrapbook, Collection of Bunkado, 22.
+[^21]: “Tokio Ueyama’s Success,” March 21, 1936, red scrapbook, Collection of Bunkado, Inc., 22.
 
 [^22]: In a letter sent to Ueyama, the Association stated, “As an artist well trained in the best American schools, and a resident of Los Angeles, we believe that you are in a position to accomplish splendid results in creating a better understanding of the art developments around the Pacific Ocean.” "Correspondence—Miscellaneous, 1916–1936," Tokio Ueyama papers, Archives of American Art, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-4.
 
-[^23]: See Memorial Exhibition catalog, Collection of Bunkado. I am grateful to Noriko Okada for her translation of the Japanese.
+[^23]: See Memorial Exhibition catalog, Collection of Bunkado, Inc. I am grateful to Noriko Okada for her translation of the Japanese.
 
 [^24]: "Diary Excerpts Translated into English, 2023," Tokio Ueyama papers, Archives of American Art, https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289/series-1/box-1-folder-9. I am grateful to Noriko Okada for sharing relevant excerpts of her translations.

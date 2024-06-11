@@ -35,13 +35,13 @@ Because of these efforts, Amache’s legacy as a place of remembrance and educat
 
 [^3]: See “Japanese Artists Show Relocation Center Art,” *Los Angeles Times*, May 4, 1947.
 
-[^4]: See Mary Oyama, “Reveille,” May 2, 1947, clipping in scrapbook, Bunkado collection; and undated clipping, “Attn: Nisei artists,” scrapbook, Bunkado collection.
+[^4]: See Mary Oyama, “Reveille,” May 2, 1947, clipping in scrapbook, Collection of Bunkado, Inc.; and undated clipping, “Attn: Nisei artists,” scrapbook, Collection of Bunkado, Inc.
 
-[^5]: Family member David Hirai remembers that Tokio may have developed some eye trouble at this time. Conversation with the author, as told to Hirai by Suye Ueyama, April 2023. Ueyama’s memorial exhibition catalog identifies *Autumn Fruit* from 1947 (no. 16) as his last painting. See Memorial Exhibition catalog, Bunkado collection.
+[^5]: Family member David Hirai remembers that Tokio may have developed some eye trouble at this time. Conversation with the author, as told to Hirai by Suye Ueyama, April 2023. Ueyama’s memorial exhibition catalog identifies *Autumn Fruit* from 1947 (no. 16) as his last painting. See Memorial Exhibition catalog, Collection of Bunkado, Inc.
 
 [^6]: Conversation with the author, April 2023.
 
-[^7]: See Memorial Exhibition catalog, Bunkado collection.
+[^7]: See Memorial Exhibition catalog, Collection of Bunkado, Inc.
 
 [^8]: Bunkado website, accessed November 28, 2023, https://www.bunkadoonline.com/pages/new.
 
