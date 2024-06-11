@@ -8,7 +8,7 @@ figure_list:
   - id: "19-2024-zoom"
     src: figures/19_2024-zoom.jpg
     artist: Tokio Ueyama, Untitled (Granada House), 1943-44. Charcoal on paper, 12 1/2 × 19 1/8 in.
-    credit: Private collection. © Estate of Tokio Ueyama
+    credit: Private collection. © Estate of Tokio Ueyama.
     zoom: true
 
   - id: ptl-26191
@@ -97,14 +97,14 @@ figure_list:
 
   - id: ptl-26165
     src: figures/PTL-26165.jpg
-    credit: Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Landscape)*, 1924. Oil on canvas, 32 × 40 1/2 in.
     alt: There are large rocks in the foreground, tall trees in the middle ground, and mountains in the background of this landscape.
     label: Cat. 6
 
   - id: ptl-26165-zoom
     src: figures/PTL-26165-zoom.jpg
-    credit: Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Landscape)*, 1924. Oil on canvas, 32 × 40 1/2 in.
     alt: There are large rocks in the foreground, tall trees in the middle ground, and mountains in the background of this landscape.
     label: Cat. 6
@@ -134,14 +134,14 @@ figure_list:
 
   - id: ptl-26167
     src: figures/PTL-26167.jpg
-    credit: Oil on canvas, 29 1/2 × 24 in. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum
+    credit: Oil on canvas, 29 1/2 × 24 in. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Portrait in Black (Mrs. Ueyama)*, 1928. 
     alt: A sitting woman wears a black coat and hat, her hands crossed on her lap.
     label: Cat. 10
 
   - id: ptl-26167-zoom
     src: figures/PTL-26167-zoom.jpg
-    credit: Oil on canvas, 29 1/2 × 24 in. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum
+    credit: Oil on canvas, 29 1/2 × 24 in. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Portrait in Black (Mrs. Ueyama)*, 1928. 
     alt: A sitting woman wears a black coat and hat, her hands crossed on her lap.
     label: Cat. 10
@@ -149,14 +149,14 @@ figure_list:
 
   - id: ptl-26187
     src: figures/PTL-26187.jpg
-    credit: Oil on canvas, 29 7/8 × 35 1/2 in. Collection of Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum
+    credit: Oil on canvas, 29 7/8 × 35 1/2 in. Collection of Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Monterey (Point Lobos, Monterey, California)*, 1929. 
     alt: White buildings are nestled into a rocky yet grassy landscape that overlooks blue water.
     label: Cat. 11
 
   - id: ptl-26187-zoom
     src: figures/PTL-26187-zoom.jpg
-    credit: Oil on canvas, 29 7/8 × 35 1/2 in. Collection of Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum
+    credit: Oil on canvas, 29 7/8 × 35 1/2 in. Collection of Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Monterey (Point Lobos, Monterey, California)*, 1929. 
     alt: White buildings are nestled into a rocky yet grassy landscape that overlooks blue water.
     label: Cat. 11
@@ -252,39 +252,39 @@ figure_list:
 
   - id: ptl-26154
     src: figures/PTL-26154.jpg
-    credit: "Courtesy Japanese American National Museum: Gift of Arthur Asawa, 2004.35.1. © Estate of Tokio Ueyama"
+    credit: "Courtesy Japanese American National Museum: Gift of Arthur Asawa, 2004.35.1. © Estate of Tokio Ueyama."
     caption: Tokio Ueyama, *Untitled (Portrait of Tomoye Sawa [Gakuhajo] with Biwa)*, 1943. Oil on canvas, 25 × 19 in. 
     alt: A man with glasses holds a stringed instrument that extends above his shoulder in this black-and-white drawing.
 
   - id: ptl-26154-zoom
     src: figures/PTL-26154-zoom.jpg
-    credit: "Courtesy Japanese American National Museum: Gift of Arthur Asawa, 2004.35.1. © Estate of Tokio Ueyama"
+    credit: "Courtesy Japanese American National Museum: Gift of Arthur Asawa, 2004.35.1. © Estate of Tokio Ueyama."
     caption: Tokio Ueyama, *Untitled (Portrait of Tomoye Sawa [Gakuhajo] with Biwa)*, 1943. Oil on canvas, 25 × 19 in. 
     alt: A man with glasses holds a stringed instrument that extends above his shoulder in this black-and-white drawing.
     zoom: true
 
   - id: ptl-26194
     src: figures/PTL-26194.jpg
-    credit: Collection of Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum
+    credit: Collection of Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Amache Still Life)*, February 1943. Oil on canvas, 30 1/2 × 26 in.
     alt: Corn cobs, a large squash, and an oil lamp sit on a wooden table, with a sombrero hanging on the wall behind.
 
   - id: ptl-26194-zoom
     src: figures/PTL-26194-zoom.jpg
-    credit: Collection of Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum
+    credit: Collection of Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Amache Still Life)*, February 1943. Oil on canvas, 30 1/2 × 26 in.
     alt: Corn cobs, a large squash, and an oil lamp sit on a wooden table, with a sombrero hanging on the wall behind.
     zoom: true
 
   - id: ptl-26184
     src: figures/PTL-26184.jpg
-    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Portrait of a Soldier)*, February 12, 1943. Drawing on paper, 25 × 19 in.
     alt: A man with a broad military hat and a tie under his coat faces right in this black-and-white drawing.
 
   - id: ptl-26184-zoom
     src: figures/PTL-26184-zoom.jpg
-    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Portrait of a Soldier)*, February 12, 1943. Drawing on paper, 25 × 19 in.
     alt: A man with a broad military hat and a tie under his coat faces right in this black-and-white drawing.
     zoom: true
@@ -305,14 +305,14 @@ figure_list:
 
   - id: ptl-26171
     src: figures/PTL-26171.jpg
-    credit: Oil on canvas taped on Celotex(?), 28 1/2 × 22 1/2 in. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum
+    credit: Oil on canvas taped on Celotex(?), 28 1/2 × 22 1/2 in. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Amache Sunflowers)*, August 1943. 
     alt: Two sunflower blossoms are cropped tightly against a brown background.
     label: Cat. 27
 
   - id: ptl-26171-zoom
     src: figures/PTL-26171-zoom.jpg
-    credit: Oil on canvas taped on Celotex(?), 28 1/2 × 22 1/2 in. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum
+    credit: Oil on canvas taped on Celotex(?), 28 1/2 × 22 1/2 in. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Amache Sunflowers)*, August 1943. 
     alt: Two sunflower blossoms are cropped tightly against a brown background.
     label: Cat. 27
@@ -320,14 +320,14 @@ figure_list:
 
   - id: ptl-26151
     src: figures/PTL-26151.jpg
-    credit: "Oil on canvas, 20 × 26 in. Courtesy Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.8. © Estate of Tokio Ueyama"
+    credit: "Oil on canvas, 20 × 26 in. Courtesy Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.8. © Estate of Tokio Ueyama."
     caption: Tokio Ueyama, *Untitled (Barracks with Pond)*, 1944. 
     alt: A house and barn overlook a pond, with rows of barracks in the background in this mostly brown landscape.
     label: Cat. 28
 
   - id: ptl-26151-zoom
     src: figures/PTL-26151-zoom.jpg
-    credit: "Courtesy Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.8. © Estate of Tokio Ueyama"
+    credit: "Courtesy Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.8. © Estate of Tokio Ueyama."
     caption: Tokio Ueyama, *Untitled (Barracks with Pond)*, 1944. Oil on canvas, 20 × 26 in. 
     alt: A house and barn overlook a pond, with rows of barracks in the background in this mostly brown landscape.
     label: Cat. 28
@@ -335,14 +335,14 @@ figure_list:
 
   - id: ptl-26152
     src: figures/PTL-26152.jpg
-    credit: "Oil on canvas, 18 × 24 in. Courtesy Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.7. © Estate of Tokio Ueyama"
+    credit: "Oil on canvas, 18 × 24 in. Courtesy Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.7. © Estate of Tokio Ueyama."
     caption: Tokio Ueyama, *Untitled (Barracks with Basketball Hoops)*, 1944. 
     alt: A basketball hoop overlooks a brown landscape dotted with low bushes. Brown buildings interrupt the skyline in the background.
     label: Cat. 29
 
   - id: ptl-26152-zoom
     src: figures/PTL-26152-zoom.jpg
-    credit: "Courtesy Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.7. © Estate of Tokio Ueyama"
+    credit: "Courtesy Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.7. © Estate of Tokio Ueyama."
     caption: Tokio Ueyama, *Untitled (Barracks with Basketball Hoops)*, 1944. Oil on canvas, 18 × 24 in. 
     alt: A basketball hoop overlooks a brown landscape dotted with low bushes. Brown buildings interrupt the skyline in the background.
     label: Cat. 29
@@ -398,14 +398,14 @@ figure_list:
 
   - id: ptl-26176
     src: figures/PTL-26176.jpg
-    credit: Pastel on paper, 9 × 12 in. Private collection. © Estate of Tokio Ueyama
+    credit: Pastel on paper, 9 × 12 in. Private collection. © Estate of Tokio Ueyama.
     caption: Tokio Ueyama, *Untitled (Amache Landscape with Barrack and Tower)*, April 1944. 
     alt: A wooden tower stands tall next to a brown building against a dark and stormy sky.
     label: Cat. 33
 
   - id: ptl-26176-zoom
     src: figures/PTL-26176-zoom.jpg
-    credit: Pastel on paper, 9 × 12 in. Private collection. © Estate of Tokio Ueyama
+    credit: Pastel on paper, 9 × 12 in. Private collection. © Estate of Tokio Ueyama.
     caption: Tokio Ueyama, *Untitled (Amache Landscape with Barrack and Tower)*, April 1944. 
     alt: A wooden tower stands tall next to a brown building against a dark and stormy sky.
     label: Cat. 33
@@ -439,26 +439,26 @@ figure_list:
 
   - id: ptl-26178
     src: figures/PTL-26178.jpg
-    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Gate and Fence)*, 1943–44. Drawing on paper, 12 1/2 × 19 in.
     alt: A pathway winds next to a fence and trees in this black-and-white drawing.
 
   - id: ptl-26178-zoom
     src: figures/PTL-26178-zoom.jpg
-    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Gate and Fence)*, 1943–44. Drawing on paper, 12 1/2 × 19 in.
     alt: A pathway winds next to a fence and trees in this black-and-white drawing.
     zoom: true
 
   - id: ptl-26179
     src: figures/PTL-26179.jpg
-    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Stream and Trees)*, 1943–44. Drawing on paper, 12 1/2 × 18 in.
     alt: Leafless trees on an embankment overlook a winding path on the left and a fence on the right in this black-and-white drawing.
 
   - id: ptl-26179-zoom
     src: figures/PTL-26179-zoom.jpg
-    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Stream and Trees)*, 1943–44. Drawing on paper, 12 1/2 × 18 in.
     alt: Leafless trees on an embankment overlook a winding path on the left and a fence on the right in this black-and-white drawing.
     zoom: true
@@ -484,20 +484,20 @@ figure_list:
 
   - id: ptl-26182-zoom
     src: figures/PTL-26182-zoom.jpg
-    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Amache Still Life)*, 1943–44. Drawing on paper, 15 × 18 in.
     alt: Three vessels, including a kettle, are arranged with with two pieces of fruit on a tabletop draped with a cloth in this black-and-white drawing.
     zoom: true
 
   - id: ptl-26185
     src: figures/PTL-26185.jpg
-    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Portrait of a Girl)*, 1943-44. Drawing on paper, 19 × 12 1/2 in.
     alt: A woman with a button-up shirt and ribbon in her curled hair faces left in this black-and-white drawing.
 
   - id: ptl-26185-zoom
     src: figures/PTL-26185-zoom.jpg
-    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Portrait of a Girl)*, 1943-44. Drawing on paper, 19 × 12 1/2 in.
     alt: A woman with a button-up shirt and ribbon in her curled hair faces left in this black-and-white drawing.
     zoom: true
@@ -530,13 +530,13 @@ figure_list:
 
   - id: ptl-26153
     src: figures/PTL-26153.jpg
-    credit: "Courtesy Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.5. © Estate of Tokio Ueyama"
+    credit: "Courtesy Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.5. © Estate of Tokio Ueyama."
     caption: Tokio Ueyama, *Desert Brush*, March 1945. Oil on canvas, 15 3/4 × 19 in. 
     alt: This landscape features a light ground, pale blue sky, and red-orange shrubs on the left.
 
   - id: ptl-26153-zoom
     src: figures/PTL-26153-zoom.jpg
-    credit: "Courtesy Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.5. © Estate of Tokio Ueyama"
+    credit: "Courtesy Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.5. © Estate of Tokio Ueyama."
     caption: Tokio Ueyama, *Desert Brush*, March 1945. Oil on canvas, 15 3/4 × 19 in. 
     alt: This landscape features a light ground, pale blue sky, and red-orange shrubs on the left.
     zoom: true
@@ -544,14 +544,14 @@ figure_list:
   - id: exrr-2024-11
     src: figures/EXRR-2024-11.jpg
     label: "Fig. 1"
-    credit: "Photograph Album of Cresson Travel Scholarship Trip to Europe, 1920–1922. Tokio Ueyama papers, 1908-circa 1954, bulk 1914-1945. Archives of American Art, Smithsonian Institution. https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289"
+    credit: "Photograph Album of Cresson Travel Scholarship Trip to Europe, 1920–1922. Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945. Archives of American Art, Smithsonian Institution. https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289"
     caption: "Unknown photographer, \"Us Boys\" on the *Canopic*, 1920."
     alt: A group of men lounge on a boat deck in this black-and-white photo.
 
   - id: exrr-2024-12
     src: figures/EXRR-2024-12.jpg
     label: "Fig. 2"
-    credit: "Photograph Album of Cresson Travel Scholarship Trip to Europe, 1920–1922. Tokio Ueyama papers, 1908-circa 1954, bulk 1914-1945. Archives of American Art, Smithsonian Institution. https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289"
+    credit: "Photograph Album of Cresson Travel Scholarship Trip to Europe, 1920–1922. Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945. Archives of American Art, Smithsonian Institution. https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289"
     caption: "Unknown photographer, The *Canopic* at Anchor, Azores, and Street Scene, 1920."
     alt: A street scene features a horse-drawn carriage in this black-and-white photo.
 
@@ -560,7 +560,7 @@ figure_list:
     label: "Fig. 3"
     artist: Unknown photographer
     caption: Unknown photographer, At Naples, 1920.
-    credit: "Photograph Album of Cresson Travel Scholarship Trip to Europe, 1920–1922. Tokio Ueyama papers, 1908-circa 1954, bulk 1914-1945. Archives of American Art, Smithsonian Institution. https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289"
+    credit: "Photograph Album of Cresson Travel Scholarship Trip to Europe, 1920–1922. Tokio Ueyama papers, 1908–circa 1954, bulk 1914–1945. Archives of American Art, Smithsonian Institution. https://www.aaa.si.edu/collections/tokio-ueyama-papers-22289"
     alt: Three men stand in front of a restaurant in a black-and-white photo.
 
   - id: exrr-2024-14
@@ -572,7 +572,7 @@ figure_list:
 
   - id: exrr-2024-15
     src: figures/fpo/exrr-2024-15.jpg
-    credit: Densho Encyclopedia https://encyclopedia.densho.org/sources/en-denshopd-p159-00002-1/ (accessed Jan 19 2024). Courtesy of Densho, the George Ochikubo Collection. CC BY-NC-SA 3.0 DEED
+    credit: Densho Encyclopedia https://encyclopedia.densho.org/sources/en-denshopd-p159-00002-1/ (accessed January 19, 2024). Courtesy of Densho, the George Ochikubo Collection. CC BY-NC-SA 3.0 DEED.
     caption: Unknown photographer, View of Amache (Granada) concentration camp, Colorado, c. 1944.
     alt: Rows of long, low buildings.
     label: "Fig. 1"
@@ -586,7 +586,7 @@ figure_list:
 
   - id: exrr-2024-17
     src: figures/fpo/exrr-2024-17.jpg
-    credit: Bancroft Library at the University of California, WRA no. E-429. Courtesy of UC Berkeley, Bancroft Library
+    credit: Bancroft Library at the University of California, WRA no. E-429. Courtesy of UC Berkeley, Bancroft Library.
     caption: Tom Parker (photographer for the War Relocation Authority), In an adult still life art class, Tokio Ueyama gives a few pointers to one of the students, 1942.
     alt: Several adults paint at easels in this black-and-white photograph.
     label: "Fig. 3"
@@ -616,7 +616,7 @@ figure_list:
   - id: exrr-2024-21
     src: figures/EXRR-2024-21.jpg
     label: "Fig. 1"
-    credit: "Drawing. Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.2. © Estate of Tokio Ueyama"
+    credit: "Drawing. Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.2. © Estate of Tokio Ueyama."
     caption: Tokio Ueyama, *Storm*, 1943. 
     alt: Clouds drop rain over rows of long, low buildings in this black-and-white drawing.
 
@@ -644,7 +644,7 @@ figure_list:
   - id: exrr-2024-23
     src: figures/EXRR-2024-23.jpg
     label: "Fig. 5"
-    credit: Oil on canvas. Japanese American National Museum, 96.601.47
+    credit: Oil on canvas. Japanese American National Museum, 96.601.47.
     caption: Hisako Hibi, *Eastern Sky, 7:50 AM*, February 25, 1945. 
     alt: A dark mountain and buildings are set against a bright orange sky.
 
