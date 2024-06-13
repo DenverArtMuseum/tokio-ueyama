@@ -25,10 +25,17 @@ figure_list:
     zoom: true
 
   - id: ptl-26158
-    src: figures/fpo/ptl-26158.jpg
+    src: figures/PTL-26158.jpg
     credit: Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Head*, 1919. Oil on canvas, 21 × 16 1/2 in.
     alt: A white sculpture of a head looking to the left is set against a mottled blue background.
+
+  - id: ptl-26158-zoom
+    src: figures/PTL-26158-zoom.jpg
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
+    caption: Tokio Ueyama, *Head*, 1919. Oil on canvas, 21 × 16 1/2 in.
+    alt: A white sculpture of a head looking to the left is set against a mottled blue background.
+    zoom: true
 
   - id: ptl-26173
     src: figures/PTL-26173.jpg
@@ -59,11 +66,19 @@ figure_list:
     zoom: true
 
   - id: ptl-26159
-    src: figures/fpo/ptl-26159.jpg
+    src: figures/PTL-26159.jpg
     credit: Oil on canvas, 18 1/2 × 13 3/4 in. Collection of Susie and David Ishibashi. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Self-Portrait*, 1924. 
     alt: A man in a white shirt looks directly forward, with a white full-length sculpture behind his right shoulder.
     label: Cat. 4
+
+  - id: ptl-26159-zoom
+    src: figures/PTL-26159-zoom.jpg
+    credit: Oil on canvas, 18 1/2 × 13 3/4 in. Collection of Susie and David Ishibashi. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
+    caption: Tokio Ueyama, *Self-Portrait*, 1924. 
+    alt: A man in a white shirt looks directly forward, with a white full-length sculpture behind his right shoulder.
+    label: Cat. 4
+    zoom: true
 
   - id: ptl-26163
     src: figures/PTL-26163.jpg
@@ -126,11 +141,19 @@ figure_list:
     zoom: true
 
   - id: ptl-26160
-    src: figures/fpo/ptl-26160.jpg
+    src: figures/PTL-26160.jpg
     credit: Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *At Cuernavaca*, 1925. Oil on canvas, 8 3/4 × 10 in.
     alt: Many colorful roofs are clustered together in this cityscape set against a gray sky.
     label: Cat. 9
+
+  - id: ptl-26160-zoom
+    src: figures/PTL-26160-zoom.jpg
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
+    caption: Tokio Ueyama, *At Cuernavaca*, 1925. Oil on canvas, 8 3/4 × 10 in.
+    alt: Many colorful roofs are clustered together in this cityscape set against a gray sky.
+    label: Cat. 9
+    zoom: true
 
   - id: ptl-26167
     src: figures/PTL-26167.jpg
@@ -349,17 +372,32 @@ figure_list:
     zoom: true
 
   - id: ptl-26161
-    src: figures/fpo/ptl-26161.jpg
+    src: figures/PTL-26161.jpg
     credit: Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Horse and Barn)*, October 1944. Oil on artist's board, 15 3/4 × 19 7/8 in.
     alt: A horse stands next to a tall, pink barn, with farm equipment in the foreground.
 
+  - id: ptl-26161-zoom
+    src: figures/PTL-26161-zoom.jpg
+    credit: Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
+    caption: Tokio Ueyama, *Untitled (Horse and Barn)*, October 1944. Oil on artist's board, 15 3/4 × 19 7/8 in.
+    alt: A horse stands next to a tall, pink barn, with farm equipment in the foreground.
+    zoom: true
+
   - id: ptl-26162-1-15
-    src: figures/fpo/ptl-26162-1-15.jpg
+    src: figures/PTL-26162-1-15.jpg
     credit: Set of 15 polished stones. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, Hand-Polished Stones, 1943–44. 
     alt: Three rows of colorful stones sit on a black tabletop.
     label: Cat. 42
+
+  - id: ptl-26162-1-15-zoom
+    src: figures/PTL-26162-1-15-zoom.jpg
+    credit: Set of 15 polished stones. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
+    caption: Tokio Ueyama, Hand-Polished Stones, 1943–44. 
+    alt: Three rows of colorful stones sit on a black tabletop.
+    label: Cat. 42
+    zoom: true
 
   - id: ptl-26175
     src: figures/PTL-26175.jpg
@@ -375,11 +413,19 @@ figure_list:
     zoom: true
 
   - id: ptl-26172
-    src: figures/fpo/ptl-26172.jpg
+    src: figures/PTL-26172.jpg
     credit: Oil on canvas, 19 1/2 × 17 in. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, *Untitled (Amache Portrait)*, January 17, 1944. 
     alt: A woman with black hair wears a red-and-blue plaid shirt.
     label: Cat. 25
+
+  - id: ptl-26172-zoom
+    src: figures/PTL-26172-zoom.jpg
+    credit: Oil on canvas, 19 1/2 × 17 in. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
+    caption: Tokio Ueyama, *Untitled (Amache Portrait)*, January 17, 1944. 
+    alt: A woman with black hair wears a red-and-blue plaid shirt.
+    label: Cat. 25
+    zoom: true
 
   - id: ptl-26170
     src: figures/PTL-26170.jpg
@@ -571,28 +617,28 @@ figure_list:
     label: "Fig. 1"
 
   - id: exrr-2024-15
-    src: figures/fpo/exrr-2024-15.jpg
+    src: figures/fpo/EXRR-2024-15.jpg
     credit: Densho Encyclopedia https://encyclopedia.densho.org/sources/en-denshopd-p159-00002-1/ (accessed January 19, 2024). Courtesy of Densho, the George Ochikubo Collection. CC BY-NC-SA 3.0 DEED.
     caption: Unknown photographer, View of Amache (Granada) concentration camp, Colorado, c. 1944.
     alt: Rows of long, low buildings.
     label: "Fig. 1"
 
   - id: exrr-2024-16
-    src: figures/fpo/exrr-2024-16.jpg
+    src: figures/fpo/EXRR-2024-16.jpg
     caption: Unknown photographer, Amache art students working below a guard tower, c. 1942–45.
     credit: Collection of Bunkado, Inc. Photo by Joshua White, image courtesy Collection of Bunkado, Inc.
     alt: A watchtower stands against the sky in the distance as several people paint on easels.
     label: "Fig. 2"
 
   - id: exrr-2024-17
-    src: figures/fpo/exrr-2024-17.jpg
+    src: figures/fpo/EXRR-2024-17.jpg
     credit: Bancroft Library at the University of California, WRA no. E-429. Courtesy of UC Berkeley, Bancroft Library.
     caption: Tom Parker (photographer for the War Relocation Authority), In an adult still life art class, Tokio Ueyama gives a few pointers to one of the students, 1942.
     alt: Several adults paint at easels in this black-and-white photograph.
     label: "Fig. 3"
 
   - id: exrr-2024-18
-    src: figures/fpo/exrr-2024-18.jpg
+    src: figures/fpo/EXRR-2024-18.jpg
     credit: Collection of Bunkado, Inc. Photo by Joshua White, image courtesy Collection of Bunkado, Inc.
     caption: Unknown photographer, Art students posing in front of a barn, c. 1942–45.
     alt: A group of people stand in front of a building in this black-and-white photo.
@@ -621,21 +667,21 @@ figure_list:
     alt: Clouds drop rain over rows of long, low buildings in this black-and-white drawing.
 
   - id: exrr-2024-22
-    src: figures/fpo/exrr-2024-22.jpg
+    src: figures/fpo/EXRR-2024-22.jpg
     label: "Fig. 2"
     credit: "Watercolor on silk, framed: 20 7/8 x 24 7/8 in. Image courtesy of the Franklin D. Roosevelt Presidential Library and Museum, Hyde Park, NY. © Estate of Chiura Obata."
     caption: "Chiura Obata, *Moonlight Over Topaz, Utah*, 1942." 
     alt: Blue mountain peaks in the background are partly obscured by fog or haze.
 
   - id: 2022-119 
-    src: figures/fpo/2022_119.jpg
+    src: figures/2022_119.jpg
     label: "Fig. 3" 
     credit: "Watercolor on paper, 13 1/4 × 18 1/4 in. Denver Art Museum: Gift of the Estate of Chiura Obata, 2022.119. © Estate of Chiura Obata."
     caption: Chiura Obata, *Clouds Over Water Tower*, January 29, 1943.
     alt: A tall watertower is set against a cloudy sky.
 
   - id: 2022-121
-    src: figures/fpo/2022_121.jpg
+    src: figures/2022_121.jpg
     label: "Fig. 4"
     credit: "Ink on paper, 12 7/8 × 18 in. Denver Art Museum: Gift of the Estate of Chiura Obata, 2022.121. © Estate of Chiura Obata."
     caption: Chiura Obata, *Landscape Near Topaz*, 1943. 
@@ -656,7 +702,7 @@ figure_list:
     alt: Mountains and low buildings are set against a bright orange sky.
 
   - id: exrr-2024-26
-    src: figures/fpo/exrr-2024-26.jpg
+    src: figures/EXRR-2024-26.jpg
     label: "Fig. 7"
     credit: "Oil on canvas, 19 1/16 × 23 × 1 1/2 in. Smithsonian American Art Museum, Museum purchase through the American Women's History Initiative Acquisitions Pool, administered by the Smithsonian American Women's History Initiative, 2023.6.1. © Estate of Hisako Hibi."
     caption: Hisako Hibi, *Floating Clouds*, 1944. 
@@ -677,28 +723,28 @@ figure_list:
     alt: A hand-drawn map in white against a black background.
 
   - id: exrr-2024-30
-    src: figures/fpo/exrr-2024-30.jpg
+    src: figures/EXRR-2024-30.jpg
     label: "Fig. 3"
     credit: Collection of Bunkado, Inc. © Estate of Tokio Ueyama. Photo by Joshua White, image courtesy Collection of Bunkado, Inc.
     caption: Unknown photographer, Tokio Ueyama painting the *Romeo and Juliet* mural for the Elsinore Theatre, Oregon, circa 1924–26.
     alt: A man paints a mural of a Renaissance man in this black-and-white photo.
 
   - id: exrr-2024-31
-    src: figures/fpo/exrr-2024-31.jpg
+    src: figures/EXRR-2024-31.jpg
     label: "Fig. 4"
     credit: Collection of Bunkado, Inc. Photo by Joshua White, image courtesy Collection of Bunkado, Inc.
     caption: Unknown photographer, Tokio and Suye Ueyama on their wedding day, 1928.
     alt: A well-dressed man and woman stand in a church surrounded by flowers and candles in this black-and-white photo.
 
   - id: exrr-2024-32
-    src: figures/fpo/exrr-2024-32.jpg
+    src: figures/EXRR-2024-32.jpg
     label: "Fig. 5"
     credit: Collection of Bunkado, Inc. Photo by Joshua White, image courtesy Collection of Bunkado, Inc.
     caption: Unknown photographer, Outside the Amache Art Studio. Tokio and Suye Ueyama are on the left. Yoshio Harry Tsuruda is below, and Koichi Nomiyama is on the right, c. 1942–45.
     alt: A woman and three men stand at the door to an art studio.
 
   - id: exrr-2024-33
-    src: figures/fpo/exrr-2024-33.jpg
+    src: figures/EXRR-2024-33.jpg
     label: "Fig. 6"
     credit: Collection of Bunkado, Inc. Photo by Joshua White, image courtesy Collection of Bunkado, Inc.
     caption: Unknown photographer, Tokio and Suye Ueyama in Bunkado, date unknown.
