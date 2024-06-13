@@ -105,7 +105,7 @@
     }
 
     .quire__secondary {
-      height: 100%;
+      height: calc(100vh - 4.375rem); // TODO: variable for navbar height?
       position: fixed;
       top: 0;
       right: 0;

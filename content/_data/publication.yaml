@@ -38,8 +38,8 @@ identifier:
 publisher:
   - name: Denver Art Museum
     location: Denver
-    url:
-    logo: 
+    url: https://www.denverartmuseum.org/
+    logo: dam-logo-menu.png
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -77,10 +77,11 @@ contributor:
 copyright: © 2024 Denver Art Museum
 
 license:
-  name: Creative Commons Attribution 4.0 International License
-  abbreviation: CC BY
-  url: https://creativecommons.org/licenses/by/4.0/
+  name: All rights reserved
+  abbreviation: © Denver Art Museum
+  url: https://www.denverartmuseum.org/
   scope: full # full | text-only | some-exceptions
+  online_text: ' '
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links

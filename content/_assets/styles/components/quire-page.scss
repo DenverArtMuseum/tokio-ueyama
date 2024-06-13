@@ -197,8 +197,13 @@ html {
 
         // eliminates a blank space that can otherwise show up between
         // abstract/tombstone and the main content
+        // TODO: this is overly broad for its purpose
         > *:first-child {
           margin-top: 0;
+        }
+
+        > figure:first-child {
+          margin-top:.8rem;
         }
 
         hr {
