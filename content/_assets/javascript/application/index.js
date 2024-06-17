@@ -11,7 +11,7 @@
 import '../../fonts/index.scss';
 import '../../styles/application.scss'
 import '../../styles/screen.scss'
-import '../../styles/custom.scss'
+//import '../../styles/custom.scss'
 
 // Modules (feel free to define your own and import here)
 import './canvas-panel'
