@@ -18,11 +18,11 @@ Hain, Mark, and Alex Baker. *Pennsylvania Academy of the Fine Arts, 1805–2005:
 
 Harvey, Robert. *Amache: The Story of Japanese Internment in Colorado during World War II.* Scottsdale, AZ: Hawes & Jenkins, 2023.
 
-Higa, Karen, Lane Ryo Hirabayashi, James A. Hirabayashi, Brian Niya, and Wakako Yamauchi. *The View from Within: Japanese American Art from the Internment Camps, 1942–1945.* Los Angeles: Japanese American National Museum, 1992.
+Higa, Karin, Lane Ryo Hirabayashi, James A. Hirabayashi, Brian Niiya, and Wakako Yamauchi. *The View from Within: Japanese American Art from the Internment Camps, 1942–1945.* Los Angeles: Japanese American National Museum, 1992.
 
-Hirasuna, Delphin. *All That Remains: The Legacy of the World War II Japanese American Internment Camps*. Richmond, BC: Blanchette Press, 2016.
+Hirasuna, Delphine. *All That Remains: The Legacy of the World War II Japanese American Internment Camps*. Richmond, BC: Blanchette Press, 2016.
 
-Hirasuna, Delphine. *The Art of Gaman: Arts and Crafts from the Japanese American Internment Camps, 1942–1946*. Berkeley, CA: Ten Speed Press, 2005.
+———. *The Art of Gaman: Arts and Crafts from the Japanese American Internment Camps, 1942–1946*. Berkeley, CA: Ten Speed Press, 2005.
 
 Hosokawa, Bill. *Colorado’s Japanese Americans: From 1886 to the Present*. Chicago: University Press of Colorado, 2005.
 
