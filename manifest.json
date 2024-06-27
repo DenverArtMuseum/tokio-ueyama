@@ -1,0 +1,58 @@
+{
+  "_assets/fonts/montserrat/italic-latin-ext.woff2": {
+    "file": "_assets/italic-latin-ext.woff2",
+    "src": "_assets/fonts/montserrat/italic-latin-ext.woff2"
+  },
+  "_assets/fonts/montserrat/italic-latin.woff2": {
+    "file": "_assets/italic-latin.woff2",
+    "src": "_assets/fonts/montserrat/italic-latin.woff2"
+  },
+  "_assets/fonts/montserrat/latin-ext.woff2": {
+    "file": "_assets/latin-ext.woff2",
+    "src": "_assets/fonts/montserrat/latin-ext.woff2"
+  },
+  "_assets/fonts/montserrat/latin.woff2": {
+    "file": "_assets/latin.woff2",
+    "src": "_assets/fonts/montserrat/latin.woff2"
+  },
+  "_assets/images/cover-image.jpg": {
+    "file": "_assets/cover-image.jpg",
+    "src": "_assets/images/cover-image.jpg"
+  },
+  "_assets/images/header-background/bg01.jpg": {
+    "file": "_assets/bg01.jpg",
+    "src": "_assets/images/header-background/bg01.jpg"
+  },
+  "_assets/images/header-background/bg02.jpg": {
+    "file": "_assets/bg02.jpg",
+    "src": "_assets/images/header-background/bg02.jpg"
+  },
+  "_assets/images/header-background/bg03.jpg": {
+    "file": "_assets/bg03.jpg",
+    "src": "_assets/images/header-background/bg03.jpg"
+  },
+  "_assets/images/header-background/bg04.jpg": {
+    "file": "_assets/bg04.jpg",
+    "src": "_assets/images/header-background/bg04.jpg"
+  },
+  "_index-f4666dff.js": {
+    "assets": [
+      "_assets/latin-ext.woff2",
+      "_assets/latin.woff2",
+      "_assets/italic-latin-ext.woff2",
+      "_assets/italic-latin.woff2",
+      "_assets/bg01.jpg",
+      "_assets/bg02.jpg",
+      "_assets/bg03.jpg",
+      "_assets/bg04.jpg"
+    ],
+    "css": [
+      "_assets/index.css"
+    ],
+    "file": "_assets/index-f4666dff.js"
+  },
+  "index.css": {
+    "file": "_assets/index.css",
+    "src": "index.css"
+  }
+}
