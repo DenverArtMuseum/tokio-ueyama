@@ -878,8 +878,10 @@ main.quire-page.quire-entry .quire-entry__content {
 //     display: none;
 // }
 
-#page-contents .table-of-contents .subtitle {
-    display: none;
+#page-contents .table-of-contents {
+    .subtitle, .separator {
+        display: none;
+    }
 }
 #page-contents .quire-contents-list .menu-list a .arrow {
     display: none;

@@ -617,14 +617,14 @@ figure_list:
     label: "Fig. 1"
 
   - id: exrr-2024-15
-    src: figures/fpo/EXRR-2024-15.jpg
+    src: figures/EXRR-2024-15.jpg
     credit: Densho Encyclopedia https://encyclopedia.densho.org/sources/en-denshopd-p159-00002-1/ (accessed January 19, 2024). Courtesy of Densho, the George Ochikubo Collection. CC BY-NC-SA 3.0 DEED.
     caption: Unknown photographer, View of Amache (Granada) concentration camp, Colorado, c. 1944.
     alt: Rows of long, low buildings.
     label: "Fig. 1"
 
   - id: exrr-2024-16
-    src: figures/fpo/EXRR-2024-16.jpg
+    src: figures/EXRR-2024-16.jpg
     caption: Unknown photographer, Amache art students working below a guard tower, c. 1942–45.
     credit: Collection of Bunkado, Inc. Photo by Joshua White, image courtesy Collection of Bunkado, Inc.
     alt: A watchtower stands against the sky in the distance as several people paint on easels.
@@ -638,7 +638,7 @@ figure_list:
     label: "Fig. 3"
 
   - id: exrr-2024-18
-    src: figures/fpo/EXRR-2024-18.jpg
+    src: figures/EXRR-2024-18.jpg
     credit: Collection of Bunkado, Inc. Photo by Joshua White, image courtesy Collection of Bunkado, Inc.
     caption: Unknown photographer, Art students posing in front of a barn, c. 1942–45.
     alt: A group of people stand in front of a building in this black-and-white photo.
@@ -667,7 +667,7 @@ figure_list:
     alt: Clouds drop rain over rows of long, low buildings in this black-and-white drawing.
 
   - id: exrr-2024-22
-    src: figures/fpo/EXRR-2024-22.jpg
+    src: figures/EXRR-2024-22.jpg
     label: "Fig. 2"
     credit: "Watercolor on silk, framed: 20 7/8 x 24 7/8 in. Image courtesy of the Franklin D. Roosevelt Presidential Library and Museum, Hyde Park, NY. © Estate of Chiura Obata."
     caption: "Chiura Obata, *Moonlight Over Topaz, Utah*, 1942." 

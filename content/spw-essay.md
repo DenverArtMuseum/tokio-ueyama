@@ -1,5 +1,4 @@
 ---
-label: 
 title: Landscape as Existential Negotiation
 subtitle: (Re)Considering Paintings of Place in Japanese American Incarceration Camps
 layout: essay
