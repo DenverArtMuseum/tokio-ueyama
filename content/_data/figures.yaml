@@ -388,14 +388,14 @@ figure_list:
     src: figures/PTL-26162-1-15.jpg
     credit: Set of 15 polished stones. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, Hand-Polished Stones, 1943–44. 
-    alt: Three rows of colorful stones sit on a black tabletop.
+    alt: Three rows of colorful stones.
     label: Cat. 42
 
   - id: ptl-26162-1-15-zoom
     src: figures/PTL-26162-1-15-zoom.jpg
     credit: Set of 15 polished stones. Private collection. © Estate of Tokio Ueyama. Photo by Eric Stephenson, courtesy Denver Art Museum.
     caption: Tokio Ueyama, Hand-Polished Stones, 1943–44. 
-    alt: Three rows of colorful stones sit on a black tabletop.
+    alt: Three rows of colorful stones.
     label: Cat. 42
     zoom: true
 
@@ -499,13 +499,13 @@ figure_list:
   - id: ptl-26179
     src: figures/PTL-26179.jpg
     credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
-    caption: Tokio Ueyama, *Untitled (Stream and Trees)*, 1943–44. Drawing on paper, 12 1/2 × 18 in.
+    caption: Tokio Ueyama, *Untitled (Stream and Trees)*, 1943–44. Charcoal on paper, 12 1/2 × 18 in.
     alt: Leafless trees on an embankment overlook a winding path on the left and a fence on the right in this black-and-white drawing.
 
   - id: ptl-26179-zoom
     src: figures/PTL-26179-zoom.jpg
     credit: Private collection. © Estate of Tokio Ueyama. Photo by Bruce Fernandez, courtesy Denver Art Museum.
-    caption: Tokio Ueyama, *Untitled (Stream and Trees)*, 1943–44. Drawing on paper, 12 1/2 × 18 in.
+    caption: Tokio Ueyama, *Untitled (Stream and Trees)*, 1943–44. Charcoal on paper, 12 1/2 × 18 in.
     alt: Leafless trees on an embankment overlook a winding path on the left and a fence on the right in this black-and-white drawing.
     zoom: true
 
