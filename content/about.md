@@ -39,6 +39,5 @@ Developer: Matt Popke
 Development and Design: Darcy Christ
 Manager of Rights and Reproductions: Renée B. Miller
 Rights and Reproductions Assistant: Dzifah Danso
-Photographers: TK
 
 Cover page: Tokio Ueyama, *Desert Brush*, March 1945 (detail). Oil on canvas, 15 3/4 × 19 in. Courtesy Japanese American National Museum: Gift of Kayoko Tsukada, 92.20.5. © Estate of Tokio Ueyama.
