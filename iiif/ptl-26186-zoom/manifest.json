@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://denverartmuseum.github.io/tokio-ueyama/iiif/ptl-26186-zoom/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      null
+    ]
+  },
+  "items": [
+    {
+      "id": "https://denverartmuseum.github.io/tokio-ueyama/iiif/ptl-26186-zoom/canvas",
+      "type": "Canvas",
+      "height": 5000,
+      "width": 3279,
+      "items": [
+        {
+          "id": "https://denverartmuseum.github.io/tokio-ueyama/iiif/ptl-26186-zoom/canvas/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://denverartmuseum.github.io/tokio-ueyama/iiif/ptl-26186-zoom/canvas/PTL-26186-zoom",
+              "motivation": "painting",
+              "target": "https://denverartmuseum.github.io/tokio-ueyama/iiif/ptl-26186-zoom/canvas",
+              "type": "Annotation",
+              "body": {
+                "id": "https://denverartmuseum.github.io/tokio-ueyama/iiif/ptl-26186-zoom/PTL-26186-zoom/tiles/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5000,
+                "width": 3279,
+                "label": {
+                  "en": [
+                    "P T L-26186-zoom"
+                  ]
+                },
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://denverartmuseum.github.io/tokio-ueyama/iiif/ptl-26186-zoom/PTL-26186-zoom/tiles/info.json",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
