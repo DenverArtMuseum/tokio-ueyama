@@ -39,7 +39,13 @@ module.exports = function(eleventyConfig) {
 
     return html`
       ${resourceElement}
+    `
+
+    /*
+    return html`
+      ${resourceElement}
       ${otherFormatElement}
     `
+    */
   }
 }
