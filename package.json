@@ -45,7 +45,7 @@
     "#plugins/*": "./_plugins/*"
   },
   "dependencies": {
-    "bulma": "^1.0.1",
+    "bulma": "^0.9.3",
     "core-js": "2.5.0",
     "jquery": "^3.7.1",
     "lit": "^2.6.1",

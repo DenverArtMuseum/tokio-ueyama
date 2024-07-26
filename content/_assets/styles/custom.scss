@@ -1,15 +1,7 @@
-/* Theme Colors */
-:root {
-    --off-black: #311508;
-    --off-white: #f3f4ee;
-    --black-olive: rgba(63, 64, 47, 1);
-    --light-green: rgba(191, 185, 101, 1);
-    --dark-green: rgba(140, 136, 74, 1);
-    --limesicle: rgba(242, 239, 189, 1);
-    --gray15: rgba(38, 38, 38, 1);
-}
-
-
+@import "bulma/sass/utilities/initial-variables.sass";
+@import "colors";
+@import "variables";
+@import "utilities";
 
 /* @media screen and (min-width: 108rem) and (orientation: landscape) {
     html {
@@ -896,6 +888,7 @@ main.quire-page.quire-entry .quire-entry__content {
 #page-contents .quire-contents-list .section-item.level-0 > ol.table-of-contents-list {
     display: none;
 }
+#page-contents .quire-contents-list .page-item .separator,
 #page-contents .quire-contents-list .page-item.level-1 a {
     display: none !important;
     // color: red !important;
