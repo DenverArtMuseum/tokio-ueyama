@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://localhost:8080/iiif/ptl-26150-zoom/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Cat. 19"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://localhost:8080/iiif/ptl-26150-zoom/canvas",
+      "type": "Canvas",
+      "height": 3886,
+      "width": 4863,
+      "items": [
+        {
+          "id": "https://localhost:8080/iiif/ptl-26150-zoom/canvas/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://localhost:8080/iiif/ptl-26150-zoom/canvas/PTL-26150-zoom",
+              "motivation": "painting",
+              "target": "https://localhost:8080/iiif/ptl-26150-zoom/canvas",
+              "type": "Annotation",
+              "body": {
+                "id": "https://localhost:8080/iiif/ptl-26150-zoom/PTL-26150-zoom/tiles/info.json",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3886,
+                "width": 4863,
+                "label": {
+                  "en": [
+                    "Cat. 19"
+                  ]
+                },
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://localhost:8080/iiif/ptl-26150-zoom/PTL-26150-zoom/tiles/info.json",
+                    "profile": "level0",
+                    "protocol": "http://iiif.io/api/image"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
