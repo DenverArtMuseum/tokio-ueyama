@@ -59,7 +59,7 @@ $print-trim: $print-bleed * 2;
 
   @page:left:first {
     @bottom-right {
-      content: none;
+      content: string(pagetitle);
     }
   }
 
