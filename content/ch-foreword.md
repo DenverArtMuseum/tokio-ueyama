@@ -3,7 +3,7 @@ label:
 title: Director's Foreword
 subtitle:
 layout: essay
-order: 3
+order: 4
 contributor:
   - id: cheinrich  
 abstract:
