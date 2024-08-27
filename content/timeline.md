@@ -17,6 +17,8 @@ order: 90
 
 </div>
 
+<div>
+
 ## 1889–1908, Early Life {#early-life}
 
 Tokio Ueyama is born on September 22, 1889, in Toyajo, Wakayama Prefecture, to parents Sojuro and Hamaye Nakai Ueyama. His Japanese education includes Toyajyo Elementary School, Taikuy Junior High School, Prefecture High School, and Eastlake English School. While studying at Eastlake, he works for the design department of the Imperial Japanese Army General Staff Office in Tokyo.[^1]
@@ -24,6 +26,10 @@ Tokio Ueyama is born on September 22, 1889, in Toyajo, Wakayama Prefecture, to p
 In April 1908, a nearly eleven-year-old Suyeko "Suye" Tsukada (1897–1969) leaves Japan on the ship *Iyo Maru* with her father, Tomojiro Tsukada, and mother, Hana Uyeda Tsukada, and arrives in Seattle on April 17.[^2] (Twenty years later, Suye marries Tokio in California.)
 
 Ueyama arrives at Seattle, Washington, on May 7, 1908, after sailing from Yokohama on the ship *Kaga Maru*.[^3]
+
+</div>
+
+<div>
 
 ## 1909–21, American Art Education {#art-education}
 
@@ -58,6 +64,10 @@ On July 8, 1920, Ueyama leaves New York City on the ship *Canopic* headed to Eur
 The <em>Canopic</em> makes a brief stop at the Azores, then carries on to Gibraltar, where Ueyama stays for multiple days and takes a short excursion north into Spain. The ship then carries on to Naples, where he disembarks and stays for more than a week, taking excursions to Capri and Pompei. From Naples, Ueyama travels by train to Rome, where he stays for over a week. From Rome, he takes the train to Florence, where he stays for more than a week, before moving to Venice for several days. From there, he travels to Milan, Genoa, Nice, and Marseille, staying multiple days at each and making shorter stops in Ventimiglia and Monte Carlo. From Marseille, he takes a train to Paris, where he stays more than a week. From Paris, he takes a train to Le Havre and embarks on the SS *France* on September 26, arriving in New York on October 4.[^12]
 
 Ueyama completes his studies at PAFA in 1921.
+
+</div>
+
+<div>
 
 ## 1922–41, California, Oregon, Mexico, and Japan {#comj}
 
@@ -173,6 +183,10 @@ On August 31, 1941, Ueyama writes in his diary that he has quit working for Bunr
 
 On December 7, 1941, Japan attacks Pearl Harbor. In response, the US joins World War II.
 
+</div>
+
+<div>
+
 ## 1942–45, World War II and Amache {#amache}
 
 On February 19, 1942, President Franklin D. Roosevelt signs Executive Order 9066, allowing for the mass incarceration of over 120,000 Japanese Americans living on the West Coast during WWII without trial or hearings.[^55]
@@ -204,6 +218,10 @@ On June 11, 1945, the Ueyamas leave Amache.[^67]
 On August 31, 1945, Ueyama receives permission to travel to the Manzanar Relocation Center, California. He departs Los Angeles on September 4 and returns on September 20.[^68]
 
 The last residents leave Amache on October 15, 1945.[^69]
+
+</div>
+
+<div>
 
 ## 1946–69, Los Angeles {#los-angeles}
 
@@ -388,3 +406,5 @@ On March 12, 1969, Suye Ueyama dies, aged seventy-one, in Los Angeles.
 [^74]: See catalog in Collection of Bunkado, Inc.; and undated clipping, “Attn: Nisei artists,” scrapbook, Collection of Bunkado, Inc.
 
 [^75]: See catalog in Collection of Bunkado, Inc.
+
+</div>

@@ -2,8 +2,6 @@
 title: About
 layout: page
 order: 300
-outputs:
-  - html
 ---
 
 This catalog is published in conjunction with *The Life and Art of Tokio Ueyama*, organized by the Denver Art Museum, on view July 28, 2024–June 1, 2025.

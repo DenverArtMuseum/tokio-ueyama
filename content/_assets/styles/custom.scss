@@ -1266,6 +1266,7 @@ tr.year-property, tr.medium-property{
         bottom: 20%;
         padding: 40px;
     }
+    .quire-cover__hero h1.quire-page__header__title,
     .quire-cover__hero .title {
         page-break-before: avoid;
     }
@@ -1371,6 +1372,38 @@ tr.year-property, tr.medium-property{
     }
     .quire-contents-list.grid .menu-list ol .page-item a::after {
         display: none;
+    }
+
+    // section {
+    //     -webkit-column-break-inside:avoid;
+    //     -moz-column-break-inside:avoid;
+    //     -o-column-break-inside:avoid;
+    //     -ms-column-break-inside:avoid;
+    //     column-break-inside:avoid;
+    // }
+
+    section.footnotes .footnote-item a {
+        /* These are technically the same, but use both */
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+
+        -ms-word-break: break-all;
+        /* This is the dangerous one in WebKit, as it breaks things wherever */
+        word-break: break-all;
+        /* Instead use this non-standard one: */
+        word-break: break-word;
+    }
+
+    .quire-page__content .container .content > figure:first-child {
+      margin-top: 0;
+    }
+
+    #page-timeline .quire-page__content .container .content h2 {
+        padding: 0.5rem 0 0.75rem 0.5rem;
+    }
+    #page-timeline .quire-page__content .container .content div {
+        -webkit-column-break-after: avoid; 	
+        break-after: avoid-column;
     }
 
 }

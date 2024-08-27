@@ -3,9 +3,7 @@ layout: page
 order: 8
 classes:
   - copyright-page
-outputs:
-  - epub
-  - pdf
+outputs: none
 toc: false
 ---
 

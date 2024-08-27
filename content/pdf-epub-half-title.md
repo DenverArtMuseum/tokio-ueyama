@@ -2,7 +2,7 @@
 layout: base.11ty.js
 classes:
   - half-title-page
-order: 7
+order: 2
 outputs:
   - epub
   - pdf
