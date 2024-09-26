@@ -5,6 +5,7 @@ _site/
 _site/*
 _temp/
 public/
+.11ty-vite/
 
 # EleventFetch cache directory
 .cache
