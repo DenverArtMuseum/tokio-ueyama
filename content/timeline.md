@@ -21,7 +21,7 @@ order: 90
 
 ## 1889–1908, Early Life {#early-life}
 
-Tokio Ueyama is born on September 22, 1889, in Toyajo, Wakayama Prefecture, to parents Sojuro and Hamaye Nakai Ueyama. His Japanese education includes Toyajyo Elementary School, Taikuy Junior High School, Prefecture High School, and Eastlake English School. While studying at Eastlake, he works for the design department of the Imperial Japanese Army General Staff Office in Tokyo.[^1]
+Tokio Ueyama is born on September 22, 1889, in Toyajo, Wakayama Prefecture, to parents Sojuro and Hamaye Nakai Ueyama. His Japanese education includes Toyajo Elementary School, Taikuy Junior High School, Prefecture High School, and Eastlake English School. While studying at Eastlake, he works for the design department of the Imperial Japanese Army General Staff Office in Tokyo.[^1]
 
 In April 1908, a nearly eleven-year-old Suyeko "Suye" Tsukada (1897–1969) leaves Japan on the ship *Iyo Maru* with her father, Tomojiro Tsukada, and mother, Hana Uyeda Tsukada, and arrives in Seattle on April 17.[^2] (Twenty years later, Suye marries Tokio in California.)
 
